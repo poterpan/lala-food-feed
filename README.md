@@ -1,4 +1,4 @@
-# threads-food-feed
+# lala-food-feed
 
 Automatically generated food-venue data derived from the public Threads posts and replies of
 [@zeke_6973](https://www.threads.com/@zeke_6973) (拉拉熊), produced by a private pipeline
