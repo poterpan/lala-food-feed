@@ -94,12 +94,13 @@
   "brand": "胖老爹",
   "names_in_threads": {
    "胖老爹": 24,
-   "胖老爹55台": 1
+   "胖老爹55台": 1,
+   "胖老爹炸雞": 1
   },
   "stance": {
    "other_user:question": 1,
    "author:mention": 3,
-   "other_user:recommend": 10,
+   "other_user:recommend": 11,
    "author:recommend": 9,
    "other_user:negative": 1,
    "other_user:mention": 1
@@ -119,9 +120,10 @@
   "saved_branch_cids": [],
   "first_seen": "2026-09-18T01:16:40Z",
   "last_seen": "2026-11-26T01:40:03Z",
-  "mentions": 25,
+  "mentions": 26,
   "sources": [
    "https://www.threads.com/@angelliau0821/post/De6j1YkE_3E",
+   "https://www.threads.com/@bubblebuddy.com.tw/post/DfPKC36mcEK",
    "https://www.threads.com/@colinkao/post/DeHjeLDn3Sp",
    "https://www.threads.com/@e569874123e6906/post/DeHVV8Hkrqg",
    "https://www.threads.com/@kssk_1025/post/De46KNOkyMf",
@@ -931,6 +933,31 @@
   ]
  },
  {
+  "brand": "鼎王",
+  "names_in_threads": {
+   "鼎王": 5
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "other_user:mention": 2,
+   "author:mention": 1
+  },
+  "experience": "planned",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-14T19:18:46Z",
+  "last_seen": "2026-10-25T14:15:24Z",
+  "mentions": 5,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/De65jiTjxbi",
+   "https://www.threads.com/@zeke_6973/post/DefHh1mAfjL",
+   "https://www.threads.com/@zeke_6973/post/DefHuougf8d",
+   "https://www.threads.com/@zeke_6973/post/DefIASIASFr",
+   "https://www.threads.com/@zeke_6973/post/DefIzmFAci5"
+  ]
+ },
+ {
   "brand": "鬍鬚張",
   "names_in_threads": {
    "鬍鬚張": 3,
@@ -1079,29 +1106,6 @@
    "https://www.threads.com/@hou_jing_/post/Dew7HaiEuDS",
    "https://www.threads.com/@shining0531/post/DexlUX6knBp",
    "https://www.threads.com/@zeke_6973/post/DewxMvjASA8"
-  ]
- },
- {
-  "brand": "鼎王",
-  "names_in_threads": {
-   "鼎王": 4
-  },
-  "stance": {
-   "other_user:recommend": 2,
-   "other_user:mention": 2
-  },
-  "experience": "planned",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-14T19:18:46Z",
-  "last_seen": "2026-10-14T19:29:55Z",
-  "mentions": 4,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DefHh1mAfjL",
-   "https://www.threads.com/@zeke_6973/post/DefHuougf8d",
-   "https://www.threads.com/@zeke_6973/post/DefIASIASFr",
-   "https://www.threads.com/@zeke_6973/post/DefIzmFAci5"
   ]
  },
  {
@@ -1973,6 +1977,26 @@
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DgNFw5eIPyq",
    "https://www.threads.com/@zeke_6973/post/DgNK5g_IFCJ"
+  ]
+ },
+ {
+  "brand": "茶之魔手",
+  "names_in_threads": {
+   "茶之魔手": 2
+  },
+  "stance": {
+   "other_user:recommend": 2
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-24T11:44:41Z",
+  "last_seen": "2026-11-24T17:25:50Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@ninipan5553/post/DgH4J9vE9hw",
+   "https://www.threads.com/@weendy5300/post/DgIfMpgmVJJ"
   ]
  },
  {
@@ -4813,6 +4837,25 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@sandie830/post/Ddd-a7rn8-Z"
+  ]
+ },
+ {
+  "brand": "協力旺雞排",
+  "names_in_threads": {
+   "協力旺雞排": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-18T12:44:08Z",
+  "last_seen": "2026-09-18T12:44:08Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@klpou/post/DdbdsuUCQ8Y"
   ]
  },
  {

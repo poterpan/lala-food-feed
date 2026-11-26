@@ -3,7 +3,7 @@
 從拉拉熊（[@zeke_6973](https://www.threads.com/@zeke_6973)）的 Threads 貼文、留言與收藏清單自動整理的店家資料。
 
 - 說明頁：https://poterpan.github.io/lala-food-feed/
-- 最後更新：2026-11-27 04:13（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
+- 最後更新：2026-11-27 04:52（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
 
 ## v1：標準格式（推薦）
 
@@ -42,8 +42,8 @@
 | `author.saved / saved_at / saved_note` | 是否在拉拉熊分享的任一 Google 地圖清單、加入時間（Unix 秒）、他在清單上的備註 |
 | `author.lists` | 在哪幾份清單：id、title、meaning（saved＝收藏；recommended＝他說平常會去吃，算吃過且推薦） |
 | `basis` | 依據：threads（Threads 上有提到）、saved_list（在收藏清單） |
-| `tier` | 分級：author_visited 拉拉熊吃過 › author_endorsed 拉拉熊推薦 › community_recommended 網友推薦 › author_saved 只在他的清單 › mentioned 只被提到 |
-| `community` | 網友推薦：推薦次數、推薦人數（不同網友，不公開帳號）、拉拉熊的反應（visited/planned/not_yet/unknown）、是否他自己發問、網友推薦的品項 |
+| `tier` | 分級：author_visited 拉拉熊吃過 › author_endorsed 拉拉熊推薦 › community_recommended 網友推薦（推薦多於差評）› author_saved 只在他的清單 › mentioned 只被提到 |
+| `community` | 網友推薦：推薦次數、推薦人數（不同網友，不公開帳號）、拉拉熊的反應（visited/planned/not_yet/unknown）、是否他自己發問、網友推薦的品項、差評次數（negative）。拉拉熊沒提過、只有網友差評的店不收錄 |
 | `names_in_threads` | Threads 上出現過的寫法與次數 |
 | `stance` | 誰說了什麼：author:* 是拉拉熊，other_user:* 是網友 |
 | `items / quotes` | 必點品項、拉拉熊原話（逐字、已對照原文，附連結） |
