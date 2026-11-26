@@ -3,13 +3,14 @@
 從拉拉熊（[@zeke_6973](https://www.threads.com/@zeke_6973)）的 Threads 貼文與留言自動整理的店家資料，給 [lala-food](https://github.com/2xin15/lala-food) 使用。
 
 - 說明頁：https://poterpan.github.io/lala-food-feed/
-- 最後更新：2026-11-26 23:00（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
+- 最後更新：2026-11-26 23:09（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
 
 ## 端點
 
 | 網址 | 內容 |
 |---|---|
 | [`venues.json`](https://poterpan.github.io/lala-food-feed/venues.json) | 主要產出。每家店的名稱、地址、座標、CID，加上拉拉熊吃過沒、推不推、Threads 原文連結 |
+| [`brands.json`](https://poterpan.github.io/lala-food-feed/brands.json) | 連鎖品牌層級的推薦：拉拉熊推了某個品牌但沒講哪間分店（例如迷客夏、烏弄），附必點、原話心得與已知分店 CID |
 | [`meta.json`](https://poterpan.github.io/lala-food-feed/meta.json) | 這一版的產生時間、各檔案筆數、因條件不足沒收錄的店家數與原因 |
 | [`lala/extra.json`](https://poterpan.github.io/lala-food-feed/lala/extra.json) | 與 lala-food 的 extra.json 同格式：visited_from_wish、visited_add |
 | [`lala/notes.json`](https://poterpan.github.io/lala-food-feed/lala/notes.json) | 與 lala-food 的 notes.json 同格式：必點品項 items、拉拉熊原話心得 comment |

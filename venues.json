@@ -206,39 +206,6 @@
   ]
  },
  {
-  "cid": "16341536244857936202",
-  "place_id": "ChIJNTMDSnOrQjQRSpntLqLMyOI",
-  "name": "十一香牛肉麵（景美店）",
-  "addr": "臺北市文山區景華里景美街5巷2之1號",
-  "city": "台北市",
-  "lat": 24.993245,
-  "lng": 121.541764,
-  "names_in_threads": {
-   "十一香": 6,
-   "十一香牛肉麵": 1
-  },
-  "stance": {
-   "author:recommend": 4,
-   "other_user:question": 1,
-   "author:mention": 1,
-   "other_user:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "in_lala_visited": true,
-  "in_lala_wish": false,
-  "first_seen": "2026-10-01T06:18:37Z",
-  "last_seen": "2026-11-24T12:42:44Z",
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dd8P6hLoCDe",
-   "https://www.threads.com/@zeke_6973/post/Dd_WEeWAQHm",
-   "https://www.threads.com/@zeke_6973/post/DeHdOKqAaUw",
-   "https://www.threads.com/@zeke_6973/post/DfEObM2ID6l",
-   "https://www.threads.com/@zeke_6973/post/DfEPZk4IGxq",
-   "https://www.threads.com/@zeke_6973/post/DgH-zLCILLU"
-  ]
- },
- {
   "cid": "1247454145355116465",
   "place_id": null,
   "name": "霸味薑母鴨",
@@ -1613,31 +1580,6 @@
   ]
  },
  {
-  "cid": "6057952086439710612",
-  "place_id": "ChIJU7TNDTypQjQRlE-TglMrElQ",
-  "name": "頂呱呱",
-  "addr": "新北市板橋區新民里縣民大道二段7號",
-  "city": "新北市",
-  "lat": 25.014398,
-  "lng": 121.463492,
-  "names_in_threads": {
-   "頂呱呱": 2
-  },
-  "stance": {
-   "other_user:recommend": 2
-  },
-  "experience": "planned",
-  "author_recommends": false,
-  "in_lala_visited": false,
-  "in_lala_wish": false,
-  "first_seen": "2026-09-17T14:10:38Z",
-  "last_seen": "2026-11-08T05:38:08Z",
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdZCzbZAUtp",
-   "https://www.threads.com/@zeke_6973/post/DfeBfMSoJf8"
-  ]
- },
- {
   "cid": "1281049586066355672",
   "place_id": "ChIJyR92TxqpQjQR2HUlrc8zxxE",
   "name": "一碗甜一碗鹹 三重店-手工豆花 關東煮專門店（臨時店休公告於IG)",
@@ -1862,31 +1804,6 @@
   "last_seen": "2026-09-17T15:43:45Z",
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DdZNdc-gc_5"
-  ]
- },
- {
-  "cid": "2759095106396404893",
-  "place_id": "ChIJY0-dWQADaDQRnbxGhmFGSiY",
-  "name": "Subway",
-  "addr": "新北市土城區裕民路101號",
-  "city": "新北市",
-  "lat": 24.986962,
-  "lng": 121.450859,
-  "names_in_threads": {
-   "subway": 2
-  },
-  "stance": {
-   "other_user:recommend": 1,
-   "author:mention": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "in_lala_visited": false,
-  "in_lala_wish": false,
-  "first_seen": "2026-09-17T14:03:55Z",
-  "last_seen": "2026-09-17T14:03:55Z",
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdZCCRXgf-W"
   ]
  },
  {
@@ -2172,6 +2089,33 @@
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DfFljkBAfyF",
    "https://www.threads.com/@zeke_6973/post/DfMR80XIN-C"
+  ]
+ },
+ {
+  "cid": "16341536244857936202",
+  "place_id": "ChIJNTMDSnOrQjQRSpntLqLMyOI",
+  "name": "十一香牛肉麵（景美店）",
+  "addr": "臺北市文山區景華里景美街5巷2之1號",
+  "city": "台北市",
+  "lat": 24.993245,
+  "lng": 121.541764,
+  "names_in_threads": {
+   "十一香": 1,
+   "十一香牛肉麵": 1
+  },
+  "stance": {
+   "author:recommend": 1,
+   "other_user:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "in_lala_visited": true,
+  "in_lala_wish": false,
+  "first_seen": "2026-10-05T14:46:33Z",
+  "last_seen": "2026-10-29T05:19:26Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DeHdOKqAaUw",
+   "https://www.threads.com/@zeke_6973/post/DfEPZk4IGxq"
   ]
  },
  {
@@ -6855,6 +6799,30 @@
   },
   "experience": "visited",
   "author_recommends": true,
+  "in_lala_visited": false,
+  "in_lala_wish": false,
+  "first_seen": "2026-09-17T04:56:39Z",
+  "last_seen": "2026-09-17T04:56:39Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DdYDZ8LIId9"
+  ]
+ },
+ {
+  "cid": "18079000147990731133",
+  "place_id": "ChIJn7e6920BaDQRfdk4E9mC5fo",
+  "name": "天仁茗茶 天仁釀茶所 誠品裕隆城店",
+  "addr": "新北市新店區寶福里中興路三段70號B1",
+  "city": "新北市",
+  "lat": 24.977799,
+  "lng": 121.546604,
+  "names_in_threads": {
+   "天仁釀茶所": 1
+  },
+  "stance": {
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
   "in_lala_visited": false,
   "in_lala_wish": false,
   "first_seen": "2026-09-17T04:56:39Z",

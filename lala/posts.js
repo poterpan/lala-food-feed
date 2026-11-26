@@ -614,6 +614,13 @@ window.LALA_POSTS = {
    "text": "我发现台湾的每一家炸鸡店都很好吃…"
   }
  ],
+ "18079000147990731133": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DdYDZ8LIId9",
+   "date": "2026-09-17",
+   "text": "我发现台湾的每一家炸鸡店都很好吃…"
+  }
+ ],
  "7069709407452044071": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DdWH46gAaC8",
