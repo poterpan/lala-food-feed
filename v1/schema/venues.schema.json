@@ -81,6 +81,29 @@
        "string",
        "null"
       ]
+     },
+     "lists": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "id": {
+         "type": "string"
+        },
+        "title": {
+         "type": [
+          "string",
+          "null"
+         ]
+        },
+        "meaning": {
+         "enum": [
+          "saved",
+          "recommended"
+         ]
+        }
+       }
+      }
      }
     }
    },

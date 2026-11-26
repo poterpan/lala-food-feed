@@ -3,7 +3,7 @@
 從拉拉熊（[@zeke_6973](https://www.threads.com/@zeke_6973)）的 Threads 貼文、留言與收藏清單自動整理的店家資料。
 
 - 說明頁：https://poterpan.github.io/lala-food-feed/
-- 最後更新：2026-11-26 23:54（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
+- 最後更新：2026-11-27 01:30（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
 
 ## v1：標準格式（推薦）
 
@@ -38,7 +38,8 @@
 | `brand` | 所屬連鎖品牌（不是連鎖則為 null） |
 | `author.visited` | 拉拉熊說過或照片顯示他吃過 |
 | `author.recommends` | 拉拉熊本人的推薦多於負評為 true，相反為 false，沒表態為 null |
-| `author.saved / saved_at / saved_note` | 是否在拉拉熊的收藏清單、收藏時間（Unix 秒）、他在清單上的備註 |
+| `author.saved / saved_at / saved_note` | 是否在拉拉熊分享的任一 Google 地圖清單、加入時間（Unix 秒）、他在清單上的備註 |
+| `author.lists` | 在哪幾份清單：id、title、meaning（saved＝收藏；recommended＝他說平常會去吃，算吃過且推薦） |
 | `basis` | 依據：threads（Threads 上有提到）、saved_list（在收藏清單） |
 | `names_in_threads` | Threads 上出現過的寫法與次數 |
 | `stance` | 誰說了什麼：author:* 是拉拉熊，other_user:* 是網友 |

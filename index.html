@@ -10,8 +10,8 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 </style></head><body>
 <h1>lala-food-feed</h1>
 <p class="sub">從拉拉熊（<a href="https://www.threads.com/@zeke_6973">@zeke_6973</a>）的 Threads 貼文、留言與收藏清單自動整理的店家資料。</p>
-<p>最後更新：<b>2026-11-26 23:54（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式：<code>lala-food-feed/v1</code></p>
-<div class="stats"><span>店家 <b>434</b></span><span>拉拉熊吃過 <b>90</b></span><span>拉拉熊推薦 <b>74</b></span><span>拉拉熊收藏 <b>248</b></span><span>連鎖品牌 <b>181</b></span><span>美食貼文 <b>54</b></span></div>
+<p>最後更新：<b>2026-11-27 01:30（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式：<code>lala-food-feed/v1</code></p>
+<div class="stats"><span>店家 <b>445</b></span><span>拉拉熊吃過 <b>91</b></span><span>拉拉熊推薦 <b>77</b></span><span>拉拉熊收藏 <b>264</b></span><span>連鎖品牌 <b>148</b></span><span>美食貼文 <b>43</b></span></div>
 
 <h2>v1：標準格式（推薦）</h2>
 <p>自給自足，只依據拉拉熊的 Threads 與他的收藏清單，不依賴任何其他網站的資料。</p>
@@ -44,7 +44,8 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 <tr><td><code>brand</code></td><td>所屬連鎖品牌（不是連鎖則為 null）</td></tr>
 <tr><td><code>author.visited</code></td><td>拉拉熊說過或照片顯示他吃過</td></tr>
 <tr><td><code>author.recommends</code></td><td>拉拉熊本人的推薦多於負評為 true，相反為 false，沒表態為 null</td></tr>
-<tr><td><code>author.saved / saved_at / saved_note</code></td><td>是否在拉拉熊的收藏清單、收藏時間（Unix 秒）、他在清單上的備註</td></tr>
+<tr><td><code>author.saved / saved_at / saved_note</code></td><td>是否在拉拉熊分享的任一 Google 地圖清單、加入時間（Unix 秒）、他在清單上的備註</td></tr>
+<tr><td><code>author.lists</code></td><td>在哪幾份清單：id、title、meaning（saved＝收藏；recommended＝他說平常會去吃，算吃過且推薦）</td></tr>
 <tr><td><code>basis</code></td><td>依據：threads（Threads 上有提到）、saved_list（在收藏清單）</td></tr>
 <tr><td><code>names_in_threads</code></td><td>Threads 上出現過的寫法與次數</td></tr>
 <tr><td><code>stance</code></td><td>誰說了什麼：author:* 是拉拉熊，other_user:* 是網友</td></tr>
@@ -55,6 +56,6 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 
 <h2>資料怎麼來的</h2>
 <p>每次更新會抓拉拉熊的新貼文與回覆，用 LLM 從文字、照片、留言裡的「這是哪家？」問答認出店家，再對應到 Google 地圖的店家（CID）。
-Threads 上的店只收錄有把握的結果；這一版因條件不足沒收錄的：連鎖店無分店證據 6 家、店名對不上 46 家、只有待審核的提及 23 家、泛稱或地名 6 家。收藏清單直接來自拉拉熊本人分享的 Google 地圖清單。</p>
+Threads 上的店只收錄有把握的結果；這一版因條件不足沒收錄的：店名對不上 69 家、只有待審核的提及 25 家、泛稱或地名 4 家。收藏清單直接來自拉拉熊本人分享的 Google 地圖清單。</p>
 <p>每一筆 Threads 證據都附原文連結，可以逐筆檢查。<a href="https://github.com/poterpan/lala-food-feed">GitHub repo</a></p>
 </body></html>
