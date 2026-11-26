@@ -38,11 +38,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Dfy1lKFoNwk",
    "date": "2026-11-16",
    "text": "momoparadise是我来台湾吃的最爽的吃到饱\n因为2点多才进去他们3点就要歇业\n服务员小姐直接给我安排5大盘肉XD\n后面我说想要更多又给我4大盘！\n爽吃一大堆蛋白质和蔬菜只要500多🤣\n感觉比我之前吃的同价位烤肉品质好太多…"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgAR1N7oLOv",
-   "date": "2026-11-21",
-   "text": "确实比momo好吃"
   }
  ],
  "2439518397661521961": [
@@ -177,11 +172,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfEPZk4IGxq",
    "date": "2026-10-29",
    "text": "十一香，在景美捷运2号口旁边"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Dd8P6hLoCDe",
-   "date": "2026-10-01",
-   "text": "我找到我的一生挚爱牛肉面了。。"
   }
  ],
  "9335746091659585931": [
@@ -231,16 +221,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DetkdHEIEno",
    "date": "2026-10-20",
    "text": "从1430到1730，终于吃到了大名鼎鼎的伊禾白汤！\n只能说名不虚传而且老板服务特别好\n搭配的沙茶酱有一种巧克力的神奇味道\n面是卷卷面很有麦子的香气\n汤底咸淡还会在制作之前给你品尝确认\n配餐的坚果奶酪也超好吃，巴旦木味很浓郁🤤\n下次还会来吃！"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DerrZ3QAYn5",
-   "date": "2026-10-19",
-   "text": "明天我准备去抢号伊禾白汤，谁知道要怎么抢号呀？我想吃晚上的是不是13:00左右到可以？🤤😭"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DetAkxRoOhs",
-   "date": "2026-10-20",
-   "text": "希望今天伊禾白汤没有很多人吃，我要先去吃shinn，买杯手摇饮，去排队晚上的"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/DetQdscoMTu",
@@ -354,11 +334,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfCD56KILdc",
    "date": "2026-10-28",
    "text": "以后我就专挑那种有3个以上人推荐的店去吃\n真的好吃到五体投地，想拜师学艺\n不愧是黄仁勋爱店XD"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfAWf2_gYxU",
-   "date": "2026-10-27",
-   "text": "台北有没有好吃的猪脚饭之类的\n好想吃大米饭\n但是不要卤肉饭（因为吃太多了）"
   }
  ],
  "10316514710429371839": [
@@ -387,37 +362,11 @@ window.LALA_POSTS = {
    "text": "忘记谁给我推荐的了，我要给你跪了，巨好吃\n调味是那种椒麻风味的，牛肉超软烂，面非常有嚼劲…\n而且只要140台？！加了溏心蛋"
   }
  ],
- "11222846829073344401": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Df7eSYngfc4",
-   "date": "2026-11-19",
-   "text": "感冒鼻子塞了很烦\n感觉现在去吃好料很亏\n我根本闻不到味道了"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgAR1N7oLOv",
-   "date": "2026-11-21",
-   "text": "确实比momo好吃"
-  }
- ],
- "1247454145355116465": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgNMax_IBkh",
-   "date": "2026-11-26",
-   "text": "姜母鸭好好吃\n感觉吃的我感冒都彻底好了▓"
-  }
- ],
  "694526374424343264": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/Df9vCIUIAG9",
    "date": "2026-11-20",
    "text": "这家鹅肉香的呀，超级好吃…🤤\n是烟熏风味的（也可以选白切）\n油脂很丰富，肉特别嫩…\n就是要排队，你们要来的话记得早点来吧！"
-  }
- ],
- "11545651800171637844": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Ddy9eHQAeU3",
-   "date": "2026-09-27",
-   "text": "花莲的食物怎么这么便宜又好吃的\n一个皮蛋麻酱拌面+一个卤肉鸡肉饭加大版才160台币\n我现在对台北的物价有清晰的感知了…"
   }
  ],
  "15718881600920456155": [
@@ -481,20 +430,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfOrnMsoNPR",
    "date": "2026-11-02",
    "text": "오빠 정신 차려!\n千里迢迢赶来结果店休了XD"
-  }
- ],
- "15338468298515431934": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/De93gVWgb_-",
-   "date": "2026-10-26",
-   "text": "店小二卤肉饭真的很好吃吗\n我今天去新北的那家店\n下午3点还要至少15个人在排内用\n我就只能灰溜溜地走了"
-  }
- ],
- "14854926449067013560": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DerrZ3QAYn5",
-   "date": "2026-10-19",
-   "text": "明天我准备去抢号伊禾白汤，谁知道要怎么抢号呀？我想吃晚上的是不是13:00左右到可以？🤤😭"
   }
  ],
  "3482488932888708341": [

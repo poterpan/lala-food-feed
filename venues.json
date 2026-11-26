@@ -1317,7 +1317,7 @@
    "author:question": 1,
    "author:mention": 1
   },
-  "experience": "visited",
+  "experience": "not_yet",
   "author_recommends": false,
   "in_lala_visited": false,
   "in_lala_wish": false,
@@ -1753,7 +1753,7 @@
    "other_user:recommend": 1,
    "author:recommend": 1
   },
-  "experience": "visited",
+  "experience": "unknown",
   "author_recommends": true,
   "in_lala_visited": false,
   "in_lala_wish": false,
