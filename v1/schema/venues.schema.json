@@ -164,6 +164,12 @@
      "type": "string"
     }
    },
+   "related_post_urls": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
    "first_seen": {
     "type": [
      "string",

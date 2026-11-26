@@ -3,7 +3,7 @@
 從拉拉熊（[@zeke_6973](https://www.threads.com/@zeke_6973)）的 Threads 貼文、留言與收藏清單自動整理的店家資料。
 
 - 說明頁：https://poterpan.github.io/lala-food-feed/
-- 最後更新：2026-11-27 03:13（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
+- 最後更新：2026-11-27 04:05（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
 
 ## v1：標準格式（推薦）
 
@@ -13,7 +13,7 @@
 | [`v1/recommendations.json`](https://poterpan.github.io/lala-food-feed/v1/recommendations.json) | 社群推薦：網友推薦給拉拉熊、他還沒吃過的店，依推薦人數與他的反應（想去、記下來）排序 |
 | [`v1/brands.json`](https://poterpan.github.io/lala-food-feed/v1/brands.json) | 連鎖品牌層級的推薦（拉拉熊推了某品牌但沒說哪間分店），附必點、原話、已知分店 |
 | [`v1/evidence.json`](https://poterpan.github.io/lala-food-feed/v1/evidence.json) | 每一條證據：哪家店或品牌、拉拉熊或網友、立場、拉拉熊原話（逐字）、原文連結、日期 |
-| [`v1/posts.json`](https://poterpan.github.io/lala-food-feed/v1/posts.json) | 拉拉熊的美食貼文，以及每篇介紹了哪些店（venue_ids） |
+| [`v1/posts.json`](https://poterpan.github.io/lala-food-feed/v1/posts.json) | 拉拉熊提到店家的每篇貼文與回覆，以及各自連到哪些店（venue_ids；正式介紹的店在 about_venue_ids） |
 | [`v1/meta.json`](https://poterpan.github.io/lala-food-feed/v1/meta.json) | 產生時間、各項數量、因條件不足沒收錄的店與原因 |
 | [`v1/schema/`](https://poterpan.github.io/lala-food-feed/v1/schema/) | 以上檔案的 JSON Schema |
 
@@ -47,5 +47,6 @@
 | `names_in_threads` | Threads 上出現過的寫法與次數 |
 | `stance` | 誰說了什麼：author:* 是拉拉熊，other_user:* 是網友 |
 | `items / quotes` | 必點品項、拉拉熊原話（逐字、已對照原文，附連結） |
-| `post_urls` | 拉拉熊介紹這家店的貼文 |
+| `post_urls` | 拉拉熊正式介紹這家店的貼文（lala/posts.js 用這個） |
+| `related_post_urls` | 所有跟這家店有關的拉拉熊貼文／回覆，包含只有網友在他串底下提到的情況 |
 | `first_seen / last_seen / sources` | Threads 上第一次與最後一次提到的時間、所有原文連結 |

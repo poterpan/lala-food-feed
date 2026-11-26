@@ -12,16 +12,58 @@
    "url": {
     "type": "string"
    },
+   "type": {
+    "enum": [
+     "post",
+     "reply",
+     "quote",
+     "repost"
+    ]
+   },
    "date": {
     "type": "string"
    },
    "text": {
     "type": "string"
    },
+   "thread_url": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
    "venue_ids": {
     "type": "array",
     "items": {
      "type": "string"
+    }
+   },
+   "about_venue_ids": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "venues": {
+    "type": "array",
+    "items": {
+     "type": "object",
+     "required": [
+      "id",
+      "relation"
+     ],
+     "properties": {
+      "id": {
+       "type": "string"
+      },
+      "relation": {
+       "enum": [
+        "about",
+        "mention",
+        "thread"
+       ]
+      }
+     }
     }
    }
   }

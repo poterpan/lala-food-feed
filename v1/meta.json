@@ -1,6 +1,6 @@
 {
  "schema": "lala-food-feed/v1",
- "generated_at": "2026-11-26T19:13:52+00:00",
+ "generated_at": "2026-11-26T20:05:43+00:00",
  "source_account": "zeke_6973",
  "counts": {
   "venues": 522,
@@ -12,7 +12,9 @@
   "author_listed_recommended": 16,
   "brands": 176,
   "evidence": 1134,
-  "posts": 71,
+  "posts": 407,
+  "posts_about": 71,
+  "venues_from_threads_without_post": 0,
   "recommendations": 125,
   "by_tier": {
    "author_endorsed": 21,
