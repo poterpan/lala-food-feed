@@ -55,6 +55,11 @@ window.LALA_POSTS = {
    "text": "而且服务员小姐/小哥1小时内至少5次来问我要不要加蔬菜/肉，之前也有看到说这家服务不好，感觉好像没有欸！\n我吃的是忠孝复兴旁边的这家~"
   },
   {
+   "url": "https://www.threads.com/@zeke_6973/post/Dfy9VSioF5k",
+   "date": "2026-11-16",
+   "text": "笑死，因为我来之前不知道是吃到饱，还顺路吃了个早餐（拍大腿）"
+  },
+  {
    "url": "https://www.threads.com/@zeke_6973/post/Df17lclICDp",
    "date": "2026-11-17",
    "text": "那个青菜好好吃"
@@ -102,6 +107,11 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
    "date": "2026-11-10",
    "text": "1️⃣豆腐洋行國華店\n2️⃣鬍鬚忠牛肉湯\n3️⃣榮興水果店\n4️⃣清珍鴨肉羹\n5️⃣ 天蠍座燒烤（創始老店\n5️⃣ 黑工號嫩仙草 育樂店\n6️⃣ 國華牛肉湯\n7️⃣奉茶\n8️⃣木子樑室"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfkFFjmAfRg",
+   "date": "2026-11-10",
+   "text": "笑死，你们家已吃"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
@@ -419,6 +429,11 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
    "date": "2026-11-26",
    "text": "蛋糕甜品可能是…亚尼克？\n我之前买了一个外观微瑕的9折\n还满好吃的\n咖啡的话推SIMPLE KAFFA興波咖啡 新光三越Diamond Towers的一个茶拿铁（忘记具体名字了，融合的非常完美好喝）\nVWI by CHADWANG手冲有很多可选，可以先闻味道之类的，店员介绍很细心\n两家店离得很近，如果不怕摄入过多咖啡因可以一起喝～\n（不过咖啡口味见仁见智，我觉得这两家还不错啦，乳糖不耐受别喝拿铁，虽然隔壁厕所很豪华）"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgM8QnwICvf",
+   "date": "2026-11-26",
+   "text": "可以去店里买那个小小的也好吃，大的太大了我觉得"
   }
  ],
  "15166992437633658954": [
@@ -456,6 +471,11 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Dedo2ZFIEdQ",
    "date": "2026-10-14",
    "text": "我感觉麒麟的叉烧饭更是美味"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLIoU2AXVm",
+   "date": "2026-11-25",
+   "text": "吃过哈哈哈"
   }
  ],
  "10460725085699448610": [
@@ -1070,6 +1090,13 @@ window.LALA_POSTS = {
    "text": "吃过了哈哈哈"
   }
  ],
+ "10966147063888458068": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgL11YjgUZ9",
+   "date": "2026-11-26",
+   "text": "吃过"
+  }
+ ],
  "953982222234349142": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DehAMOAAT9Z",
@@ -1159,6 +1186,13 @@ window.LALA_POSTS = {
    "text": "去新北吃芝麻冰淇淋芋圆甘蔗冰\ndouble小料好爽啊！"
   }
  ],
+ "3139272573148765455": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeJly9rgeER",
+   "date": "2026-10-06",
+   "text": "太及时了，我刚刚到"
+  }
+ ],
  "15326876942461443714": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/Ddd5Kx6IMMj",
@@ -1229,6 +1263,20 @@ window.LALA_POSTS = {
    "text": "这个虽然没有人推\n但是一看排超长肯定要吃啊\n果然超好吃（一定要配蒜！）"
   }
  ],
+ "6865186108294082278": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLIoU2AXVm",
+   "date": "2026-11-25",
+   "text": "吃过哈哈哈"
+  }
+ ],
+ "5811498370699764926": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLFPh4gYOW",
+   "date": "2026-11-25",
+   "text": "吃过哈哈哈"
+  }
+ ],
  "1174056091795400445": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn",
@@ -1248,6 +1296,13 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgMl5CXIPNN",
    "date": "2026-11-26",
    "text": "好像没吃过平价甜品\n但是我来分享一个我吃到最喜欢的很小众的\n四季民福北京烤鸭里卖的甜品拼盘\n这个驴打滚特别好吃念念不忘"
+  }
+ ],
+ "4197356680263944533": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dft7O00oJu_",
+   "date": "2026-11-14",
+   "text": "有吃"
   }
  ],
  "18079000147990731133": [

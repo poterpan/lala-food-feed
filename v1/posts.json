@@ -505,6 +505,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgM8QnwICvf",
+  "type": "reply",
+  "date": "2026-11-26",
+  "text": "可以去店里买那个小小的也好吃，大的太大了我觉得",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
+  "venue_ids": [
+   "6635082117113889489"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "6635082117113889489",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
   "type": "reply",
   "date": "2026-11-26",
@@ -605,7 +622,7 @@
   "venues": [
    {
     "id": "10966147063888458068",
-    "relation": "thread"
+    "relation": "mention"
    }
   ]
  },
@@ -766,6 +783,28 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgLIoU2AXVm",
+  "type": "reply",
+  "date": "2026-11-25",
+  "text": "吃过哈哈哈",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgLDQcoAcxb",
+  "venue_ids": [
+   "15166992437633658954",
+   "6865186108294082278"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "15166992437633658954",
+    "relation": "mention"
+   },
+   {
+    "id": "6865186108294082278",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgLICOmgZ97",
   "type": "reply",
   "date": "2026-11-25",
@@ -839,6 +878,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgLFPh4gYOW",
+  "type": "reply",
+  "date": "2026-11-25",
+  "text": "吃过哈哈哈",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgLDQcoAcxb",
+  "venue_ids": [
+   "5811498370699764926"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "5811498370699764926",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgLENcogd68",
   "type": "reply",
   "date": "2026-11-25",
@@ -880,7 +936,6 @@
    "14496968134262198638",
    "14802425138973372041",
    "15131542241353987350",
-   "15166992437633658954",
    "15478223537498103917",
    "15479004861717418403",
    "15563988920642561299",
@@ -900,7 +955,6 @@
    "434040615819792543",
    "4857750640565943451",
    "5541067804233522019",
-   "5811498370699764926",
    "5848392168716256950",
    "5937441792410812399",
    "6113454261281828784",
@@ -908,7 +962,6 @@
    "6272333714205761315",
    "6623419031663695514",
    "6625638511278010507",
-   "6865186108294082278",
    "694526374424343264",
    "6971991644493487220",
    "7009435028455215768",
@@ -1000,10 +1053,6 @@
     "relation": "thread"
    },
    {
-    "id": "15166992437633658954",
-    "relation": "thread"
-   },
-   {
     "id": "15478223537498103917",
     "relation": "thread"
    },
@@ -1080,10 +1129,6 @@
     "relation": "thread"
    },
    {
-    "id": "5811498370699764926",
-    "relation": "thread"
-   },
-   {
     "id": "5848392168716256950",
     "relation": "thread"
    },
@@ -1109,10 +1154,6 @@
    },
    {
     "id": "6625638511278010507",
-    "relation": "thread"
-   },
-   {
-    "id": "6865186108294082278",
     "relation": "thread"
    },
    {
@@ -2916,6 +2957,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/Dfy9VSioF5k",
+  "type": "reply",
+  "date": "2026-11-16",
+  "text": "笑死，因为我来之前不知道是吃到饱，还顺路吃了个早餐（拍大腿）",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/Dfy1lKFoNwk",
+  "venue_ids": [
+   "14602401179918739271"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "14602401179918739271",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/Dfy86ThILwH",
   "type": "reply",
   "date": "2026-11-16",
@@ -3239,6 +3297,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/Dft7O00oJu_",
+  "type": "reply",
+  "date": "2026-11-14",
+  "text": "有吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/Dft3N0woOTF",
+  "venue_ids": [
+   "4197356680263944533"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "4197356680263944533",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/Dft3N0woOTF",
   "type": "post",
   "date": "2026-11-14",
@@ -3249,7 +3324,6 @@
    "15541585017716559506",
    "2439518397661521961",
    "3707319209116102881",
-   "4197356680263944533",
    "6516731337281807577",
    "7390618790061298717",
    "7463034364252094250"
@@ -3272,10 +3346,6 @@
    },
    {
     "id": "3707319209116102881",
-    "relation": "thread"
-   },
-   {
-    "id": "4197356680263944533",
     "relation": "thread"
    },
    {
@@ -3761,6 +3831,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DfkFFjmAfRg",
+  "type": "reply",
+  "date": "2026-11-10",
+  "text": "笑死，你们家已吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/Dfi9IhCILKW",
+  "venue_ids": [
+   "15510512292890624589"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "15510512292890624589",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/Dfjpq_qoIjr",
   "type": "post",
   "date": "2026-11-10",
@@ -3840,7 +3927,6 @@
    "12879676252682705642",
    "13332064987716405235",
    "14278685689240835795",
-   "15510512292890624589",
    "163502458625398847",
    "16826961460448539171",
    "18200235354695666933",
@@ -3886,10 +3972,6 @@
    },
    {
     "id": "14278685689240835795",
-    "relation": "thread"
-   },
-   {
-    "id": "15510512292890624589",
     "relation": "thread"
    },
    {
@@ -6834,6 +6916,23 @@
    {
     "id": "5309538017555455550",
     "relation": "thread"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DeJly9rgeER",
+  "type": "reply",
+  "date": "2026-10-06",
+  "text": "太及时了，我刚刚到",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DeJPHZkoHK-",
+  "venue_ids": [
+   "3139272573148765455"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "3139272573148765455",
+    "relation": "mention"
    }
   ]
  },

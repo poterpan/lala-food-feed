@@ -13,7 +13,7 @@
   "community": {
    "recommendations": 8,
    "recommenders": 7,
-   "author_reaction": "visited",
+   "author_reaction": "unknown",
    "asked_by_author": false,
    "negative": 1,
    "items": [
@@ -102,10 +102,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
+    "咖哩",
     "飯",
     "醬",
-    "炸物",
-    "咖哩"
+    "炸物"
    ]
   },
   "author": {
@@ -140,10 +140,10 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
+    "滷肉飯",
     "小菜",
     "煎餃",
-    "排骨",
-    "滷肉飯"
+    "排骨"
    ]
   },
   "author": {
@@ -204,41 +204,6 @@
   ]
  },
  {
-  "id": "3226560126844160486",
-  "cid": "3226560126844160486",
-  "place_id": "ChIJkdnIVAqqQjQR5kn8HlcLxyw",
-  "name": "大碗公牛肉麵",
-  "address": "臺北市文山區華興里木柵路一段294號",
-  "city": "台北市",
-  "lat": 24.988395,
-  "lng": 121.556628,
-  "category": "牛肉麵・牛肉湯",
-  "brand": null,
-  "community": {
-   "recommendations": 2,
-   "recommenders": 2,
-   "author_reaction": "visited",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "牛肉麵"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@jpgj6m06/post/DdZQmHNmqGa",
-   "https://www.threads.com/@zeke_6973/post/DeMdikuD4dO",
-   "https://www.threads.com/@zeke_6973/post/DfFljkBAfyF"
-  ]
- },
- {
   "id": "17682844454202599879",
   "cid": "17682844454202599879",
   "place_id": "ChIJDSDtqKSpQjQRx2k751cVZvU",
@@ -256,8 +221,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "麵線羹",
-    "臭豆腐"
+    "臭豆腐",
+    "麵線羹"
    ]
   },
   "author": {
@@ -621,8 +586,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "龍蝦清湯拉麵",
-    "叉燒"
+    "叉燒",
+    "龍蝦清湯拉麵"
    ]
   },
   "author": {
@@ -637,6 +602,41 @@
    "https://www.threads.com/@__mattttttttttt/post/DeMd491kkev",
    "https://www.threads.com/@zeke_6973/post/Der0-QFgZPa",
    "https://www.threads.com/@zeke_6973/post/DerrZ3QAYn5"
+  ]
+ },
+ {
+  "id": "3226560126844160486",
+  "cid": "3226560126844160486",
+  "place_id": "ChIJkdnIVAqqQjQR5kn8HlcLxyw",
+  "name": "大碗公牛肉麵",
+  "address": "臺北市文山區華興里木柵路一段294號",
+  "city": "台北市",
+  "lat": 24.988395,
+  "lng": 121.556628,
+  "category": "牛肉麵・牛肉湯",
+  "brand": null,
+  "community": {
+   "recommendations": 2,
+   "recommenders": 2,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "牛肉麵"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@jpgj6m06/post/DdZQmHNmqGa",
+   "https://www.threads.com/@zeke_6973/post/DeMdikuD4dO",
+   "https://www.threads.com/@zeke_6973/post/DfFljkBAfyF"
   ]
  },
  {
@@ -908,9 +908,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵"
+    "紅燒牛肉麵",
+    "牛肉麵"
    ]
   },
   "author": {
@@ -1041,103 +1041,6 @@
    "https://www.threads.com/@beryl_cat610/post/Ddd-knBnY4N",
    "https://www.threads.com/@cat.cat.cat.030/post/DddnQgYifMo",
    "https://www.threads.com/@zeke_6973/post/DgLFmpXAfpS"
-  ]
- },
- {
-  "id": "6865186108294082278",
-  "cid": "6865186108294082278",
-  "place_id": "ChIJHQ7KPNqrQjQR5q7QZWQKRl8",
-  "name": "佐藤咖哩 復興店",
-  "address": "臺北市大安區誠安里復興南路一段92之1號",
-  "city": "台北市",
-  "lat": 25.043535,
-  "lng": 121.54347,
-  "category": "異國料理",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "visited",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgLIoU2AXVm"
-  ]
- },
- {
-  "id": "5811498370699764926",
-  "cid": "5811498370699764926",
-  "place_id": "ChIJx7Ij2EirQjQRviRSPvqWplA",
-  "name": "利庵咖哩 人氣漢堡排 景美店",
-  "address": "臺北市文山區景興路282巷3號",
-  "city": "台北市",
-  "lat": 24.98957,
-  "lng": 121.542055,
-  "category": "異國料理",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "visited",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "咖哩"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgLFPh4gYOW"
-  ]
- },
- {
-  "id": "4197356680263944533",
-  "cid": "4197356680263944533",
-  "place_id": "ChIJR8001j6pQjQRVcm-gqkBQDo",
-  "name": "大橋頭米糕",
-  "address": "臺北市大同區隆和里延平北路三段41號",
-  "city": "台北市",
-  "lat": 25.064897,
-  "lng": 121.511231,
-  "category": "台式小吃・飯",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "visited",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "米糕"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dft7O00oJu_"
   ]
  },
  {
@@ -4696,40 +4599,6 @@
   },
   "sources": [
    "https://www.threads.com/@fjakfljkaf/post/DgD7rF3nwI5"
-  ]
- },
- {
-  "id": "10966147063888458068",
-  "cid": "10966147063888458068",
-  "place_id": "ChIJkextnE-uQjQRVLHDSaeUL5g",
-  "name": "北投炸蛋蔥油餅",
-  "address": "臺北市北投區長安里光明路218號",
-  "city": "台北市",
-  "lat": 25.136222,
-  "lng": 121.504246,
-  "category": "其他美食",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "蔥油餅"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@chengcheng0909/post/Df2JexHIIUl",
-   "https://www.threads.com/@zeke_6973/post/DgL11YjgUZ9"
   ]
  },
  {

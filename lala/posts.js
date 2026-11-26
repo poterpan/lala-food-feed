@@ -244,7 +244,7 @@ window.LALA_POSTS = {
    "text": "图南社\n这个是小南门附近吗\n这个咖喱饭、烤蔬菜、苹果酒 都非常非常好吃"
   }
  ],
- "1890294622770023312": [
+ "6635082117113889489": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/Ded42ZHINwS",
    "date": "2026-10-14",
@@ -259,9 +259,14 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
    "date": "2026-11-26",
    "text": "蛋糕甜品可能是…亚尼克？\n我之前买了一个外观微瑕的9折\n还满好吃的\n咖啡的话推SIMPLE KAFFA興波咖啡 新光三越Diamond Towers的一个茶拿铁（忘记具体名字了，融合的非常完美好喝）\nVWI by CHADWANG手冲有很多可选，可以先闻味道之类的，店员介绍很细心\n两家店离得很近，如果不怕摄入过多咖啡因可以一起喝～\n（不过咖啡口味见仁见智，我觉得这两家还不错啦，乳糖不耐受别喝拿铁，虽然隔壁厕所很豪华）"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgM8QnwICvf",
+   "date": "2026-11-26",
+   "text": "可以去店里买那个小小的也好吃，大的太大了我觉得"
   }
  ],
- "6635082117113889489": [
+ "1890294622770023312": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/Ded42ZHINwS",
    "date": "2026-10-14",
@@ -329,6 +334,13 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgL6xjpIC3A",
    "date": "2026-11-26",
    "text": "我一开始最想吃这家\n可惜去了还开着门\n但是老板说卖完了😭"
+  }
+ ],
+ "10966147063888458068": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgL11YjgUZ9",
+   "date": "2026-11-26",
+   "text": "吃过"
   }
  ],
  "17497692303398499955": [
@@ -405,6 +417,55 @@ window.LALA_POSTS = {
    "text": "吃一番地"
   }
  ],
+ "15166992437633658954": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeW5eRNgXX1",
+   "date": "2026-10-11",
+   "text": "对，我可以感受出来这碗是好吃的，我平常一点鱼味都吃不了，这个我觉得还可以哈哈哈哈"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeWWbKJoFSS",
+   "date": "2026-10-11",
+   "text": "谁能告诉我一下这个木麒麟和麒麟的关系\n原本想去吃麒麟p1的结果不小心走错店了\n（就在面对面真的很难不走错啊！）\n点了一个竹荚鱼汤面感觉一般般\n可能因为我个人不怎么吃鱼类\n今天吃饱了只能下次再来吃麒麟了🥲"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeXVHQSAeiK",
+   "date": "2026-10-11",
+   "text": "原来如此，我真的迫不及待要去吃了哈哈哈"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeY8Oo0oAVR",
+   "date": "2026-10-12",
+   "text": "今天终于吃到了麒麟！\n限量的叉烧饭也是特别美味\n汤头偏浓郁偏咸，我下次来应该会选清淡口味🤤"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeZBvFmoLRY",
+   "date": "2026-10-12",
+   "text": "今天就排15分钟欸"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DeZfa3KAWvF",
+   "date": "2026-10-12",
+   "text": "感觉这一碗还比较适合加料：糖渍洋葱"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dedo2ZFIEdQ",
+   "date": "2026-10-14",
+   "text": "我感觉麒麟的叉烧饭更是美味"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLIoU2AXVm",
+   "date": "2026-11-25",
+   "text": "吃过哈哈哈"
+  }
+ ],
+ "6865186108294082278": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLIoU2AXVm",
+   "date": "2026-11-25",
+   "text": "吃过哈哈哈"
+  }
+ ],
  "8285193402708631225": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DfOrnMsoNPR",
@@ -466,6 +527,13 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgLFUDYAVoT",
    "date": "2026-11-25",
    "text": "我去过好多次哈哈哈"
+  }
+ ],
+ "5811498370699764926": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLFPh4gYOW",
+   "date": "2026-11-25",
+   "text": "吃过哈哈哈"
   }
  ],
  "11545651800171637844": [
@@ -585,6 +653,11 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Dfy2C6CoONT",
    "date": "2026-11-16",
    "text": "而且服务员小姐/小哥1小时内至少5次来问我要不要加蔬菜/肉，之前也有看到说这家服务不好，感觉好像没有欸！\n我吃的是忠孝复兴旁边的这家~"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dfy9VSioF5k",
+   "date": "2026-11-16",
+   "text": "笑死，因为我来之前不知道是吃到饱，还顺路吃了个早餐（拍大腿）"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/Df17lclICDp",
@@ -753,6 +826,13 @@ window.LALA_POSTS = {
    "text": "好吃好吃"
   }
  ],
+ "4197356680263944533": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dft7O00oJu_",
+   "date": "2026-11-14",
+   "text": "有吃"
+  }
+ ],
  "1996105823642840062": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DfrplLFgY_w",
@@ -823,6 +903,11 @@ window.LALA_POSTS = {
   }
  ],
  "15510512292890624589": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfkFFjmAfRg",
+   "date": "2026-11-10",
+   "text": "笑死，你们家已吃"
+  },
   {
    "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
    "date": "2026-11-10",
@@ -1192,41 +1277,11 @@ window.LALA_POSTS = {
    "text": "速通士林夜市\n鸡排是好吃的，先炸再烤，没有很多油，刷了甜口的酱\n亚米亚米要排20-30分钟也还不错喝，是老式奶茶味道"
   }
  ],
- "15166992437633658954": [
+ "3139272573148765455": [
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DeW5eRNgXX1",
-   "date": "2026-10-11",
-   "text": "对，我可以感受出来这碗是好吃的，我平常一点鱼味都吃不了，这个我觉得还可以哈哈哈哈"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DeWWbKJoFSS",
-   "date": "2026-10-11",
-   "text": "谁能告诉我一下这个木麒麟和麒麟的关系\n原本想去吃麒麟p1的结果不小心走错店了\n（就在面对面真的很难不走错啊！）\n点了一个竹荚鱼汤面感觉一般般\n可能因为我个人不怎么吃鱼类\n今天吃饱了只能下次再来吃麒麟了🥲"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DeXVHQSAeiK",
-   "date": "2026-10-11",
-   "text": "原来如此，我真的迫不及待要去吃了哈哈哈"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DeY8Oo0oAVR",
-   "date": "2026-10-12",
-   "text": "今天终于吃到了麒麟！\n限量的叉烧饭也是特别美味\n汤头偏浓郁偏咸，我下次来应该会选清淡口味🤤"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DeZBvFmoLRY",
-   "date": "2026-10-12",
-   "text": "今天就排15分钟欸"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DeZfa3KAWvF",
-   "date": "2026-10-12",
-   "text": "感觉这一碗还比较适合加料：糖渍洋葱"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Dedo2ZFIEdQ",
-   "date": "2026-10-14",
-   "text": "我感觉麒麟的叉烧饭更是美味"
+   "url": "https://www.threads.com/@zeke_6973/post/DeJly9rgeER",
+   "date": "2026-10-06",
+   "text": "太及时了，我刚刚到"
   }
  ],
  "9849117796440324613": [
