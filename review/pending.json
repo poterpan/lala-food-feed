@@ -1,1 +1,1060 @@
-[]
+[
+ {
+  "key": "taiwan|鼎王||",
+  "query": "鼎王",
+  "reasons": [
+   "not_author_verified"
+  ],
+  "mentions": 1,
+  "by_author": true,
+  "candidate": {
+   "name": null,
+   "address": null,
+   "cid": null,
+   "maps": null
+  }
+ },
+ {
+  "key": "taiwan|茶之魔手||",
+  "query": "茶之魔手",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 2,
+  "by_author": false,
+  "candidate": {
+   "name": "茶之魔手 台北時代店（PLUS）",
+   "address": "110臺北市信義區興雅里松高路11號B2",
+   "cid": "7313984505573171841",
+   "maps": "https://maps.google.com/?cid=7313984505573171841"
+  }
+ },
+ {
+  "key": "taiwan|十巷咖哩||大安",
+  "query": "十巷咖哩 大安",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 2,
+  "by_author": false,
+  "candidate": {
+   "name": "十巷咖哩",
+   "address": "104臺北市中山區恆安里雙城街10巷25-1號",
+   "cid": "13804380331441189213",
+   "maps": "https://maps.google.com/?cid=13804380331441189213"
+  }
+ },
+ {
+  "key": "taiwan|水龜伯||木柵",
+  "query": "水龜伯 木柵",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "水龜伯古早味",
+   "address": "112臺北市北投區永明里石牌路二段75巷8號",
+   "cid": "4438821563071615652",
+   "maps": "https://maps.google.com/?cid=4438821563071615652"
+  }
+ },
+ {
+  "key": "taiwan|小樂||新店",
+  "query": "小樂 新店 七張",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "小樂精緻麵食館",
+   "address": "231新北市新店區新安里寶橋路67號",
+   "cid": "4245079151914509831",
+   "maps": "https://maps.google.com/?cid=4245079151914509831"
+  }
+ },
+ {
+  "key": "taiwan|張仙燴飯||基隆",
+  "query": "張仙燴飯 基隆 廟口",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "張仙燴飯",
+   "address": "200基隆市仁愛區玉田里愛四路2之2號1樓",
+   "cid": "16812239928955928437",
+   "maps": "https://maps.google.com/?cid=16812239928955928437"
+  }
+ },
+ {
+  "key": "taiwan|內湖文德||內湖文德",
+  "query": "內湖文德 內湖文德",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "美廉社 內湖文德二店",
+   "address": "114053臺北市內湖區紫陽里文德路210巷30弄49號",
+   "cid": "5030931451796783642",
+   "maps": "https://maps.google.com/?cid=5030931451796783642"
+  }
+ },
+ {
+  "key": "taiwan|大腸圈||仁愛市場",
+  "query": "大腸圈 仁愛市場",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "仁愛市場大腸圈",
+   "address": "200基隆市仁愛區博愛里仁四路33號",
+   "cid": "9005597231304073657",
+   "maps": "https://maps.google.com/?cid=9005597231304073657"
+  }
+ },
+ {
+  "key": "taiwan|炎森|仁愛市場二樓|基隆",
+  "query": "炎森 仁愛市場二樓 基隆 仁愛市場",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "炎森飲食",
+   "address": "2樓C40, No. 49號仁四路博愛里仁愛區基隆市20048",
+   "cid": "4817077741231839268",
+   "maps": "https://maps.google.com/?cid=4817077741231839268"
+  }
+ },
+ {
+  "key": "taiwan|紅月紅茶冰||台北車站",
+  "query": "紅月紅茶冰 台北車站",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "紅月紅茶冰",
+   "address": "320桃園市中壢區石頭里建國路35-3號",
+   "cid": "10072836462743323446",
+   "maps": "https://maps.google.com/?cid=10072836462743323446"
+  }
+ },
+ {
+  "key": "taiwan|鳳城||台大",
+  "query": "鳳城 台大",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "鳳城燒臘粵菜",
+   "address": "106臺北市大安區大學里新生南路三段58之3號",
+   "cid": "16978589074504626619",
+   "maps": "https://maps.google.com/?cid=16978589074504626619"
+  }
+ },
+ {
+  "key": "taiwan|新莊||新莊",
+  "query": "新莊 新莊",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "新莊",
+   "address": "242新北市新莊區中正路138號B1",
+   "cid": "6897495305892472154",
+   "maps": "https://maps.google.com/?cid=6897495305892472154"
+  }
+ },
+ {
+  "key": "taiwan|每朝健康||",
+  "query": "每朝健康",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "朝餚健康餐盒",
+   "address": "23143新北市新店區北新路三段222號",
+   "cid": "17017055220261346527",
+   "maps": "https://maps.google.com/?cid=17017055220261346527"
+  }
+ },
+ {
+  "key": "taiwan|摩跟安娜||",
+  "query": "摩跟安娜",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "摩根安娜",
+   "address": "116臺北市文山區試院里木柵路一段38之1號",
+   "cid": "12971087597827476909",
+   "maps": "https://maps.google.com/?cid=12971087597827476909"
+  }
+ },
+ {
+  "key": "taiwan|居髮廊||板橋",
+  "query": "居髮廊 板橋",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "居髮廊 hair salon 板橋店/板橋剪髮/板橋染髮/板橋燙髮/府中剪髮/府中染髮/府中燙髮/府中捷運/渣男燙/錫紙燙/耳圈染/特殊染/黑曜光感護髮",
+   "address": "22063新北市板橋區重慶路12巷9號2樓",
+   "cid": "2252769352119748276",
+   "maps": "https://maps.google.com/?cid=2252769352119748276"
+  }
+ },
+ {
+  "key": "taiwan|竣師父牛肉麵||大安店",
+  "query": "竣師父牛肉麵 大安店 敦化店",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "竣師父牛肉麵-大安店",
+   "address": "106台北市大安区光武里大安路一段52巷24號一樓",
+   "cid": "17497692303398499955",
+   "maps": "https://maps.google.com/?cid=17497692303398499955"
+  }
+ },
+ {
+  "key": "taiwan|蕭厚呷||北投",
+  "query": "蕭厚呷 北投",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "蕭記大餛飩",
+   "address": "112臺北市北投區振華里裕民一路40巷21號",
+   "cid": "4211598114561437938",
+   "maps": "https://maps.google.com/?cid=4211598114561437938"
+  }
+ },
+ {
+  "key": "taiwan|粟家||北投",
+  "query": "粟家 北投",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "粟家牛肉麵 總店",
+   "address": "112臺北市北投區中庸里永興路一段2號",
+   "cid": "15440306282482921801",
+   "maps": "https://maps.google.com/?cid=15440306282482921801"
+  }
+ },
+ {
+  "key": "taiwan|蜜雪冰城||",
+  "query": "蜜雪冰城",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "鴨脖子手作 蜜雪冰城 娃娃機",
+   "address": "320桃園市中壢區興華里長樂街69巷7號",
+   "cid": "10539759812877732450",
+   "maps": "https://maps.google.com/?cid=10539759812877732450"
+  }
+ },
+ {
+  "key": "taiwan|腿庫飯39攤||晴光市場",
+  "query": "腿庫飯（39攤 晴光市場",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "腿庫飯",
+   "address": "234新北市永和區民治里民治街80號二樓號",
+   "cid": "13247309501843907356",
+   "maps": "https://maps.google.com/?cid=13247309501843907356"
+  }
+ },
+ {
+  "key": "taiwan|三重牛乳大王||台北橋",
+  "query": "三重牛乳大王 台北橋",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "三重牛乳大王",
+   "address": "241新北市三重區重新里重新路二段73號",
+   "cid": "3707319209116102881",
+   "maps": "https://maps.google.com/?cid=3707319209116102881"
+  }
+ },
+ {
+  "key": "taiwan|新營豆花||大橋頭",
+  "query": "新營豆花 大橋頭",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "新營豆花",
+   "address": "103臺北市大同區隆和里延平北路三段64-2號",
+   "cid": "6516731337281807577",
+   "maps": "https://maps.google.com/?cid=6516731337281807577"
+  }
+ },
+ {
+  "key": "taiwan|黑白獅||台灣",
+  "query": "黑白獅 台湾 永春站",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "黑白獅楊桃茶飲",
+   "address": "110臺北市信義區廣居里虎林街132巷5號",
+   "cid": "3178424541766745028",
+   "maps": "https://maps.google.com/?cid=3178424541766745028"
+  }
+ },
+ {
+  "key": "taiwan|perespizza||六張犁",
+  "query": "Peres pizza 六張犁",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "Pizza Persé 傳統式義大利披薩專賣店",
+   "address": "106臺北市大安區敦化南路二段265巷5號",
+   "cid": "15030271490149063872",
+   "maps": "https://maps.google.com/?cid=15030271490149063872"
+  }
+ },
+ {
+  "key": "taiwan|慄香料咖哩||六張犁",
+  "query": "栗香料咖哩 六張犁",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "栗・香料咖哩",
+   "address": "106臺北市大安區芳和里嘉興街359號",
+   "cid": "3900033861531522060",
+   "maps": "https://maps.google.com/?cid=3900033861531522060"
+  }
+ },
+ {
+  "key": "taiwan|家味軒||六張犁",
+  "query": "家味軒 六张犁 六張犁",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "家味軒精緻食堂/美食/晚餐/restaurants",
+   "address": "106臺北市大安區芳和里樂業街57號",
+   "cid": "85731140238208689",
+   "maps": "https://maps.google.com/?cid=85731140238208689"
+  }
+ },
+ {
+  "key": "taiwan|台南蛋捲叔叔||台南",
+  "query": "台南蛋捲叔叔 台南",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "大師兄手工蛋捲",
+   "address": "700臺南市中西區赤嵌里赤嵌街7號",
+   "cid": "8790293676734526139",
+   "maps": "https://maps.google.com/?cid=8790293676734526139"
+  }
+ },
+ {
+  "key": "taiwan|兩角銀古早味冬瓜茶||台南",
+  "query": "兩角銀古早味冬瓜茶 台南",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "兩角銀古早味冬瓜茶",
+   "address": "700臺南市中西區赤嵌里永福路二段227巷51號",
+   "cid": "12293532443546410794",
+   "maps": "https://maps.google.com/?cid=12293532443546410794"
+  }
+ },
+ {
+  "key": "taiwan|紅太陽||台南",
+  "query": "紅太陽 台南",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "紅太陽",
+   "address": "702臺南市南區新生里大同路二段138號",
+   "cid": "386905802994527983",
+   "maps": "https://maps.google.com/?cid=386905802994527983"
+  }
+ },
+ {
+  "key": "taiwan|藥師的私房紅茶||台南",
+  "query": "藥師的私房紅茶 台南",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "藥師的私房紅茶（台南總店）",
+   "address": "700臺南市中西區小西門里府前路一段373號",
+   "cid": "9450723934244909150",
+   "maps": "https://maps.google.com/?cid=9450723934244909150"
+  }
+ },
+ {
+  "key": "taiwan|肯德基||台南",
+  "query": "肯德基 台南 國華街",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "肯德基KFC-台南金華餐廳",
+   "address": "702臺南市南區再興里金華路二段238號",
+   "cid": "48101704749668582",
+   "maps": "https://maps.google.com/?cid=48101704749668582"
+  }
+ },
+ {
+  "key": "taiwan|漢堡王||台南",
+  "query": "漢堡王 台南 國華街",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "漢堡王Burger King 台南店",
+   "address": "704臺南市北區公園里成功路18號",
+   "cid": "18200235354695666933",
+   "maps": "https://maps.google.com/?cid=18200235354695666933"
+  }
+ },
+ {
+  "key": "taiwan|美而美||台南",
+  "query": "美而美 台南 國華街",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "美而美早餐店",
+   "address": "700臺南市中西區兌悅里金華路四段171號",
+   "cid": "3887634312172552333",
+   "maps": "https://maps.google.com/?cid=3887634312172552333"
+  }
+ },
+ {
+  "key": "taiwan|溫蒂漢堡||高雄",
+  "query": "溫蒂漢堡 高雄",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "摩斯漢堡 高雄右昌店",
+   "address": "811高雄市楠梓區國昌里右昌街612號",
+   "cid": "12165475645858524257",
+   "maps": "https://maps.google.com/?cid=12165475645858524257"
+  }
+ },
+ {
+  "key": "taiwan|德州炸雞||京華城",
+  "query": "德州炸雞 京華城",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "小勇士德州炸雞Golden Fried Chicken",
+   "address": "106臺北市大安區和安里信義路三段109號",
+   "cid": "6504700046960693917",
+   "maps": "https://maps.google.com/?cid=6504700046960693917"
+  }
+ },
+ {
+  "key": "taiwan|福泉||西子灣",
+  "query": "福泉 西子灣 渡船頭",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "福泉冰店..布丁豆花.雪花冰",
+   "address": "804高雄市鼓山區維生里濱海一路91號",
+   "cid": "10790035637498225429",
+   "maps": "https://maps.google.com/?cid=10790035637498225429"
+  }
+ },
+ {
+  "key": "taiwan|阿明師傅||小南門",
+  "query": "阿明師傅 小南门",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "阿明師傅匠人手作",
+   "address": "116臺北市文山區木柵里保儀路84號",
+   "cid": "16699425366844573166",
+   "maps": "https://maps.google.com/?cid=16699425366844573166"
+  }
+ },
+ {
+  "key": "taiwan|胖老爹炸雞||",
+  "query": "胖老爹炸雞",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "胖老爹美式炸雞 師大店",
+   "address": "100032臺北市中正區林興里辛亥路一段21號",
+   "cid": "13739942660953926687",
+   "maps": "https://maps.google.com/?cid=13739942660953926687"
+  }
+ },
+ {
+  "key": "taiwan|阿朗||中永和",
+  "query": "阿朗 中永和 樂華",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "永和29阿朗經絡按摩",
+   "address": "234新北市永和区永兴里中興街100號",
+   "cid": "5133275555921767016",
+   "maps": "https://maps.google.com/?cid=5133275555921767016"
+  }
+ },
+ {
+  "key": "taiwan|豪香熱炒||台大附近",
+  "query": "豪香熱炒 台大附近",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "豪香熱炒",
+   "address": "106臺北市大安區大學里羅斯福路三段333巷7號",
+   "cid": "4242341353555881414",
+   "maps": "https://maps.google.com/?cid=4242341353555881414"
+  }
+ },
+ {
+  "key": "taiwan|今大的滷肉飯||三重",
+  "query": "今大的滷肉飯 三重 西门",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "今大魯肉飯",
+   "address": "241新北市三重區重陽里大仁街40號",
+   "cid": "9974453540217416184",
+   "maps": "https://maps.google.com/?cid=9974453540217416184"
+  }
+ },
+ {
+  "key": "taiwan|基隆夜市22號攤位||基隆",
+  "query": "基隆夜市22號攤位 基隆 基隆夜市",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "基隆廟口22號蝦仁羹 豬腳",
+   "address": "200基隆市仁愛區仁三路22號攤位",
+   "cid": "9792246904677620671",
+   "maps": "https://maps.google.com/?cid=9792246904677620671"
+  }
+ },
+ {
+  "key": "taiwan|豬腳大王||台北",
+  "query": "豬腳大王 台北 捷運大坪林站",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "可口豬腳大王",
+   "address": "231新北市新店區大同里北新路三段119號",
+   "cid": "389626326695687182",
+   "maps": "https://maps.google.com/?cid=389626326695687182"
+  }
+ },
+ {
+  "key": "taiwan|東引小吃店||台北",
+  "query": "東引小吃店 台北 捷運大坪林站",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "東引小吃店",
+   "address": "105臺北市松山區南京東路五段291巷20弄3-2號",
+   "cid": "12127930473267135940",
+   "maps": "https://maps.google.com/?cid=12127930473267135940"
+  }
+ },
+ {
+  "key": "taiwan|可口豬腳||世新",
+  "query": "可口豬腳 世新 捷運大坪林站",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "可口豬腳大王",
+   "address": "231新北市新店區大同里北新路三段119號",
+   "cid": "389626326695687182",
+   "maps": "https://maps.google.com/?cid=389626326695687182"
+  }
+ },
+ {
+  "key": "taiwan|國旗屋||平鎮",
+  "query": "國旗屋 平鎮",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "國旗屋米干店",
+   "address": "320桃園市中壢區龍平里龍平路215號",
+   "cid": "2088554230884401119",
+   "maps": "https://maps.google.com/?cid=2088554230884401119"
+  }
+ },
+ {
+  "key": "taiwan|老宋記真善美牛肉麵||大稻埕留言提及與江牛樓相關",
+  "query": "老宋記真善美牛肉麵 大稻埕（留言提及，與江牛樓相關）",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "老宋記真善美牛肉麵",
+   "address": "106臺北市大安區黎孝里安居街47號",
+   "cid": "4558610094506869503",
+   "maps": "https://maps.google.com/?cid=4558610094506869503"
+  }
+ },
+ {
+  "key": "taiwan|美福食集||大稻埕留言提及與江牛樓相關",
+  "query": "美福食集 大稻埕（留言提及，與江牛樓相關）",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "美福食集",
+   "address": "114臺北市內湖區湖元里民善街128號",
+   "cid": "14873151389393821030",
+   "maps": "https://maps.google.com/?cid=14873151389393821030"
+  }
+ },
+ {
+  "key": "taiwan|小巷小象||北科大附近",
+  "query": "小巷小象 北科大附近",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "小巷小象",
+   "address": "106臺北市大安區民輝里新生北路一段1號",
+   "cid": "4736087382864040614",
+   "maps": "https://maps.google.com/?cid=4736087382864040614"
+  }
+ },
+ {
+  "key": "taiwan|男子漢||台北101周邊",
+  "query": "男子漢 台北101周邊",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "男子漢拉麵食堂-信義永春店",
+   "address": "110臺北市信義區廣居里虎林街132巷42號",
+   "cid": "12035767896764468871",
+   "maps": "https://maps.google.com/?cid=12035767896764468871"
+  }
+ },
+ {
+  "key": "taiwan|萬家莊||新北",
+  "query": "萬家莊 新北 板橋",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "萬佳鄉板橋店",
+   "address": "220新北市板橋區建國里民權路2號202 巷 號",
+   "cid": "18254149551630723445",
+   "maps": "https://maps.google.com/?cid=18254149551630723445"
+  }
+ },
+ {
+  "key": "taiwan|餓菱居||大安路",
+  "query": "餓菱居 大安路",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "餓菱居",
+   "address": "106臺北市大安區群英里四維路170巷26號",
+   "cid": "11563793209421990966",
+   "maps": "https://maps.google.com/?cid=11563793209421990966"
+  }
+ },
+ {
+  "key": "taiwan|川味麵典||大安路",
+  "query": "川味麵典 大安路",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "川味麵典",
+   "address": "106臺北市大安區群賢里四維路176巷17號",
+   "cid": "12874481471757487259",
+   "maps": "https://maps.google.com/?cid=12874481471757487259"
+  }
+ },
+ {
+  "key": "taiwan|巫記青蛙下蛋||士林夜市",
+  "query": "巫記青蛙下蛋 士林夜市",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "巫記青蛙下蛋（正宗創始店）",
+   "address": "111臺北市士林區文林路110巷內（日新眼鏡",
+   "cid": "2630773065836724150",
+   "maps": "https://maps.google.com/?cid=2630773065836724150"
+  }
+ },
+ {
+  "key": "taiwan|對面快炒店||對面",
+  "query": "對面快炒店 對面",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "擱再來海鮮快炒店",
+   "address": "100台北市中正区文盛里罗斯福路三段244巷12-1號1樓",
+   "cid": "17454293427552965674",
+   "maps": "https://maps.google.com/?cid=17454293427552965674"
+  }
+ },
+ {
+  "key": "taiwan|木頭麒麟||對面",
+  "query": "木頭麒麟 對面",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "麒麟創作拉麵坊",
+   "address": "10491台北市中山区中山北路一段140巷25號1樓",
+   "cid": "15166992437633658954",
+   "maps": "https://maps.google.com/?cid=15166992437633658954"
+  }
+ },
+ {
+  "key": "taiwan|康樂意包子||景美",
+  "query": "康樂意包子 景美",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "康樂意小吃店",
+   "address": "100臺北市中正區螢圃里汀州路二段46號",
+   "cid": "17317682255853169015",
+   "maps": "https://maps.google.com/?cid=17317682255853169015"
+  }
+ },
+ {
+  "key": "taiwan|沐慕茶飲||古亭捷運",
+  "query": "沐慕茶飲 古亭捷運",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "沐慕茶飲",
+   "address": "100臺北市中正區頂東里南昌路二段190-1號",
+   "cid": "13851144127901969649",
+   "maps": "https://maps.google.com/?cid=13851144127901969649"
+  }
+ },
+ {
+  "key": "taiwan|三重赤肉羹||景美捷運站",
+  "query": "三重赤肉羹 景美捷運站",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "三重赤肉羹",
+   "address": "241新北市三重區福民里環河南路221巷26號",
+   "cid": "11031732105083390794",
+   "maps": "https://maps.google.com/?cid=11031732105083390794"
+  }
+ },
+ {
+  "key": "taiwan|小陳||虎林街",
+  "query": "小陳 虎林街 北车",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "小陳紅燒牛肉麵",
+   "address": "110臺北市信義區廣居里虎林街135號",
+   "cid": "5172838001416428762",
+   "maps": "https://maps.google.com/?cid=5172838001416428762"
+  }
+ },
+ {
+  "key": "taiwan|川味麵典||北車",
+  "query": "川味麵典 北车",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "川味麵典",
+   "address": "106臺北市大安區群賢里四維路176巷17號",
+   "cid": "12874481471757487259",
+   "maps": "https://maps.google.com/?cid=12874481471757487259"
+  }
+ },
+ {
+  "key": "taiwan|錢櫃||北車",
+  "query": "錢櫃 北车",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "錢櫃 台北林森店",
+   "address": "10491臺北市中山區中山里林森北路312號",
+   "cid": "10254902636302013303",
+   "maps": "https://maps.google.com/?cid=10254902636302013303"
+  }
+ },
+ {
+  "key": "taiwan|金峰|台北|台北",
+  "query": "金峰 臺北 臺北",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "金峰魯肉飯",
+   "address": "100臺北市中正區龍福里羅斯福路一段10-1號",
+   "cid": "15694935650441423724",
+   "maps": "https://maps.google.com/?cid=15694935650441423724"
+  }
+ },
+ {
+  "key": "taiwan|陰陽海||金瓜石",
+  "query": "陰陽海 金瓜石",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "陰陽海景觀台",
+   "address": "224新北市瑞芳區濓新里",
+   "cid": "10331302779646423570",
+   "maps": "https://maps.google.com/?cid=10331302779646423570"
+  }
+ },
+ {
+  "key": "taiwan|遠東泡泡冰||基隆夜市",
+  "query": "遠東泡泡冰 基隆夜市",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "遠東泡泡冰",
+   "address": "200基隆市仁愛區玉田里仁三路5號",
+   "cid": "13924694528181383348",
+   "maps": "https://maps.google.com/?cid=13924694528181383348"
+  }
+ },
+ {
+  "key": "taiwan|協力旺雞排||景美",
+  "query": "協力旺雞排 景美 景美夜市",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "德利香雞排",
+   "address": "116臺北市文山區景行里景美街6-1號",
+   "cid": "17139784895984453353",
+   "maps": "https://maps.google.com/?cid=17139784895984453353"
+  }
+ },
+ {
+  "key": "taiwan|東山鴨頭||景美夜市",
+  "query": "東山鴨頭 景美夜市 寶雅斜對面",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "黑宝東山鴨頭",
+   "address": "116臺北市文山區景美街45-2號",
+   "cid": "11537293117085728980",
+   "maps": "https://maps.google.com/?cid=11537293117085728980"
+  }
+ },
+ {
+  "key": "taiwan|鹹水雞||景美夜市",
+  "query": "鹹水雞 景美夜市 旁邊巷口",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "逐夢雞鋪l鹹水雞l景美夜市",
+   "address": "116臺北市文山區景美街19號",
+   "cid": "3928877576275837395",
+   "maps": "https://maps.google.com/?cid=3928877576275837395"
+  }
+ },
+ {
+  "key": "taiwan|開心地瓜球||景美夜市",
+  "query": "開心地瓜球 景美夜市 路口",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "快樂地瓜球-景美店",
+   "address": "116臺北市文山區景行里景文街69-1號",
+   "cid": "17698183587083585090",
+   "maps": "https://maps.google.com/?cid=17698183587083585090"
+  }
+ },
+ {
+  "key": "taiwan|麥當勞||世新大學",
+  "query": "麥當勞 世新大学 景美夜市",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "麥當勞-景美餐廳",
+   "address": "116臺北市文山區景行里景中街30巷12號",
+   "cid": "91061616526160803",
+   "maps": "https://maps.google.com/?cid=91061616526160803"
+  }
+ }
+]

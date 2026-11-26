@@ -2,16 +2,16 @@
  {
   "brand": "麥當勞",
   "names_in_threads": {
-   "麥當勞": 40,
+   "麥當勞": 49,
    "麦当劳": 16
   },
   "stance": {
-   "other_user:recommend": 12,
+   "other_user:recommend": 18,
    "author:recommend": 15,
    "author:mention": 15,
-   "other_user:mention": 7,
+   "other_user:mention": 9,
    "author:mixed": 1,
-   "other_user:question": 4,
+   "other_user:question": 5,
    "other_user:negative": 1,
    "author:negative": 1
   },
@@ -29,10 +29,19 @@
   ],
   "comment": "夾進漢堡就是非常好吃啊！",
   "saved_branch_cids": [],
-  "first_seen": "2026-09-17T12:58:26Z",
+  "first_seen": "2026-09-17T11:14:49Z",
   "last_seen": "2026-11-26T02:30:24Z",
-  "mentions": 56,
+  "mentions": 65,
   "sources": [
+   "https://www.threads.com/@desprichling/post/DfRQEIAEzYd",
+   "https://www.threads.com/@imwubaobao/post/De0wCwcETU7",
+   "https://www.threads.com/@k_850920/post/DeykUo5krj2",
+   "https://www.threads.com/@koala1428/post/Dex-K_Lo4jg",
+   "https://www.threads.com/@koujishinjyo/post/Dfjp6GQk4ct",
+   "https://www.threads.com/@ma3mamama4ma3/post/DfYsLlyo_PW",
+   "https://www.threads.com/@rosie22400422/post/Ddd6iLnE7U6",
+   "https://www.threads.com/@sooxies/post/DdYurwBiXlB",
+   "https://www.threads.com/@vip914/post/DeyJuI-ksA9",
    "https://www.threads.com/@zeke_6973/post/DdY6ioIASy6",
    "https://www.threads.com/@zeke_6973/post/DdZCAddgS_c",
    "https://www.threads.com/@zeke_6973/post/DdZCgKuASey",
@@ -82,14 +91,67 @@
   ]
  },
  {
+  "brand": "胖老爹",
+  "names_in_threads": {
+   "胖老爹": 24,
+   "胖老爹55台": 1
+  },
+  "stance": {
+   "other_user:question": 1,
+   "author:mention": 3,
+   "other_user:recommend": 10,
+   "author:recommend": 9,
+   "other_user:negative": 1,
+   "other_user:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "酒香肠",
+   "無骨雞腿排",
+   "炸鸡",
+   "杏鲍菇",
+   "炸雞",
+   "鹹酥雞",
+   "炸物"
+  ],
+  "comment": "支持",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-18T01:16:40Z",
+  "last_seen": "2026-11-26T01:40:03Z",
+  "mentions": 25,
+  "sources": [
+   "https://www.threads.com/@angelliau0821/post/De6j1YkE_3E",
+   "https://www.threads.com/@colinkao/post/DeHjeLDn3Sp",
+   "https://www.threads.com/@e569874123e6906/post/DeHVV8Hkrqg",
+   "https://www.threads.com/@kssk_1025/post/De46KNOkyMf",
+   "https://www.threads.com/@ritchie_lin/post/De6PgsiEf-w",
+   "https://www.threads.com/@yumin_0220/post/De6RTrCE9yy",
+   "https://www.threads.com/@zeke_6973/post/DdaPBnOAaxJ",
+   "https://www.threads.com/@zeke_6973/post/De3_FwSAZK8",
+   "https://www.threads.com/@zeke_6973/post/De4AyTdgc3z",
+   "https://www.threads.com/@zeke_6973/post/De4SDe5ASU-",
+   "https://www.threads.com/@zeke_6973/post/De8-Hw9IE2V",
+   "https://www.threads.com/@zeke_6973/post/DeHNt74j5IM",
+   "https://www.threads.com/@zeke_6973/post/DeHOf1uj9Gg",
+   "https://www.threads.com/@zeke_6973/post/DeHQiosD9UH",
+   "https://www.threads.com/@zeke_6973/post/DeHcm0MD5fm",
+   "https://www.threads.com/@zeke_6973/post/DeuNyM7AbK5",
+   "https://www.threads.com/@zeke_6973/post/DfojnlsoG0J",
+   "https://www.threads.com/@zeke_6973/post/Dfong08oEEx",
+   "https://www.threads.com/@zeke_6973/post/DgL8jPwoNSJ",
+   "https://www.threads.com/@zeke_6973/post/DgLF4G8AZcK"
+  ]
+ },
+ {
   "brand": "烏弄",
   "names_in_threads": {
-   "烏弄": 12,
+   "烏弄": 16,
    "乌弄": 8,
    "烏弄原茶": 1
   },
   "stance": {
-   "other_user:recommend": 5,
+   "other_user:recommend": 9,
    "author:recommend": 11,
    "author:mention": 2,
    "other_user:mixed": 1,
@@ -114,8 +176,12 @@
   ],
   "first_seen": "2026-11-08T05:10:50Z",
   "last_seen": "2026-11-26T13:47:07Z",
-  "mentions": 21,
+  "mentions": 25,
   "sources": [
+   "https://www.threads.com/@chang1231/post/DfrvS8VGvxu",
+   "https://www.threads.com/@ma3mamama4ma3/post/DfeDwXWo5T6",
+   "https://www.threads.com/@shangshangttt/post/Dfd-iXOnwOi",
+   "https://www.threads.com/@siao_gua/post/Dfi_WBxkt4Z",
    "https://www.threads.com/@zeke_6973/post/Df_o77UIMfN",
    "https://www.threads.com/@zeke_6973/post/Df_o_cOoNBA",
    "https://www.threads.com/@zeke_6973/post/Dfd-XRloDUL",
@@ -136,49 +202,93 @@
   ]
  },
  {
-  "brand": "胖老爹",
+  "brand": "丹丹",
   "names_in_threads": {
-   "胖老爹": 18,
-   "胖老爹55台": 1
+   "丹丹": 8,
+   "丹丹汉堡": 5,
+   "丹丹漢堡": 3,
+   "丹丹漢堡店": 1
   },
   "stance": {
-   "other_user:question": 1,
-   "author:mention": 3,
+   "author:mention": 5,
+   "author:recommend": 2,
+   "other_user:mixed": 1,
    "other_user:recommend": 5,
-   "author:recommend": 9,
-   "other_user:mention": 1
+   "other_user:question": 1,
+   "other_user:mention": 2,
+   "other_user:negative": 1
   },
   "experience": "visited",
   "author_recommends": true,
   "items": [
-   "酒香肠",
-   "無骨雞腿排",
-   "炸鸡",
-   "杏鲍菇",
-   "炸雞",
-   "鹹酥雞",
-   "炸物"
+   "米糕",
+   "火腿鸡蛋吐司"
   ],
-  "comment": "支持",
+  "comment": "终于吃到高雄特产丹丹汉堡了！！",
   "saved_branch_cids": [],
-  "first_seen": "2026-09-18T01:16:40Z",
-  "last_seen": "2026-11-26T01:40:03Z",
-  "mentions": 19,
+  "first_seen": "2026-09-17T15:01:41Z",
+  "last_seen": "2026-11-26T05:28:12Z",
+  "mentions": 17,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdaPBnOAaxJ",
-   "https://www.threads.com/@zeke_6973/post/De3_FwSAZK8",
-   "https://www.threads.com/@zeke_6973/post/De4AyTdgc3z",
-   "https://www.threads.com/@zeke_6973/post/De4SDe5ASU-",
-   "https://www.threads.com/@zeke_6973/post/De8-Hw9IE2V",
-   "https://www.threads.com/@zeke_6973/post/DeHNt74j5IM",
-   "https://www.threads.com/@zeke_6973/post/DeHOf1uj9Gg",
-   "https://www.threads.com/@zeke_6973/post/DeHQiosD9UH",
-   "https://www.threads.com/@zeke_6973/post/DeHcm0MD5fm",
-   "https://www.threads.com/@zeke_6973/post/DeuNyM7AbK5",
-   "https://www.threads.com/@zeke_6973/post/DfojnlsoG0J",
-   "https://www.threads.com/@zeke_6973/post/Dfong08oEEx",
-   "https://www.threads.com/@zeke_6973/post/DgL8jPwoNSJ",
-   "https://www.threads.com/@zeke_6973/post/DgLF4G8AZcK"
+   "https://www.threads.com/@coconut.yen/post/DfSi_XWE5O7",
+   "https://www.threads.com/@cokocochan/post/Dfb_EBdAYNk",
+   "https://www.threads.com/@ttj0492/post/Dfb1Afvkn8F",
+   "https://www.threads.com/@xulenx/post/DfcIbhLEnoR",
+   "https://www.threads.com/@zeke_6973/post/DdZIpTEgRld",
+   "https://www.threads.com/@zeke_6973/post/DeHnG1BATrt",
+   "https://www.threads.com/@zeke_6973/post/DfeAaJ0INcA",
+   "https://www.threads.com/@zeke_6973/post/DfeB2H_IDgd",
+   "https://www.threads.com/@zeke_6973/post/DfeBU3CIGZa",
+   "https://www.threads.com/@zeke_6973/post/DfeEkoZIKku",
+   "https://www.threads.com/@zeke_6973/post/DgLDpxWASMl",
+   "https://www.threads.com/@zeke_6973/post/DgLGqk5Abs5",
+   "https://www.threads.com/@zeke_6973/post/DgMWqRYoBjW"
+  ]
+ },
+ {
+  "brand": "迷客夏",
+  "names_in_threads": {
+   "迷客夏": 15
+  },
+  "stance": {
+   "author:recommend": 9,
+   "other_user:mixed": 1,
+   "other_user:mention": 1,
+   "other_user:recommend": 4
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "鲜奶系列",
+   "嫩仙草冻奶",
+   "芋头",
+   "仙草鲜奶",
+   "芋头鲜奶"
+  ],
+  "comment": "迷客夏鲜奶系列",
+  "saved_branch_cids": [
+   "10125488561352514194",
+   "1478576240692833592"
+  ],
+  "first_seen": "2026-10-22T10:31:32Z",
+  "last_seen": "2026-11-26T03:14:52Z",
+  "mentions": 15,
+  "sources": [
+   "https://www.threads.com/@ch9r1i6/post/DgKHeqwEyyt",
+   "https://www.threads.com/@minato.520_/post/DfO-AEcGY2d",
+   "https://www.threads.com/@pofatoezil/post/DfSRv_gkwX6",
+   "https://www.threads.com/@sx.res/post/DfUXqMdGZxn",
+   "https://www.threads.com/@wwynhennn/post/DgLRXUQEwIj",
+   "https://www.threads.com/@zeke_6973/post/DeyxjSZgeo2",
+   "https://www.threads.com/@zeke_6973/post/DfCFVMloJyS",
+   "https://www.threads.com/@zeke_6973/post/DfSIKJagVos",
+   "https://www.threads.com/@zeke_6973/post/DfSNnUrAd2C",
+   "https://www.threads.com/@zeke_6973/post/DfU18SiAV4b",
+   "https://www.threads.com/@zeke_6973/post/DgFfrKhIN4l",
+   "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
+   "https://www.threads.com/@zeke_6973/post/DgH3ExRIP-3",
+   "https://www.threads.com/@zeke_6973/post/DgHyS_poBzs",
+   "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i"
   ]
  },
  {
@@ -226,6 +336,40 @@
   ]
  },
  {
+  "brand": "肉次方",
+  "names_in_threads": {
+   "肉次方": 13
+  },
+  "stance": {
+   "other_user:recommend": 5,
+   "author:mention": 1,
+   "other_user:mixed": 2,
+   "author:recommend": 3,
+   "author:question": 1,
+   "other_user:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [],
+  "comment": "欸，确实还不错",
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-17T12:27:46Z",
+  "last_seen": "2026-11-24T16:45:06Z",
+  "mentions": 13,
+  "sources": [
+   "https://www.threads.com/@am_03.36_/post/DgHCBETGDX1",
+   "https://www.threads.com/@just_be_with_you_0219/post/DgHw-gVH1xa",
+   "https://www.threads.com/@lychee_superman/post/DgIaiSOEjoN",
+   "https://www.threads.com/@zeke_6973/post/Df17hXwoJM8",
+   "https://www.threads.com/@zeke_6973/post/DgF7QZWgTgq",
+   "https://www.threads.com/@zeke_6973/post/DgFa56XoN7T",
+   "https://www.threads.com/@zeke_6973/post/DgFaeCqoK2K",
+   "https://www.threads.com/@zeke_6973/post/DgFbRBXIOti",
+   "https://www.threads.com/@zeke_6973/post/DgFbi6loA2x",
+   "https://www.threads.com/@zeke_6973/post/DgFcA5ToJjU"
+  ]
+ },
+ {
   "brand": "壽司郎",
   "names_in_threads": {
    "寿司郎": 10,
@@ -266,121 +410,13 @@
   ]
  },
  {
-  "brand": "丹丹",
-  "names_in_threads": {
-   "丹丹": 8,
-   "丹丹汉堡": 5
-  },
-  "stance": {
-   "other_user:recommend": 3,
-   "other_user:question": 1,
-   "author:mention": 5,
-   "other_user:mention": 2,
-   "author:recommend": 2
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "米糕",
-   "火腿鸡蛋吐司"
-  ],
-  "comment": "终于吃到高雄特产丹丹汉堡了！！",
-  "saved_branch_cids": [],
-  "first_seen": "2026-09-17T15:01:41Z",
-  "last_seen": "2026-11-26T05:28:12Z",
-  "mentions": 13,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdZIpTEgRld",
-   "https://www.threads.com/@zeke_6973/post/DeHnG1BATrt",
-   "https://www.threads.com/@zeke_6973/post/DfeAaJ0INcA",
-   "https://www.threads.com/@zeke_6973/post/DfeB2H_IDgd",
-   "https://www.threads.com/@zeke_6973/post/DfeBU3CIGZa",
-   "https://www.threads.com/@zeke_6973/post/DfeEkoZIKku",
-   "https://www.threads.com/@zeke_6973/post/DgLDpxWASMl",
-   "https://www.threads.com/@zeke_6973/post/DgLGqk5Abs5",
-   "https://www.threads.com/@zeke_6973/post/DgMWqRYoBjW"
-  ]
- },
- {
-  "brand": "迷客夏",
-  "names_in_threads": {
-   "迷客夏": 12
-  },
-  "stance": {
-   "author:recommend": 9,
-   "other_user:mixed": 1,
-   "other_user:recommend": 1,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "鲜奶系列",
-   "嫩仙草冻奶",
-   "芋头",
-   "仙草鲜奶",
-   "芋头鲜奶"
-  ],
-  "comment": "迷客夏鲜奶系列",
-  "saved_branch_cids": [
-   "10125488561352514194",
-   "1478576240692833592"
-  ],
-  "first_seen": "2026-10-22T10:31:32Z",
-  "last_seen": "2026-11-26T16:33:33Z",
-  "mentions": 12,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DeyxjSZgeo2",
-   "https://www.threads.com/@zeke_6973/post/DfCFVMloJyS",
-   "https://www.threads.com/@zeke_6973/post/DfSIKJagVos",
-   "https://www.threads.com/@zeke_6973/post/DfSNnUrAd2C",
-   "https://www.threads.com/@zeke_6973/post/DfU18SiAV4b",
-   "https://www.threads.com/@zeke_6973/post/DgFfrKhIN4l",
-   "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
-   "https://www.threads.com/@zeke_6973/post/DgH3ExRIP-3",
-   "https://www.threads.com/@zeke_6973/post/DgHyS_poBzs",
-   "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i",
-   "https://www.threads.com/@zeke_6973/post/DgNizY5gZal"
-  ]
- },
- {
-  "brand": "肉次方",
-  "names_in_threads": {
-   "肉次方": 10
-  },
-  "stance": {
-   "other_user:recommend": 3,
-   "author:mention": 1,
-   "other_user:mixed": 2,
-   "author:recommend": 3,
-   "author:question": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [],
-  "comment": "欸，确实还不错",
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-17T12:27:46Z",
-  "last_seen": "2026-11-23T17:33:18Z",
-  "mentions": 10,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Df17hXwoJM8",
-   "https://www.threads.com/@zeke_6973/post/DgF7QZWgTgq",
-   "https://www.threads.com/@zeke_6973/post/DgFa56XoN7T",
-   "https://www.threads.com/@zeke_6973/post/DgFaeCqoK2K",
-   "https://www.threads.com/@zeke_6973/post/DgFbRBXIOti",
-   "https://www.threads.com/@zeke_6973/post/DgFbi6loA2x",
-   "https://www.threads.com/@zeke_6973/post/DgFcA5ToJjU"
-  ]
- },
- {
   "brand": "肯德基",
   "names_in_threads": {
-   "肯德基": 9
+   "肯德基": 11
   },
   "stance": {
-   "other_user:question": 2,
-   "other_user:recommend": 3,
+   "other_user:question": 3,
+   "other_user:recommend": 4,
    "author:mention": 2,
    "other_user:mention": 2
   },
@@ -392,8 +428,10 @@
   "saved_branch_cids": [],
   "first_seen": "2026-09-16T14:44:49Z",
   "last_seen": "2026-11-26T02:31:13Z",
-  "mentions": 9,
+  "mentions": 11,
   "sources": [
+   "https://www.threads.com/@happybigtoe01/post/DgKw3SJE8Z5",
+   "https://www.threads.com/@sooxies/post/DdYurwBiXlB",
    "https://www.threads.com/@zeke_6973/post/DdWh64ZAd-3",
    "https://www.threads.com/@zeke_6973/post/DdZC-XXgVFd",
    "https://www.threads.com/@zeke_6973/post/DdZYyNqgfix",
@@ -407,12 +445,13 @@
   "brand": "甘蔗妈妈",
   "names_in_threads": {
    "甘蔗妈妈": 6,
-   "甘蔗媽媽": 2
+   "甘蔗媽媽": 4
   },
   "stance": {
    "author:recommend": 6,
    "other_user:question": 1,
-   "author:mention": 1
+   "author:mention": 1,
+   "other_user:recommend": 2
   },
   "experience": "visited",
   "author_recommends": true,
@@ -426,8 +465,10 @@
   "saved_branch_cids": [],
   "first_seen": "2026-10-06T12:27:30Z",
   "last_seen": "2026-11-26T03:14:52Z",
-  "mentions": 8,
+  "mentions": 10,
   "sources": [
+   "https://www.threads.com/@11lazyjustice11/post/DfO_XQMEaZf",
+   "https://www.threads.com/@jane65432000/post/DfTezJOElzx",
    "https://www.threads.com/@zeke_6973/post/DeJyGojgWCl",
    "https://www.threads.com/@zeke_6973/post/De_vhjiAVUA",
    "https://www.threads.com/@zeke_6973/post/DfO8-62oPg2",
@@ -436,6 +477,40 @@
    "https://www.threads.com/@zeke_6973/post/DgFqeUBIKXV",
    "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
    "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i"
+  ]
+ },
+ {
+  "brand": "亞尼克",
+  "names_in_threads": {
+   "亞尼克": 7,
+   "亚尼克": 2
+  },
+  "stance": {
+   "other_user:question": 2,
+   "other_user:recommend": 3,
+   "author:recommend": 2,
+   "other_user:mention": 1,
+   "author:mixed": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "蛋糕卷",
+   "蛋糕"
+  ],
+  "comment": "我也觉得，而且那个蛋糕卷",
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-13T16:08:33Z",
+  "last_seen": "2026-11-26T10:56:45Z",
+  "mentions": 9,
+  "sources": [
+   "https://www.threads.com/@kabi_1118/post/DecipBoEjvn",
+   "https://www.threads.com/@zeke_6973/post/DecM93LDypy",
+   "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
+   "https://www.threads.com/@zeke_6973/post/DgM7kRpoFY4",
+   "https://www.threads.com/@zeke_6973/post/DgM7pwpoEKc",
+   "https://www.threads.com/@zeke_6973/post/DgM7rqDIDW8",
+   "https://www.threads.com/@zeke_6973/post/DgM8QnwICvf"
   ]
  },
  {
@@ -476,6 +551,39 @@
   ]
  },
  {
+  "brand": "鼎泰豐",
+  "names_in_threads": {
+   "鼎泰丰": 6,
+   "鼎泰豐": 2
+  },
+  "stance": {
+   "other_user:mention": 3,
+   "author:recommend": 4,
+   "other_user:negative": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "牛肉面",
+   "牛肉麵"
+  ],
+  "comment": "除了鼎泰丰最好吃的牛肉面了",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-13T04:27:08Z",
+  "last_seen": "2026-10-20T10:34:50Z",
+  "mentions": 8,
+  "sources": [
+   "https://www.threads.com/@bingbingder487/post/DetoVxAnTWG",
+   "https://www.threads.com/@eateatpig/post/DetivGmIEmx",
+   "https://www.threads.com/@mong.gyo/post/DetQ7dWE5p3",
+   "https://www.threads.com/@zeke_6973/post/DdNs2StIK_R",
+   "https://www.threads.com/@zeke_6973/post/Ddbc04ygWoK",
+   "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn",
+   "https://www.threads.com/@zeke_6973/post/DdvzQNkIHmR",
+   "https://www.threads.com/@zeke_6973/post/DeMKiQXgdy9"
+  ]
+ },
+ {
   "brand": "季緣",
   "names_in_threads": {
    "季緣": 8
@@ -506,36 +614,62 @@
   ]
  },
  {
-  "brand": "亞尼克",
+  "brand": "麥味登",
   "names_in_threads": {
-   "亞尼克": 6,
-   "亚尼克": 2
+   "麥味登": 8
   },
   "stance": {
-   "other_user:question": 1,
    "other_user:recommend": 3,
    "author:recommend": 2,
-   "other_user:mention": 1,
-   "author:mixed": 1
+   "other_user:mention": 2,
+   "author:mention": 1
   },
   "experience": "visited",
   "author_recommends": true,
   "items": [
-   "蛋糕卷",
-   "蛋糕"
+   "早餐"
   ],
-  "comment": "我也觉得，而且那个蛋糕卷",
+  "comment": "第一次吃，感觉味道还不错",
   "saved_branch_cids": [],
-  "first_seen": "2026-10-13T16:08:33Z",
-  "last_seen": "2026-11-26T10:56:45Z",
+  "first_seen": "2026-10-16T05:04:51Z",
+  "last_seen": "2026-10-18T05:17:25Z",
   "mentions": 8,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DecM93LDypy",
-   "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
-   "https://www.threads.com/@zeke_6973/post/DgM7kRpoFY4",
-   "https://www.threads.com/@zeke_6973/post/DgM7pwpoEKc",
-   "https://www.threads.com/@zeke_6973/post/DgM7rqDIDW8",
-   "https://www.threads.com/@zeke_6973/post/DgM8QnwICvf"
+   "https://www.threads.com/@bobson.lee.666/post/Dej40yOj6tA",
+   "https://www.threads.com/@hibrother._.shit/post/Den6bH6ksCi",
+   "https://www.threads.com/@wen080989/post/DekPR9dE_X1",
+   "https://www.threads.com/@westwest0808/post/Dej7KhZD5pU",
+   "https://www.threads.com/@zeke_6973/post/Dei0YQ2oAr8",
+   "https://www.threads.com/@zeke_6973/post/DeivZXnoK7Y"
+  ]
+ },
+ {
+  "brand": "三商巧福",
+  "names_in_threads": {
+   "三商巧福": 8
+  },
+  "stance": {
+   "other_user:recommend": 4,
+   "author:recommend": 1,
+   "other_user:mention": 1,
+   "author:mention": 2
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [],
+  "comment": "我觉得台湾的连锁店品牌都好好吃",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-26T09:20:12Z",
+  "last_seen": "2026-11-24T12:45:35Z",
+  "mentions": 8,
+  "sources": [
+   "https://www.threads.com/@allencom/post/DfHf8FOEm-8",
+   "https://www.threads.com/@c.h.h986429/post/DdvsuDpGuN-",
+   "https://www.threads.com/@zeke_6973/post/Dd_CGI-oP3v",
+   "https://www.threads.com/@zeke_6973/post/Ddv9TOuAXgV",
+   "https://www.threads.com/@zeke_6973/post/DdwMqPqgbFB",
+   "https://www.threads.com/@zeke_6973/post/DgH961coIl_",
+   "https://www.threads.com/@zeke_6973/post/DgH_H-uoPyY"
   ]
  },
  {
@@ -626,6 +760,70 @@
   ]
  },
  {
+  "brand": "派克",
+  "names_in_threads": {
+   "派克": 7
+  },
+  "stance": {
+   "author:negative": 1,
+   "other_user:negative": 2,
+   "author:recommend": 1,
+   "other_user:question": 1,
+   "other_user:recommend": 1,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [
+   "杏鲍菇"
+  ],
+  "comment": "一定要趁热吃 ，感觉杏鲍菇还不错呀",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-21T13:11:59Z",
+  "last_seen": "2026-11-02T10:57:01Z",
+  "mentions": 7,
+  "sources": [
+   "https://www.threads.com/@xbh0311/post/De9HYkCAQPU",
+   "https://www.threads.com/@zeke_6973/post/Dd1C5lwAWQ8",
+   "https://www.threads.com/@zeke_6973/post/Dd1CkD_AQN5",
+   "https://www.threads.com/@zeke_6973/post/DdjPRUOASd5",
+   "https://www.threads.com/@zeke_6973/post/DfPJNlXgbOl"
+  ]
+ },
+ {
+  "brand": "錢都",
+  "names_in_threads": {
+   "錢都": 5,
+   "钱都": 1
+  },
+  "stance": {
+   "other_user:question": 1,
+   "author:recommend": 2,
+   "author:mention": 1,
+   "other_user:negative": 2
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "冰淇淋",
+   "苹果汁",
+   "柳橙汁",
+   "火锅"
+  ],
+  "comment": "吃过，这个也好吃的呀",
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-21T15:56:31Z",
+  "last_seen": "2026-11-21T17:06:07Z",
+  "mentions": 6,
+  "sources": [
+   "https://www.threads.com/@cheng9517/post/DfSNXw8mYIB",
+   "https://www.threads.com/@shining0531/post/DexlUX6knBp",
+   "https://www.threads.com/@zeke_6973/post/Dewx8rWgd5r",
+   "https://www.threads.com/@zeke_6973/post/DfRl79zAV7s",
+   "https://www.threads.com/@zeke_6973/post/DgAujgTgcoZ"
+  ]
+ },
+ {
   "brand": "溫州大餛飩",
   "names_in_threads": {
    "溫州大餛飩": 6
@@ -653,32 +851,31 @@
   ]
  },
  {
-  "brand": "派克",
+  "brand": "Sukiya",
   "names_in_threads": {
-   "派克": 6
+   "Sukiya": 5,
+   "sukiya": 1
   },
   "stance": {
-   "author:negative": 1,
-   "other_user:negative": 2,
-   "author:recommend": 1,
-   "other_user:recommend": 1,
+   "other_user:recommend": 4,
+   "author:question": 1,
    "author:mention": 1
   },
-  "experience": "visited",
+  "experience": "planned",
   "author_recommends": false,
   "items": [
-   "杏鲍菇"
+   "牛肉饭"
   ],
-  "comment": "一定要趁热吃 ，感觉杏鲍菇还不错呀",
   "saved_branch_cids": [],
-  "first_seen": "2026-09-21T13:11:59Z",
-  "last_seen": "2026-11-02T10:57:01Z",
+  "first_seen": "2026-10-07T09:00:05Z",
+  "last_seen": "2026-10-29T11:27:18Z",
   "mentions": 6,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dd1C5lwAWQ8",
-   "https://www.threads.com/@zeke_6973/post/Dd1CkD_AQN5",
-   "https://www.threads.com/@zeke_6973/post/DdjPRUOASd5",
-   "https://www.threads.com/@zeke_6973/post/DfPJNlXgbOl"
+   "https://www.threads.com/@det.9114/post/DeMBekik2-t",
+   "https://www.threads.com/@zeke_6973/post/DeL_KXEII0v",
+   "https://www.threads.com/@zeke_6973/post/DeMKlFKAY-7",
+   "https://www.threads.com/@zeke_6973/post/DfE5f5iASAN",
+   "https://www.threads.com/@zhutopia_/post/DeMWxhFjyfp"
   ]
  },
  {
@@ -709,82 +906,85 @@
   ]
  },
  {
-  "brand": "三商巧福",
+  "brand": "奉茶",
   "names_in_threads": {
-   "三商巧福": 6
+   "奉茶": 5
   },
   "stance": {
-   "author:mention": 2,
-   "other_user:recommend": 3,
-   "author:recommend": 1
+   "other_user:recommend": 2,
+   "author:recommend": 1,
+   "author:mention": 2
   },
   "experience": "visited",
   "author_recommends": true,
   "items": [],
-  "comment": "我觉得台湾的连锁店品牌都好好吃",
   "saved_branch_cids": [],
-  "first_seen": "2026-09-26T11:45:05Z",
-  "last_seen": "2026-11-24T12:45:35Z",
-  "mentions": 6,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dd_CGI-oP3v",
-   "https://www.threads.com/@zeke_6973/post/Ddv9TOuAXgV",
-   "https://www.threads.com/@zeke_6973/post/DdwMqPqgbFB",
-   "https://www.threads.com/@zeke_6973/post/DgH961coIl_",
-   "https://www.threads.com/@zeke_6973/post/DgH_H-uoPyY"
-  ]
- },
- {
-  "brand": "鼎王",
-  "names_in_threads": {
-   "鼎王": 5
-  },
-  "stance": {
-   "other_user:recommend": 2,
-   "other_user:mention": 2,
-   "author:mention": 1
-  },
-  "experience": "planned",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-14T19:18:46Z",
-  "last_seen": "2026-10-25T14:15:24Z",
+  "first_seen": "2026-11-10T04:43:22Z",
+  "last_seen": "2026-11-10T15:47:17Z",
   "mentions": 5,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/De65jiTjxbi",
-   "https://www.threads.com/@zeke_6973/post/DefHh1mAfjL",
-   "https://www.threads.com/@zeke_6973/post/DefHuougf8d",
-   "https://www.threads.com/@zeke_6973/post/DefIASIASFr",
-   "https://www.threads.com/@zeke_6973/post/DefIzmFAci5"
+   "https://www.threads.com/@jxjacey_310/post/DfjEz6yicSM",
+   "https://www.threads.com/@zeke_6973/post/DfkMYK-j536",
+   "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
+   "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
+   "https://www.threads.com/@zeke_6973/post/DfkQyhoAbbH"
   ]
  },
  {
-  "brand": "鼎泰豐",
+  "brand": "鬍鬚張",
   "names_in_threads": {
-   "鼎泰丰": 5
+   "鬍鬚張": 3,
+   "胡须张": 2
   },
   "stance": {
-   "other_user:mention": 1,
-   "author:recommend": 4
+   "author:recommend": 2,
+   "other_user:recommend": 1,
+   "author:mention": 1,
+   "other_user:mixed": 1
   },
   "experience": "visited",
   "author_recommends": true,
   "items": [
-   "牛肉面",
-   "牛肉麵"
+   "A菜"
   ],
-  "comment": "除了鼎泰丰最好吃的牛肉面了",
+  "comment": "我也觉得胡须张好好吃",
   "saved_branch_cids": [],
-  "first_seen": "2026-09-13T04:27:08Z",
-  "last_seen": "2026-10-07T10:39:28Z",
+  "first_seen": "2026-09-23T11:29:22Z",
+  "last_seen": "2026-10-30T04:41:10Z",
   "mentions": 5,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdNs2StIK_R",
-   "https://www.threads.com/@zeke_6973/post/Ddbc04ygWoK",
-   "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn",
-   "https://www.threads.com/@zeke_6973/post/DdvzQNkIHmR",
-   "https://www.threads.com/@zeke_6973/post/DeMKiQXgdy9"
+   "https://www.threads.com/@chen.panpan.94/post/DfGv0KXk4P2",
+   "https://www.threads.com/@zeke_6973/post/DdoNHkDIBuC",
+   "https://www.threads.com/@zeke_6973/post/De94q4wgVYv",
+   "https://www.threads.com/@zeke_6973/post/DeCXOUKAdFW"
+  ]
+ },
+ {
+  "brand": "五燈獎",
+  "names_in_threads": {
+   "五燈獎": 5
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "other_user:mixed": 1,
+   "other_user:question": 1,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [
+   "10836693710884008407",
+   "7390618790061298717"
+  ],
+  "first_seen": "2026-10-27T17:28:10Z",
+  "last_seen": "2026-11-26T09:12:42Z",
+  "mentions": 5,
+  "sources": [
+   "https://www.threads.com/@debbyw1993/post/DfAZNODD9kt",
+   "https://www.threads.com/@ny_mph__makeup/post/DgMwWeZE4Gv",
+   "https://www.threads.com/@robert070412/post/DgKg1fgoLW_",
+   "https://www.threads.com/@zeke_6973/post/DgKjzxVoF8m"
   ]
  },
  {
@@ -813,36 +1013,6 @@
   ]
  },
  {
-  "brand": "錢都",
-  "names_in_threads": {
-   "錢都": 3,
-   "钱都": 1
-  },
-  "stance": {
-   "other_user:question": 1,
-   "author:recommend": 2,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "冰淇淋",
-   "苹果汁",
-   "柳橙汁",
-   "火锅"
-  ],
-  "comment": "吃过，这个也好吃的呀",
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-21T15:56:31Z",
-  "last_seen": "2026-11-21T17:06:07Z",
-  "mentions": 4,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dewx8rWgd5r",
-   "https://www.threads.com/@zeke_6973/post/DfRl79zAV7s",
-   "https://www.threads.com/@zeke_6973/post/DgAujgTgcoZ"
-  ]
- },
- {
   "brand": "萨利亚",
   "names_in_threads": {
    "萨利亚": 2,
@@ -867,52 +1037,71 @@
   ]
  },
  {
-  "brand": "奉茶",
+  "brand": "涮乃葉",
   "names_in_threads": {
-   "奉茶": 4
+   "涮乃葉": 4
   },
   "stance": {
-   "other_user:recommend": 1,
-   "author:recommend": 1,
-   "author:mention": 2
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-10T15:08:44Z",
-  "last_seen": "2026-11-10T15:47:17Z",
-  "mentions": 4,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DfkMYK-j536",
-   "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
-   "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "https://www.threads.com/@zeke_6973/post/DfkQyhoAbbH"
-  ]
- },
- {
-  "brand": "Sukiya",
-  "names_in_threads": {
-   "Sukiya": 4
-  },
-  "stance": {
-   "other_user:recommend": 2,
-   "author:question": 1,
+   "other_user:recommend": 3,
    "author:mention": 1
   },
   "experience": "planned",
   "author_recommends": false,
-  "items": [
-   "牛肉饭"
-  ],
+  "items": [],
   "saved_branch_cids": [],
-  "first_seen": "2026-10-07T09:00:05Z",
-  "last_seen": "2026-10-29T11:27:18Z",
+  "first_seen": "2026-11-16T07:49:17Z",
+  "last_seen": "2026-11-16T07:53:36Z",
   "mentions": 4,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DeL_KXEII0v",
-   "https://www.threads.com/@zeke_6973/post/DeMKlFKAY-7",
-   "https://www.threads.com/@zeke_6973/post/DfE5f5iASAN"
+   "https://www.threads.com/@qwe55665566/post/Dfy220NGuS3",
+   "https://www.threads.com/@zeke_6973/post/Dfy3UvlIDy1",
+   "https://www.threads.com/@zeke_6973/post/Dfy3WZiII_Y"
+  ]
+ },
+ {
+  "brand": "錢櫃",
+  "names_in_threads": {
+   "錢櫃": 4
+  },
+  "stance": {
+   "other_user:mention": 2,
+   "other_user:recommend": 2
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-21T15:49:58Z",
+  "last_seen": "2026-10-21T23:25:24Z",
+  "mentions": 4,
+  "sources": [
+   "https://www.threads.com/@desprichling/post/Dew9-7Ok9o5",
+   "https://www.threads.com/@hou_jing_/post/Dew7HaiEuDS",
+   "https://www.threads.com/@shining0531/post/DexlUX6knBp",
+   "https://www.threads.com/@zeke_6973/post/DewxMvjASA8"
+  ]
+ },
+ {
+  "brand": "鼎王",
+  "names_in_threads": {
+   "鼎王": 4
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "other_user:mention": 2
+  },
+  "experience": "planned",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-14T19:18:46Z",
+  "last_seen": "2026-10-14T19:29:55Z",
+  "mentions": 4,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DefHh1mAfjL",
+   "https://www.threads.com/@zeke_6973/post/DefHuougf8d",
+   "https://www.threads.com/@zeke_6973/post/DefIASIASFr",
+   "https://www.threads.com/@zeke_6973/post/DefIzmFAci5"
   ]
  },
  {
@@ -939,6 +1128,57 @@
   ]
  },
  {
+  "brand": "洪瑞珍",
+  "names_in_threads": {
+   "洪瑞珍": 4
+  },
+  "stance": {
+   "other_user:recommend": 1,
+   "author:recommend": 2,
+   "other_user:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "中華滿漢",
+   "柑橘口味"
+  ],
+  "comment": "感覺這個柑橘口味就已經夠好吃",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-16T13:07:38Z",
+  "last_seen": "2026-09-17T03:37:40Z",
+  "mentions": 4,
+  "sources": [
+   "https://www.threads.com/@camille347x/post/DdX6XaNElkf",
+   "https://www.threads.com/@zeke_6973/post/DdW02qUgeQ_",
+   "https://www.threads.com/@zeke_6973/post/DdWWzJPgZuJ"
+  ]
+ },
+ {
+  "brand": "師園",
+  "names_in_threads": {
+   "師園": 3,
+   "师园": 1
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "other_user:mention": 2
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-18T00:06:58Z",
+  "last_seen": "2026-11-17T12:55:18Z",
+  "mentions": 4,
+  "sources": [
+   "https://www.threads.com/@gwendelin2/post/DdaHDGSkwY9",
+   "https://www.threads.com/@zeke_6973/post/DeyFW21IG8b",
+   "https://www.threads.com/@zeke_6973/post/Df1-rBnoH2c",
+   "https://www.threads.com/@zeke_6973/post/DfR9gxYgXM7"
+  ]
+ },
+ {
   "brand": "天仁",
   "names_in_threads": {
    "天仁": 3,
@@ -961,33 +1201,6 @@
    "https://www.threads.com/@zeke_6973/post/DeRU2EDAXiI",
    "https://www.threads.com/@zeke_6973/post/DfAa2BxgeZs",
    "https://www.threads.com/@zeke_6973/post/DgF_Tu1Abk6"
-  ]
- },
- {
-  "brand": "鬍鬚張",
-  "names_in_threads": {
-   "胡须张": 2,
-   "鬍鬚張": 2
-  },
-  "stance": {
-   "author:recommend": 2,
-   "other_user:recommend": 1,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "A菜"
-  ],
-  "comment": "我也觉得胡须张好好吃",
-  "saved_branch_cids": [],
-  "first_seen": "2026-09-23T11:29:22Z",
-  "last_seen": "2026-10-26T18:05:23Z",
-  "mentions": 4,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdoNHkDIBuC",
-   "https://www.threads.com/@zeke_6973/post/De94q4wgVYv",
-   "https://www.threads.com/@zeke_6973/post/DeCXOUKAdFW"
   ]
  },
  {
@@ -1044,31 +1257,6 @@
   ]
  },
  {
-  "brand": "麥味登",
-  "names_in_threads": {
-   "麥味登": 4
-  },
-  "stance": {
-   "other_user:recommend": 1,
-   "author:recommend": 2,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "早餐"
-  ],
-  "comment": "第一次吃，感觉味道还不错",
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-16T05:04:51Z",
-  "last_seen": "2026-10-16T05:48:24Z",
-  "mentions": 4,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dei0YQ2oAr8",
-   "https://www.threads.com/@zeke_6973/post/DeivZXnoK7Y"
-  ]
- },
- {
   "brand": "馬辣",
   "names_in_threads": {
    "馬辣": 3,
@@ -1089,6 +1277,49 @@
    "https://www.threads.com/@zeke_6973/post/DefIG8fgXBg",
    "https://www.threads.com/@zeke_6973/post/DefIdx8AQhf",
    "https://www.threads.com/@zeke_6973/post/DefJolggc_Q"
+  ]
+ },
+ {
+  "brand": "清心",
+  "names_in_threads": {
+   "清心": 3
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "other_user:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-12T02:26:31Z",
+  "last_seen": "2026-11-24T17:25:50Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@weendy5300/post/DgIfMpgmVJJ",
+   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_",
+   "https://www.threads.com/@zeke_6973/post/DgH7quwoDpq"
+  ]
+ },
+ {
+  "brand": "家鴻",
+  "names_in_threads": {
+   "家鴻": 3
+  },
+  "stance": {
+   "other_user:recommend": 3
+  },
+  "experience": "planned",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-22T13:08:45Z",
+  "last_seen": "2026-11-22T14:21:18Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@celestine_zzzz/post/DgDAfTIGjoS",
+   "https://www.threads.com/@cooperhu0424/post/DgC4U3wD0Qx",
+   "https://www.threads.com/@zeke_6973/post/DgC4L3LIBhh"
   ]
  },
  {
@@ -1114,47 +1345,27 @@
   ]
  },
  {
-  "brand": "師園",
+  "brand": "貴族世家",
   "names_in_threads": {
-   "師園": 2,
-   "师园": 1
+   "貴族世家": 2,
+   "贵族世家": 1
   },
   "stance": {
-   "other_user:recommend": 1,
-   "other_user:mention": 2
+   "other_user:mixed": 1,
+   "author:mixed": 1,
+   "other_user:recommend": 1
   },
   "experience": "visited",
   "author_recommends": false,
   "items": [],
   "saved_branch_cids": [],
-  "first_seen": "2026-10-22T04:05:21Z",
-  "last_seen": "2026-11-17T12:55:18Z",
+  "first_seen": "2026-10-13T11:16:43Z",
+  "last_seen": "2026-11-15T13:49:08Z",
   "mentions": 3,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DeyFW21IG8b",
-   "https://www.threads.com/@zeke_6973/post/Df1-rBnoH2c",
-   "https://www.threads.com/@zeke_6973/post/DfR9gxYgXM7"
-  ]
- },
- {
-  "brand": "涮乃葉",
-  "names_in_threads": {
-   "涮乃葉": 3
-  },
-  "stance": {
-   "other_user:recommend": 2,
-   "author:mention": 1
-  },
-  "experience": "planned",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-16T07:53:22Z",
-  "last_seen": "2026-11-16T07:53:36Z",
-  "mentions": 3,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dfy3UvlIDy1",
-   "https://www.threads.com/@zeke_6973/post/Dfy3WZiII_Y"
+   "https://www.threads.com/@rosie22400422/post/DebrkZ-E06C",
+   "https://www.threads.com/@zeke_6973/post/Dfw7PgrIN1V",
+   "https://www.threads.com/@zeke_6973/post/DfwU-15IASS"
   ]
  },
  {
@@ -1270,28 +1481,24 @@
   ]
  },
  {
-  "brand": "洪瑞珍",
+  "brand": "拉亞",
   "names_in_threads": {
-   "洪瑞珍": 3
+   "拉亞": 3
   },
   "stance": {
-   "other_user:recommend": 1,
-   "author:recommend": 2
+   "other_user:recommend": 3
   },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "中華滿漢",
-   "柑橘口味"
-  ],
-  "comment": "感覺這個柑橘口味就已經夠好吃",
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
   "saved_branch_cids": [],
-  "first_seen": "2026-09-16T13:07:38Z",
-  "last_seen": "2026-09-16T17:30:16Z",
+  "first_seen": "2026-11-20T04:08:16Z",
+  "last_seen": "2026-11-25T06:12:55Z",
   "mentions": 3,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdW02qUgeQ_",
-   "https://www.threads.com/@zeke_6973/post/DdWWzJPgZuJ"
+   "https://www.threads.com/@jinwen39/post/DgJ2-3YmfkH",
+   "https://www.threads.com/@snpimm/post/Df-C75YEhEM",
+   "https://www.threads.com/@xqua9997/post/Df8wvlZICcO"
   ]
  },
  {
@@ -1317,6 +1524,56 @@
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DfmYEUGE6WT",
    "https://www.threads.com/@zeke_6973/post/DgL897qIEQM"
+  ]
+ },
+ {
+  "brand": "繼光香香雞",
+  "names_in_threads": {
+   "继光香香鸡": 2,
+   "繼光香香雞": 1
+  },
+  "stance": {
+   "author:mention": 1,
+   "other_user:mention": 1,
+   "author:recommend": 1
+  },
+  "experience": "planned",
+  "author_recommends": true,
+  "items": [
+   "炸雞",
+   "鹹酥雞"
+  ],
+  "comment": "胖老爹、继光香香鸡 这两家最好吃了",
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-17T12:24:27Z",
+  "last_seen": "2026-11-26T01:40:03Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@mihua_qaq555/post/Df1_ntkFNEa",
+   "https://www.threads.com/@zeke_6973/post/Df17JHxoLYr",
+   "https://www.threads.com/@zeke_6973/post/DgL8jPwoNSJ"
+  ]
+ },
+ {
+  "brand": "惡魔雞排",
+  "names_in_threads": {
+   "惡魔雞排": 3
+  },
+  "stance": {
+   "other_user:question": 1,
+   "author:question": 1,
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-03T11:38:14Z",
+  "last_seen": "2026-11-03T18:43:34Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@coconut.yen/post/DfSjZj1E4vQ",
+   "https://www.threads.com/@zeke_6973/post/DfRyuVCgcTX"
   ]
  },
  {
@@ -1395,6 +1652,28 @@
   ]
  },
  {
+  "brand": "Subway",
+  "names_in_threads": {
+   "subway": 2,
+   "Subway": 1
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "author:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-17T14:03:55Z",
+  "last_seen": "2026-11-05T09:14:30Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@py2a0179/post/DfWr3VRGJBw",
+   "https://www.threads.com/@zeke_6973/post/DdZCCRXgf-W"
+  ]
+ },
+ {
   "brand": "comeme蛋塔",
   "names_in_threads": {
    "comeme蛋塔": 2
@@ -1460,50 +1739,6 @@
   ]
  },
  {
-  "brand": "五燈獎",
-  "names_in_threads": {
-   "五燈獎": 2
-  },
-  "stance": {
-   "other_user:question": 1,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [
-   "10836693710884008407",
-   "7390618790061298717"
-  ],
-  "first_seen": "2026-11-25T12:44:37Z",
-  "last_seen": "2026-11-25T12:44:37Z",
-  "mentions": 2,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgKjzxVoF8m"
-  ]
- },
- {
-  "brand": "清心",
-  "names_in_threads": {
-   "清心": 2
-  },
-  "stance": {
-   "other_user:recommend": 1,
-   "other_user:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-12T02:26:31Z",
-  "last_seen": "2026-11-24T12:15:22Z",
-  "mentions": 2,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_",
-   "https://www.threads.com/@zeke_6973/post/DgH7quwoDpq"
-  ]
- },
- {
   "brand": "路易奇",
   "names_in_threads": {
    "路易奇": 2
@@ -1541,28 +1776,6 @@
   "mentions": 2,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/Df18cqTIOAx"
-  ]
- },
- {
-  "brand": "貴族世家",
-  "names_in_threads": {
-   "貴族世家": 1,
-   "贵族世家": 1
-  },
-  "stance": {
-   "other_user:mixed": 1,
-   "author:mixed": 1
-  },
-  "experience": "visited",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-15T08:14:48Z",
-  "last_seen": "2026-11-15T13:49:08Z",
-  "mentions": 2,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dfw7PgrIN1V",
-   "https://www.threads.com/@zeke_6973/post/DfwU-15IASS"
   ]
  },
  {
@@ -1611,6 +1824,27 @@
   ]
  },
  {
+  "brand": "藏壽司",
+  "names_in_threads": {
+   "藏壽司": 2
+  },
+  "stance": {
+   "other_user:recommend": 1,
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-05T12:36:53Z",
+  "last_seen": "2026-11-05T13:41:22Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@qw998800/post/DfXKZ4Nmi6P",
+   "https://www.threads.com/@zeke_6973/post/DfXDBr1gVCv"
+  ]
+ },
+ {
   "brand": "春水堂",
   "names_in_threads": {
    "春水堂": 2
@@ -1630,26 +1864,6 @@
   "mentions": 2,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DfR9gxYgXM7"
-  ]
- },
- {
-  "brand": "惡魔雞排",
-  "names_in_threads": {
-   "惡魔雞排": 2
-  },
-  "stance": {
-   "other_user:question": 1,
-   "author:question": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-03T11:38:14Z",
-  "last_seen": "2026-11-03T11:38:14Z",
-  "mentions": 2,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DfRyuVCgcTX"
   ]
  },
  {
@@ -1737,26 +1951,6 @@
   ]
  },
  {
-  "brand": "Subway",
-  "names_in_threads": {
-   "subway": 2
-  },
-  "stance": {
-   "other_user:recommend": 1,
-   "author:mention": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-09-17T14:03:55Z",
-  "last_seen": "2026-09-17T14:03:55Z",
-  "mentions": 2,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdZCCRXgf-W"
-  ]
- },
- {
   "brand": "汤龙腾炖罐",
   "names_in_threads": {
    "汤龙腾炖罐": 2
@@ -1782,28 +1976,84 @@
   ]
  },
  {
-  "brand": "繼光香香雞",
+  "brand": "衫樽串燒居酒屋",
   "names_in_threads": {
-   "继光香香鸡": 2
+   "衫樽串燒居酒屋": 2
   },
   "stance": {
-   "author:recommend": 1,
-   "author:mention": 1
+   "other_user:recommend": 2
   },
-  "experience": "planned",
-  "author_recommends": true,
-  "items": [
-   "炸雞",
-   "鹹酥雞"
-  ],
-  "comment": "胖老爹、继光香香鸡 这两家最好吃了",
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
   "saved_branch_cids": [],
-  "first_seen": "2026-11-17T12:24:27Z",
-  "last_seen": "2026-11-26T01:40:03Z",
+  "first_seen": "2026-11-10T07:32:45Z",
+  "last_seen": "2026-11-10T08:17:58Z",
   "mentions": 2,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/Df17JHxoLYr",
-   "https://www.threads.com/@zeke_6973/post/DgL8jPwoNSJ"
+   "https://www.threads.com/@shan_zun.izakaya.haian/post/DfjYMbCkr9X",
+   "https://www.threads.com/@shan_zun.izakaya.haian/post/DfjdXsjkjD2"
+  ]
+ },
+ {
+  "brand": "鴨肉珍",
+  "names_in_threads": {
+   "鴨肉珍": 2
+  },
+  "stance": {
+   "other_user:recommend": 2
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-07T13:34:02Z",
+  "last_seen": "2026-11-10T00:54:44Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@yiren8556/post/DfiqpV_CSTz",
+   "https://www.threads.com/@yun_rou_c929/post/DfcTJ9Nn_h0"
+  ]
+ },
+ {
+  "brand": "肉多多",
+  "names_in_threads": {
+   "肉多多": 2
+  },
+  "stance": {
+   "other_user:mixed": 1,
+   "other_user:negative": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-03T15:31:05Z",
+  "last_seen": "2026-11-04T11:35:46Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@cheng9517/post/DfSNXw8mYIB",
+   "https://www.threads.com/@wescode_wsk/post/DfUXPF7mqso"
+  ]
+ },
+ {
+  "brand": "法大炸雞",
+  "names_in_threads": {
+   "法大炸雞": 2
+  },
+  "stance": {
+   "other_user:recommend": 2
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-21T14:54:27Z",
+  "last_seen": "2026-10-27T07:33:49Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@chris_pei/post/De_VMEDmQf9",
+   "https://www.threads.com/@chris_pei/post/Dewq2GxmV4_"
   ]
  },
  {
@@ -1849,6 +2099,27 @@
   ]
  },
  {
+  "brand": "八曜",
+  "names_in_threads": {
+   "八曜": 2
+  },
+  "stance": {
+   "other_user:mention": 1,
+   "other_user:recommend": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-08T05:21:26Z",
+  "last_seen": "2026-11-12T02:26:31Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@rainfox2k3/post/Dfd_k47kz3M",
+   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_"
+  ]
+ },
+ {
   "brand": "海底撈",
   "names_in_threads": {
    "海底捞": 1,
@@ -1870,6 +2141,47 @@
   "sources": [
    "https://www.threads.com/@zeke_6973/post/De4vp5VAS7J",
    "https://www.threads.com/@zeke_6973/post/DfC2OCCgcLT"
+  ]
+ },
+ {
+  "brand": "萬客什鍋",
+  "names_in_threads": {
+   "萬客什鍋": 2
+  },
+  "stance": {
+   "other_user:mention": 1,
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-14T19:31:28Z",
+  "last_seen": "2026-11-19T09:35:33Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@charles8950/post/Df6xZzVE_ds",
+   "https://www.threads.com/@zeke_6973/post/DefI-8FgeSM"
+  ]
+ },
+ {
+  "brand": "拉亞漢堡",
+  "names_in_threads": {
+   "拉亞漢堡": 2
+  },
+  "stance": {
+   "other_user:recommend": 2
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-19T12:13:54Z",
+  "last_seen": "2026-11-20T03:11:31Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@fyp_917/post/Df8qP3ME8-d",
+   "https://www.threads.com/@zeke_6973/post/Ddd_CM3gYuU"
   ]
  },
  {
@@ -2382,25 +2694,6 @@
   ]
  },
  {
-  "brand": "家鴻",
-  "names_in_threads": {
-   "家鴻": 1
-  },
-  "stance": {
-   "other_user:recommend": 1
-  },
-  "experience": "planned",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-22T13:08:45Z",
-  "last_seen": "2026-11-22T13:08:45Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgC4L3LIBhh"
-  ]
- },
- {
   "brand": "QBurger",
   "names_in_threads": {
    "Qburger": 1
@@ -2634,25 +2927,6 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DfqcaM2gUVN"
-  ]
- },
- {
-  "brand": "八曜",
-  "names_in_threads": {
-   "八曜": 1
-  },
-  "stance": {
-   "other_user:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-12T02:26:31Z",
-  "last_seen": "2026-11-12T02:26:31Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_"
   ]
  },
  {
@@ -3154,25 +3428,6 @@
   ]
  },
  {
-  "brand": "藏壽司",
-  "names_in_threads": {
-   "藏壽司": 1
-  },
-  "stance": {
-   "other_user:recommend": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-05T12:36:53Z",
-  "last_seen": "2026-11-05T12:36:53Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DfXDBr1gVCv"
-  ]
- },
- {
   "brand": "power beef",
   "names_in_threads": {
    "power beef": 1
@@ -3356,25 +3611,6 @@
   ]
  },
  {
-  "brand": "錢櫃",
-  "names_in_threads": {
-   "錢櫃": 1
-  },
-  "stance": {
-   "other_user:mention": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-21T15:49:58Z",
-  "last_seen": "2026-10-21T15:49:58Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DewxMvjASA8"
-  ]
- },
- {
   "brand": "老爹炸鸡",
   "names_in_threads": {
    "老爹炸鸡": 1
@@ -3429,25 +3665,6 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DefJzBeAXLY"
-  ]
- },
- {
-  "brand": "萬客什鍋",
-  "names_in_threads": {
-   "萬客什鍋": 1
-  },
-  "stance": {
-   "other_user:mention": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-14T19:31:28Z",
-  "last_seen": "2026-10-14T19:31:28Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DefI-8FgeSM"
   ]
  },
  {
@@ -3763,25 +3980,6 @@
   ]
  },
  {
-  "brand": "拉亞漢堡",
-  "names_in_threads": {
-   "拉亞漢堡": 1
-  },
-  "stance": {
-   "other_user:recommend": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-09-19T12:13:54Z",
-  "last_seen": "2026-09-19T12:13:54Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Ddd_CM3gYuU"
-  ]
- },
- {
   "brand": "樂檸漢堡",
   "names_in_threads": {
    "樂檸漢堡": 1
@@ -3817,25 +4015,6 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DdWkEFJgV-R"
-  ]
- },
- {
-  "brand": "二鍋頭東山鴨頭",
-  "names_in_threads": {
-   "二鍋頭東山鴨頭": 1
-  },
-  "stance": {
-   "other_user:recommend": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-26T16:29:31Z",
-  "last_seen": "2026-11-26T16:29:31Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgNiV2DgZ-S"
   ]
  },
  {
@@ -3950,6 +4129,709 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DdTCVPnoKWM"
+  ]
+ },
+ {
+  "brand": "大三元",
+  "names_in_threads": {
+   "大三元": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-22T13:09:58Z",
+  "last_seen": "2026-11-22T13:09:58Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@cooperhu0424/post/DgC4U3wD0Qx"
+  ]
+ },
+ {
+  "brand": "雲鼎阿二",
+  "names_in_threads": {
+   "雲鼎阿二": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-22T15:59:21Z",
+  "last_seen": "2026-11-22T15:59:21Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@mugen_qq/post/DgDLtbimJ0P"
+  ]
+ },
+ {
+  "brand": "壽喜燒一丁",
+  "names_in_threads": {
+   "壽喜燒一丁": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-21T15:07:11Z",
+  "last_seen": "2026-11-21T15:07:11Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@meteor04_25/post/DgAg8b2I0qH"
+  ]
+ },
+ {
+  "brand": "潮肉壽喜燒",
+  "names_in_threads": {
+   "潮肉壽喜燒": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-21T17:33:14Z",
+  "last_seen": "2026-11-21T17:33:14Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@alienj77w/post/DgAxqOIIylp"
+  ]
+ },
+ {
+  "brand": "黑毛屋",
+  "names_in_threads": {
+   "黑毛屋": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-24T01:54:53Z",
+  "last_seen": "2026-11-24T01:54:53Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@black_rose_0628/post/DgG0qLKgbzQ"
+  ]
+ },
+ {
+  "brand": "一丁",
+  "names_in_threads": {
+   "一丁": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-24T01:54:53Z",
+  "last_seen": "2026-11-24T01:54:53Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@black_rose_0628/post/DgG0qLKgbzQ"
+  ]
+ },
+ {
+  "brand": "本燔",
+  "names_in_threads": {
+   "本燔": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-24T14:21:57Z",
+  "last_seen": "2026-11-24T14:21:57Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@ylichuan/post/DgIKJ2BSLwD"
+  ]
+ },
+ {
+  "brand": "愛之味",
+  "names_in_threads": {
+   "愛之味": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-21T02:26:36Z",
+  "last_seen": "2026-11-21T02:26:36Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@ischa2/post/Df_J5vLnSgS"
+  ]
+ },
+ {
+  "brand": "弘爺",
+  "names_in_threads": {
+   "弘爺": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-20T04:08:16Z",
+  "last_seen": "2026-11-20T04:08:16Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@xqua9997/post/Df8wvlZICcO"
+  ]
+ },
+ {
+  "brand": "美芝城",
+  "names_in_threads": {
+   "美芝城": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-26T03:39:26Z",
+  "last_seen": "2026-11-26T03:39:26Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@laaldttd/post/DgMKNk4Gt4i"
+  ]
+ },
+ {
+  "brand": "感炭",
+  "names_in_threads": {
+   "感炭": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-18T15:20:24Z",
+  "last_seen": "2026-11-18T15:20:24Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@honghonghappy/post/Df40EoKmtvm"
+  ]
+ },
+ {
+  "brand": "永心鳳茶",
+  "names_in_threads": {
+   "永心鳳茶": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-16T13:15:01Z",
+  "last_seen": "2026-11-16T13:15:01Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@jjyiting/post/DfzcIjVkh5t"
+  ]
+ },
+ {
+  "brand": "和牛涮",
+  "names_in_threads": {
+   "和牛涮": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-16T07:49:17Z",
+  "last_seen": "2026-11-16T07:49:17Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@qwe55665566/post/Dfy220NGuS3"
+  ]
+ },
+ {
+  "brand": "好豆味",
+  "names_in_threads": {
+   "好豆味": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-15T14:54:54Z",
+  "last_seen": "2026-11-15T14:54:54Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@xcxx_8888/post/DfxCxTcGDIE"
+  ]
+ },
+ {
+  "brand": "月之義大利",
+  "names_in_threads": {
+   "月之義大利": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-13T13:00:58Z",
+  "last_seen": "2026-11-13T13:00:58Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@h_____.sy/post/DfrsJAlnZva"
+  ]
+ },
+ {
+  "brand": "朝鮮味",
+  "names_in_threads": {
+   "朝鮮味": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-13T14:45:49Z",
+  "last_seen": "2026-11-13T14:45:49Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@klpou/post/Dfr4I7YEvSy"
+  ]
+ },
+ {
+  "brand": "韓國大叔",
+  "names_in_threads": {
+   "韓國大叔": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-13T18:54:09Z",
+  "last_seen": "2026-11-13T18:54:09Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@o8_.o3/post/DfsUj0ckrRz"
+  ]
+ },
+ {
+  "brand": "波哥",
+  "names_in_threads": {
+   "波哥": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-10T03:55:36Z",
+  "last_seen": "2026-11-10T03:55:36Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@siao_gua/post/Dfi_WBxkt4Z"
+  ]
+ },
+ {
+  "brand": "進福炒鱔魚",
+  "names_in_threads": {
+   "進福炒鱔魚": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-10T04:38:02Z",
+  "last_seen": "2026-11-10T04:38:02Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@x1n22o_/post/DfjEMwsoPI2"
+  ]
+ },
+ {
+  "brand": "白妞鹹酥雞",
+  "names_in_threads": {
+   "白妞鹹酥雞": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-10T04:38:02Z",
+  "last_seen": "2026-11-10T04:38:02Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@x1n22o_/post/DfjEMwsoPI2"
+  ]
+ },
+ {
+  "brand": "白妞鹽酥雞",
+  "names_in_threads": {
+   "白妞鹽酥雞": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-10T05:11:50Z",
+  "last_seen": "2026-11-10T05:11:50Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@ma3mamama4ma3/post/DfjIEUFI7VZ"
+  ]
+ },
+ {
+  "brand": "老江",
+  "names_in_threads": {
+   "老江": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-08T05:21:26Z",
+  "last_seen": "2026-11-08T05:21:26Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@rainfox2k3/post/Dfd_k47kz3M"
+  ]
+ },
+ {
+  "brand": "艋舺雞排",
+  "names_in_threads": {
+   "艋舺雞排": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-02T11:40:04Z",
+  "last_seen": "2026-11-02T11:40:04Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@kakalalaba.a/post/DfPOI5DGnOV"
+  ]
+ },
+ {
+  "brand": "黑工號",
+  "names_in_threads": {
+   "黑工號": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-03T11:44:02Z",
+  "last_seen": "2026-11-03T11:44:02Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@genevieve_ircx/post/DfRzY11j0Ew"
+  ]
+ },
+ {
+  "brand": "老張",
+  "names_in_threads": {
+   "老張": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-27T19:39:37Z",
+  "last_seen": "2026-10-27T19:39:37Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@jnn0523/post/DfAoP6kkyfi"
+  ]
+ },
+ {
+  "brand": "秦小姐",
+  "names_in_threads": {
+   "秦小姐": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-26T17:34:43Z",
+  "last_seen": "2026-10-26T17:34:43Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@k.0427.k/post/De91KWOH0u3"
+  ]
+ },
+ {
+  "brand": "任氏正宗揚州獅子頭",
+  "names_in_threads": {
+   "任氏正宗揚州獅子頭": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-26T17:34:43Z",
+  "last_seen": "2026-10-26T17:34:43Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@k.0427.k/post/De91KWOH0u3"
+  ]
+ },
+ {
+  "brand": "蔡大娘麵疙瘩",
+  "names_in_threads": {
+   "蔡大娘麵疙瘩": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-26T17:34:43Z",
+  "last_seen": "2026-10-26T17:34:43Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@k.0427.k/post/De91KWOH0u3"
+  ]
+ },
+ {
+  "brand": "龍門客棧",
+  "names_in_threads": {
+   "龍門客棧": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-27T01:48:13Z",
+  "last_seen": "2026-10-27T01:48:13Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@vip914/post/De-toymEsAH"
+  ]
+ },
+ {
+  "brand": "龍門客棧餃子館",
+  "names_in_threads": {
+   "龍門客棧餃子館": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-27T13:07:47Z",
+  "last_seen": "2026-10-27T13:07:47Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@chunghuang/post/De_7aJPE7vJ"
+  ]
+ },
+ {
+  "brand": "永和",
+  "names_in_threads": {
+   "永和": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-26T21:15:05Z",
+  "last_seen": "2026-10-26T21:15:05Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@yang_tinghsiang/post/De-OYVGE55H"
+  ]
+ },
+ {
+  "brand": "爆Q",
+  "names_in_threads": {
+   "爆Q": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-26T11:16:10Z",
+  "last_seen": "2026-10-26T11:16:10Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@chenghan5133/post/De9J1rhj6uT"
+  ]
+ },
+ {
+  "brand": "施家",
+  "names_in_threads": {
+   "施家": 1
+  },
+  "stance": {
+   "other_user:question": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-22T01:52:32Z",
+  "last_seen": "2026-10-22T01:52:32Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@0.0william0_0/post/Dex2KC2k3p3"
+  ]
+ },
+ {
+  "brand": "老四川",
+  "names_in_threads": {
+   "老四川": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-14T21:07:26Z",
+  "last_seen": "2026-10-14T21:07:26Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@torike_1130/post/DefT9vKkyQM"
+  ]
+ },
+ {
+  "brand": "孫東寶",
+  "names_in_threads": {
+   "孫東寶": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-13T15:53:47Z",
+  "last_seen": "2026-10-13T15:53:47Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@yching996/post/DecLRpIEv5m"
+  ]
+ },
+ {
+  "brand": "秦小姐豆漿店",
+  "names_in_threads": {
+   "秦小姐豆漿店": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-19T12:08:32Z",
+  "last_seen": "2026-09-19T12:08:32Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@sandie830/post/Ddd-a7rn8-Z"
+  ]
+ },
+ {
+  "brand": "石二鍋",
+  "names_in_threads": {
+   "石二鍋": 1
+  },
+  "stance": {
+   "other_user:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-26T04:51:14Z",
+  "last_seen": "2026-11-26T04:51:14Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@_j_pippi__/post/DgMSbellsyU"
   ]
  }
 ]
