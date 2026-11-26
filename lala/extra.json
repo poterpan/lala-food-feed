@@ -1,30 +1,25 @@
 {
  "_說明": "由 threads-data-platform 依拉拉熊的 Threads 內容自動產生；欄位與 lala-food extra.json 相同",
  "visited_from_wish": {
-  "7754962606621351201": "烏弄原生茶飲(台北公館店)",
+  "11222846829073344401": "一番地壽喜燒 開封店",
+  "694526374424343264": "台北中山阿城鵝肉吉林總店",
+  "11496941030989048276": "Starbucks星巴克 愿秀門市",
+  "2028556555833839260": "我家牛排 板橋遠科旗艦店",
+  "11202105771563939112": "御品元冰火湯圓",
+  "17773423162308721146": "三角窗麵擔",
   "3139272573148765455": "雅口麻辣豆腐專賣",
   "8713191030362838731": "芋香園"
  },
  "visited_add": [
   {
-   "name": "五燈獎",
+   "name": "霸味薑母鴨",
    "note": "",
-   "addr": "新北市三重區正安里自強路一段105號",
-   "lat": 25.066594,
-   "lng": 121.495551,
-   "cid": "4796384031132961575",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/De_Vm1kIDnV"
-  },
-  {
-   "name": "木麒麟拉麵/高湯燉飯專門店",
-   "note": "",
-   "addr": "臺北市中山區民安里中山北路一段140巷18號1樓",
-   "lat": 25.0514,
-   "lng": 121.521264,
-   "cid": "4747954634749156613",
-   "cat": "拉麵",
-   "source": "https://www.threads.com/@zeke_6973/post/DeW5eRNgXX1"
+   "addr": "新北市三重區光田里重陽路一段100號",
+   "lat": 25.059461,
+   "lng": 121.486584,
+   "cid": "1247454145355116465",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/DgNMax_IBkh"
   },
   {
    "name": "招弟大飯店",
@@ -45,6 +40,26 @@
    "cid": "7856184268919988168",
    "cat": "異國料理",
    "source": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9"
+  },
+  {
+   "name": "霸味薑母鴨",
+   "note": "",
+   "addr": "新北市三重區光田里重陽路一段100號",
+   "lat": 25.059461,
+   "lng": 121.486583,
+   "cid": "1247454145355116465",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgNOf97oGOi"
+  },
+  {
+   "name": "店小二魯肉飯",
+   "note": "",
+   "addr": "No. 27, No. 27號大同北路重新里三重區新北市241",
+   "lat": 25.062654,
+   "lng": 121.495494,
+   "cid": "15338468298515431934",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/De93gVWgb_-"
   },
   {
    "name": "施家麻油腰花",
@@ -85,16 +100,6 @@
    "cid": "5130863374799102386",
    "cat": "甜點・冰品",
    "source": "https://www.threads.com/@zeke_6973/post/Demcrf5gQGO"
-  },
-  {
-   "name": "店小二魯肉飯",
-   "note": "",
-   "addr": "No. 27, No. 27號大同北路重新里三重區新北市241",
-   "lat": 25.062654,
-   "lng": 121.495494,
-   "cid": "15338468298515431934",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/De93gVWgb_-"
   },
   {
    "name": "地一牛肉麵",
@@ -295,16 +300,6 @@
    "cid": "6715172149130046544",
    "cat": "早午餐・漢堡・麵包",
    "source": "https://www.threads.com/@zeke_6973/post/DfZh9C3AWmz"
-  },
-  {
-   "name": "綠天下白甘蔗汁",
-   "note": "",
-   "addr": "新北市新莊區福基里新北大道三段6號之 3",
-   "lat": 25.060703,
-   "lng": 121.458339,
-   "cid": "3093294125580792820",
-   "cat": "飲料・咖啡・酒",
-   "source": "https://www.threads.com/@zeke_6973/post/DfO8-62oPg2"
   },
   {
    "name": "waku waku burger 中山店(搬家中）",
