@@ -1,0 +1,57 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>店家審核</title>
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,">
+<style>
+body{font:15px/1.6 -apple-system,"PingFang TC",sans-serif;max-width:860px;margin:24px auto;padding:0 16px;color:#1c2024;background:#fafafa}
+header{position:sticky;top:0;background:#fafafa;padding:8px 0 10px;z-index:2;border-bottom:1px solid #e0e1e6}
+h1{font-size:20px;margin:0}.bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.tab{border:1px solid #d9d9e0;background:#fff;border-radius:999px;padding:3px 12px;cursor:pointer;font-size:14px}
+.tab.on{background:#1c2024;color:#fff;border-color:#1c2024}.prog{margin-left:auto;color:#60646c;font-size:14px}
+button.exp{background:#0d74ce;color:#fff;border:0;border-radius:8px;padding:6px 14px;cursor:pointer}
+.card{background:#fff;border:1px solid #e0e1e6;border-radius:12px;padding:14px 16px;margin:12px 0}
+.card.done{opacity:.55}.q{margin:4px 0}.who{display:inline-block;font-size:12px;border-radius:6px;padding:0 6px;margin-right:6px;color:#fff}
+.a{background:#c2410c}.o{background:#8b8d98}.ctx{color:#80838d;font-size:13px;margin-left:46px}
+.cand{margin:10px 0 8px;padding:8px 10px;background:#f4f4f5;border-radius:8px}.muted{color:#80838d;font-size:13px}
+.acts{display:flex;gap:6px;flex-wrap:wrap}.acts button{border:1px solid #d9d9e0;background:#fff;border-radius:8px;padding:4px 10px;cursor:pointer}
+.acts button.sel{background:#1c2024;color:#fff;border-color:#1c2024}.acts input{flex:1;min-width:220px;border:1px solid #d9d9e0;border-radius:8px;padding:4px 8px}
+a{color:#0d74ce;text-decoration:none}.rs{font-size:12px;color:#b45309;margin-left:6px}
+</style></head><body>
+<header><h1>店家審核</h1><div class="bar">
+<span class="tab on" data-f="all">全部</span><span class="tab" data-f="author">拉拉熊說的</span>
+<span class="tab" data-f="other">只有網友</span><span class="tab" data-f="todo">未判斷</span>
+<span class="prog" id="prog"></span><button class="exp" id="exp">匯出判斷</button></div></header>
+<div id="list"></div>
+<script>
+const ITEMS=[], RZ={"medium_score": "名稱或地點不夠吻合", "not_food_type": "候選不是餐飲類", "area_mismatch": "地區對不上", "not_author_verified": "只有網友提到", "overseas_unverified": "海外店無法驗證", "low_score": "分數過低", "photo_only": "只從照片認出（招牌可能讀錯）"}, KEY="tdp-review-v1";
+let st=JSON.parse(localStorage.getItem(KEY)||"{}"), filt="all";
+for(const it of ITEMS){ if(it.decided && !st[it.key]) st[it.key]=it.decided; }
+const save=()=>{localStorage.setItem(KEY,JSON.stringify(st));prog();};
+const prog=()=>{document.getElementById("prog").textContent=`已判斷 ${ITEMS.filter(i=>st[i.key]).length} / ${ITEMS.length}`};
+const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function card(it){
+  const d=st[it.key]||{}, q=it.quotes.map(x=>`<div class="q"><span class="who ${x.speaker=="拉拉熊"?"a":"o"}">${x.speaker}</span>${esc(x.text)} ${x.url?`<a href="${x.url}" target=_blank>原文</a>`:""}</div>`+
+    (x.parent?`<div class="ctx">回覆${x.parent_by||""}：${esc(x.parent)}</div>`:"")+(x.thread?`<div class="ctx">串文：${esc(x.thread)}</div>`:"")).join("");
+  const c=it.candidate, cand=c.name?`<b>我們的猜測：</b>${esc(c.name)} <span class="muted">${esc(c.address||"")}</span> ${c.maps?`<a href="${c.maps}" target=_blank>地圖</a>`:""}`:"<b>我們的猜測：</b>（沒有）";
+  const b=(a,t)=>`<button data-k="${esc(it.key)}" data-a="${a}" class="${d.action==a?"sel":""}">${t}</button>`;
+  return `<div class="card ${d.action?"done":""}" data-k="${esc(it.key)}"><div class="muted">${esc(it.query)} · 提及 ${it.mentions}${it.reasons.map(r=>`<span class="rs">${RZ[r]||r}</span>`).join("")}</div>
+  ${q}<div class="cand">${cand}</div><div class="acts">${b("accept","✓ 正確")}${b("reject","✗ 不是店／不收")}${b("brand","品牌（不指定分店）")}
+  <input placeholder="✎ 正確的店：貼 Google Maps 連結或打店名，按 Enter" data-k="${esc(it.key)}" value="${esc(d.action=="replace"?d.input:"")}"></div></div>`;
+}
+function render(){
+  const L=ITEMS.filter(i=>filt=="all"||(filt=="author"&&i.by_author)||(filt=="other"&&!i.by_author)||(filt=="todo"&&!st[i.key]));
+  document.getElementById("list").innerHTML=L.map(card).join("")||"<p class=muted>沒有項目</p>"; prog();
+}
+document.addEventListener("click",e=>{
+  const t=e.target;
+  if(t.classList.contains("tab")){document.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));t.classList.add("on");filt=t.dataset.f;render();}
+  if(t.dataset&&t.dataset.a){const it=ITEMS.find(i=>i.key==t.dataset.k);
+    st[it.key]=st[it.key]&&st[it.key].action==t.dataset.a?undefined:{action:t.dataset.a,mention_ids:it.mention_ids,query:it.query,candidate:it.candidate};
+    if(!st[it.key])delete st[it.key];save();render();}
+  if(t.id=="exp"){const out={version:1,exported_at:new Date().toISOString(),decisions:st};
+    const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(out,null,1)],{type:"application/json"}));
+    a.download="review-decisions.json";a.click();}
+});
+document.addEventListener("keydown",e=>{const t=e.target;if(e.key=="Enter"&&t.tagName=="INPUT"&&t.value.trim()){
+  const it=ITEMS.find(i=>i.key==t.dataset.k);st[it.key]={action:"replace",input:t.value.trim(),mention_ids:it.mention_ids,query:it.query};save();render();}});
+render();
+</script></body></html>

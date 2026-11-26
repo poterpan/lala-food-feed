@@ -14545,6 +14545,45 @@
   ]
  },
  {
+  "id": "5729948388158024662",
+  "cid": "5729948388158024662",
+  "place_id": null,
+  "name": "香港澳華燒鵝",
+  "address": "臺北市大安區通安里通化街38巷21號",
+  "city": "台北市",
+  "lat": 25.030966,
+  "lng": 121.553402,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": true,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "香港澳華燒鵝": 1
+  },
+  "stance": {
+   "author:recommend": 1
+  },
+  "items": [],
+  "quotes": [],
+  "post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgC3XduoLCe"
+  ],
+  "first_seen": "2026-11-22T13:01:35Z",
+  "last_seen": "2026-11-22T13:01:35Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgC3XduoLCe"
+  ]
+ },
+ {
   "id": "4112294319200574818",
   "cid": "4112294319200574818",
   "place_id": "ChIJ27MeB7WrQjQRYp3OO-XNETk",
