@@ -476,6 +476,36 @@
   ]
  },
  {
+  "brand": "季緣",
+  "names_in_threads": {
+   "季緣": 8
+  },
+  "stance": {
+   "other_user:question": 1,
+   "author:recommend": 3,
+   "other_user:mention": 2,
+   "other_user:recommend": 1,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "苹果"
+  ],
+  "comment": "喝过好多次，最喜欢苹果的",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-23T11:29:22Z",
+  "last_seen": "2026-11-25T17:59:24Z",
+  "mentions": 8,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DdoNHkDIBuC",
+   "https://www.threads.com/@zeke_6973/post/DfNFehkAYoq",
+   "https://www.threads.com/@zeke_6973/post/Df_o9DuoHNZ",
+   "https://www.threads.com/@zeke_6973/post/Df_o_cOoNBA",
+   "https://www.threads.com/@zeke_6973/post/DgLH1TnAUlX"
+  ]
+ },
+ {
   "brand": "亞尼克",
   "names_in_threads": {
    "亞尼克": 6,
@@ -536,34 +566,6 @@
    "https://www.threads.com/@zeke_6973/post/DfXBaJrAZlt",
    "https://www.threads.com/@zeke_6973/post/DfXBfIigf-9",
    "https://www.threads.com/@zeke_6973/post/DfXN-eZgUda"
-  ]
- },
- {
-  "brand": "季緣",
-  "names_in_threads": {
-   "季緣": 7
-  },
-  "stance": {
-   "other_user:question": 1,
-   "author:recommend": 3,
-   "other_user:mention": 2,
-   "other_user:recommend": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "苹果"
-  ],
-  "comment": "喝过好多次，最喜欢苹果的",
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-01T15:45:54Z",
-  "last_seen": "2026-11-25T17:59:24Z",
-  "mentions": 7,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DfNFehkAYoq",
-   "https://www.threads.com/@zeke_6973/post/Df_o9DuoHNZ",
-   "https://www.threads.com/@zeke_6973/post/Df_o_cOoNBA",
-   "https://www.threads.com/@zeke_6973/post/DgLH1TnAUlX"
   ]
  },
  {
@@ -1042,6 +1044,31 @@
   ]
  },
  {
+  "brand": "麥味登",
+  "names_in_threads": {
+   "麥味登": 4
+  },
+  "stance": {
+   "other_user:recommend": 1,
+   "author:recommend": 2,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "早餐"
+  ],
+  "comment": "第一次吃，感觉味道还不错",
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-16T05:04:51Z",
+  "last_seen": "2026-10-16T05:48:24Z",
+  "mentions": 4,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/Dei0YQ2oAr8",
+   "https://www.threads.com/@zeke_6973/post/DeivZXnoK7Y"
+  ]
+ },
+ {
   "brand": "馬辣",
   "names_in_threads": {
    "馬辣": 3,
@@ -1290,31 +1317,6 @@
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DfmYEUGE6WT",
    "https://www.threads.com/@zeke_6973/post/DgL897qIEQM"
-  ]
- },
- {
-  "brand": "麥味登",
-  "names_in_threads": {
-   "麥味登": 3
-  },
-  "stance": {
-   "other_user:recommend": 1,
-   "author:recommend": 1,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "早餐"
-  ],
-  "comment": "第一次吃，感觉味道还不错",
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-16T05:04:51Z",
-  "last_seen": "2026-10-16T05:48:24Z",
-  "mentions": 3,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dei0YQ2oAr8",
-   "https://www.threads.com/@zeke_6973/post/DeivZXnoK7Y"
   ]
  },
  {
@@ -3853,6 +3855,63 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/Df1EZUYgWlS"
+  ]
+ },
+ {
+  "brand": "灑白甜",
+  "names_in_threads": {
+   "灑白甜": 1
+  },
+  "stance": {
+   "author:recommend": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-13T02:50:37Z",
+  "last_seen": "2026-11-13T02:50:37Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DfqmSpjATGz"
+  ]
+ },
+ {
+  "brand": "佐藤咖哩",
+  "names_in_threads": {
+   "佐藤咖哩": 1
+  },
+  "stance": {
+   "author:mention": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-25T14:15:24Z",
+  "last_seen": "2026-10-25T14:15:24Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/De65jiTjxbi"
+  ]
+ },
+ {
+  "brand": "北投紅茶",
+  "names_in_threads": {
+   "北投紅茶": 1
+  },
+  "stance": {
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-21T08:50:34Z",
+  "last_seen": "2026-09-21T08:50:34Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DdixWrMIIf1"
   ]
  },
  {

@@ -1,31 +1,31 @@
 {
  "schema": "lala-food-feed/v1",
- "generated_at": "2026-11-26T18:56:05+00:00",
+ "generated_at": "2026-11-26T18:58:29+00:00",
  "source_account": "zeke_6973",
  "counts": {
-  "venues": 485,
-  "venues_from_threads": 312,
-  "venues_saved_only": 173,
-  "author_visited": 103,
-  "author_recommends": 84,
+  "venues": 521,
+  "venues_from_threads": 351,
+  "venues_saved_only": 170,
+  "author_visited": 121,
+  "author_recommends": 112,
   "author_saved": 264,
   "author_listed_recommended": 16,
-  "brands": 173,
-  "evidence": 1070,
-  "posts": 52
+  "brands": 176,
+  "evidence": 1133,
+  "posts": 70
  },
  "withheld": {
   "name_mismatch": 64,
-  "only_review_mentions": 23,
+  "only_review_mentions": 22,
   "generic_name": 4
  },
  "lala_overlay": {
   "visited_from_wish": 10,
-  "visited_add": 36,
-  "notes": 72,
-  "posts_cids": 54,
-  "merged_visited": 119,
-  "merged_posts_cids": 75,
+  "visited_add": 49,
+  "notes": 73,
+  "posts_cids": 75,
+  "merged_visited": 132,
+  "merged_posts_cids": 92,
   "base_updated": "2026-11-26"
  }
 }
