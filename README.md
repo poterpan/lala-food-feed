@@ -3,7 +3,7 @@
 從拉拉熊（[@zeke_6973](https://www.threads.com/@zeke_6973)）的 Threads 貼文、留言與收藏清單自動整理的店家資料。
 
 - 說明頁：https://poterpan.github.io/lala-food-feed/
-- 最後更新：2026-11-27 04:52（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
+- 最後更新：2026-11-27 05:13（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
 
 ## v1：標準格式（推薦）
 
@@ -22,11 +22,11 @@
 | 網址 | 內容 |
 |---|---|
 | [`lala/data.js`](https://poterpan.github.io/lala-food-feed/lala/data.js) | 只用 v1 產生的完整版：已去過＝拉拉熊吃過，愛心＝他的收藏清單 |
-| [`lala/posts.js`](https://poterpan.github.io/lala-food-feed/lala/posts.js) | 只用 v1 產生：每家店（CID）對應的拉拉熊貼文 |
-| [`lala/extra.json`](https://poterpan.github.io/lala-food-feed/lala/extra.json) | 相對於 lala-food 目前資料的差異，格式同其 extra.json |
+| [`lala/posts.js`](https://poterpan.github.io/lala-food-feed/lala/posts.js) | 只用 v1 產生：每家店（CID）對應的拉拉熊貼文與回覆（他自己提到這家店的發言） |
+| [`lala/extra.json`](https://poterpan.github.io/lala-food-feed/lala/extra.json) | 格式同 lala-food 的 extra.json；是完整清單，不是差異，update.mjs 合併時會跳過已有的店 |
 | [`lala/notes.json`](https://poterpan.github.io/lala-food-feed/lala/notes.json) | 必點品項與拉拉熊原話心得，格式同其 notes.json |
-| [`lala/posts.json`](https://poterpan.github.io/lala-food-feed/lala/posts.json) | 相對於 lala-food 目前資料的貼文對應（純 JSON） |
-| [`lala/merged/data.js`](https://poterpan.github.io/lala-food-feed/lala/merged/data.js) | lala-food 目前的 data.js 套用上面差異後的結果（保留其手動修改） |
+| [`lala/posts.json`](https://poterpan.github.io/lala-food-feed/lala/posts.json) | lala-food 清單上的店對應的拉拉熊貼文與回覆（純 JSON，依 URL 去重合併） |
+| [`lala/merged/data.js`](https://poterpan.github.io/lala-food-feed/lala/merged/data.js) | lala-food 目前的 data.js 套用上面 extra 後的結果（保留其手動修改） |
 | [`lala/merged/posts.js`](https://poterpan.github.io/lala-food-feed/lala/merged/posts.js) | lala-food 目前的 posts.js 併入新找到的貼文 |
 
 ## `v1/venues.json` 主要欄位
@@ -47,6 +47,6 @@
 | `names_in_threads` | Threads 上出現過的寫法與次數 |
 | `stance` | 誰說了什麼：author:* 是拉拉熊，other_user:* 是網友 |
 | `items / quotes` | 必點品項、拉拉熊原話（逐字、已對照原文，附連結） |
-| `post_urls` | 拉拉熊正式介紹這家店的貼文（lala/posts.js 用這個） |
+| `post_urls` | 拉拉熊正式介紹這家店的貼文（lala/posts.js 另外也收他自己提到這家店的回覆） |
 | `related_post_urls` | 所有跟這家店有關的拉拉熊貼文／回覆，包含只有網友在他串底下提到的情況 |
 | `first_seen / last_seen / sources` | Threads 上第一次與最後一次提到的時間、所有原文連結 |

@@ -22,7 +22,7 @@ a{color:#0d74ce;text-decoration:none}.rs{font-size:12px;color:#b45309;margin-lef
 <span class="prog" id="prog"></span><button class="exp" id="exp">匯出判斷</button></div></header>
 <div id="list"></div>
 <script>
-const ITEMS=[], RZ={"medium_score": "名稱或地點不夠吻合", "not_food_type": "候選不是餐飲類", "area_mismatch": "地區對不上", "not_author_verified": "只有網友提到", "overseas_unverified": "海外店無法驗證", "low_score": "分數過低", "photo_only": "只從照片認出（招牌可能讀錯）"}, KEY="tdp-review-v1";
+const ITEMS=[], RZ={"medium_score": "名稱或地點不夠吻合", "not_food_type": "候選不是餐飲類", "area_mismatch": "地區對不上", "not_author_verified": "只有網友提到", "overseas_unverified": "海外店無法驗證", "low_score": "分數過低", "photo_only": "只從照片認出（招牌可能讀錯）", "decision_target_changed": "你審過的店已不在候選裡"}, KEY="tdp-review-v1";
 let st=JSON.parse(localStorage.getItem(KEY)||"{}"), filt="all";
 for(const it of ITEMS){ if(it.decided && !st[it.key]) st[it.key]=it.decided; }
 const save=()=>{localStorage.setItem(KEY,JSON.stringify(st));prog();};
@@ -33,9 +33,10 @@ function card(it){
   const d=st[it.key]||{}, q=it.quotes.map(x=>`<div class="q"><span class="who ${x.speaker=="拉拉熊"?"a":"o"}">${x.speaker}</span>${esc(x.text)} ${link(x.url,"原文")}</div>`+
     (x.parent?`<div class="ctx">回覆${x.parent_by||""}：${esc(x.parent)}</div>`:"")+(x.thread?`<div class="ctx">串文：${esc(x.thread)}</div>`:"")).join("");
   const c=it.candidate, cand=c.name?`<b>我們的猜測：</b>${esc(c.name)} <span class="muted">${esc(c.address||"")}</span> ${link(c.maps,"地圖")}`:"<b>我們的猜測：</b>（沒有）";
+  const prev=it.previous?`<div class="muted">你之前認可的是：${esc(it.previous.name||"")} ${link(it.previous.cid?"https://maps.google.com/?cid="+it.previous.cid:"","地圖")}</div>`:"";
   const b=(a,t)=>`<button data-k="${esc(it.key)}" data-a="${a}" class="${d.action==a?"sel":""}">${t}</button>`;
   return `<div class="card ${d.action?"done":""}" data-k="${esc(it.key)}"><div class="muted">${esc(it.query)} · 提及 ${it.mentions}${it.reasons.map(r=>`<span class="rs">${RZ[r]||r}</span>`).join("")}</div>
-  ${q}<div class="cand">${cand}</div><div class="acts">${b("accept","✓ 正確")}${b("reject","✗ 不是店／不收")}${b("brand","品牌（不指定分店）")}
+  ${q}<div class="cand">${cand}${prev}</div><div class="acts">${b("accept","✓ 正確")}${b("reject","✗ 不是店／不收")}${b("brand","品牌（不指定分店）")}
   <input placeholder="✎ 正確的店：貼 Google Maps 連結或打店名，按 Enter" data-k="${esc(it.key)}" value="${esc(d.action=="replace"?d.input:"")}"></div></div>`;
 }
 function render(){
