@@ -1,16 +1,17 @@
 <!doctype html>
 <html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:,">
 <title>lala-food-feed</title>
 <style>
 body{font:15px/1.65 -apple-system,"PingFang TC","Noto Sans TC",sans-serif;max-width:920px;margin:2rem auto;padding:0 1rem;color:#222}
 h1{margin-bottom:.2rem} .sub{color:#666;margin-top:0} table{border-collapse:collapse;width:100%;margin:.6rem 0 1.4rem}
 td,th{border-bottom:1px solid #e5e5e5;padding:.45rem .5rem;vertical-align:top;text-align:left} th{background:#fafafa}
 code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-break:break-all}
-.stats span{display:inline-block;margin:0 1.2rem .4rem 0} .stats b{font-size:1.25rem}
+.stats span{display:inline-block;margin:0 1.2rem .4rem 0} .stats b{font-size:1.25rem} td.tag{white-space:nowrap}
 </style></head><body>
 <h1>lala-food-feed</h1>
 <p class="sub">從拉拉熊（<a href="https://www.threads.com/@zeke_6973">@zeke_6973</a>）的 Threads 貼文與留言自動整理的店家資料，給 <a href="https://github.com/2xin15/lala-food">lala-food</a> 使用。</p>
-<p>最後更新：<b>2026-11-26 22:57（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式版本：<code>lala-food-feed@1</code></p>
+<p>最後更新：<b>2026-11-26 23:00（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式版本：<code>lala-food-feed@1</code></p>
 <div class="stats">
 <span>店家 <b>273</b></span>
 <span>愛心升級為已去過 <b>8</b></span>
@@ -21,13 +22,13 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 
 <h2>端點</h2>
 <table><tr><th>網址</th><th>內容</th><th></th></tr>
-<tr><td><a href="venues.json"><code>https://poterpan.github.io/lala-food-feed/venues.json</code></a></td><td>主要產出。每家店的名稱、地址、座標、CID，加上拉拉熊吃過沒、推不推、Threads 原文連結</td><td><b>推薦</b></td></tr>
-<tr><td><a href="meta.json"><code>https://poterpan.github.io/lala-food-feed/meta.json</code></a></td><td>這一版的產生時間、各檔案筆數、因條件不足沒收錄的店家數與原因</td><td></td></tr>
-<tr><td><a href="lala/extra.json"><code>https://poterpan.github.io/lala-food-feed/lala/extra.json</code></a></td><td>與 lala-food 的 extra.json 同格式：visited_from_wish、visited_add</td><td><b>相容</b></td></tr>
-<tr><td><a href="lala/notes.json"><code>https://poterpan.github.io/lala-food-feed/lala/notes.json</code></a></td><td>與 lala-food 的 notes.json 同格式：必點品項 items、拉拉熊原話心得 comment</td><td><b>相容</b></td></tr>
-<tr><td><a href="lala/posts.json"><code>https://poterpan.github.io/lala-food-feed/lala/posts.json</code></a></td><td>與 lala-food 的 posts.js 同內容（純 JSON）：每家店（CID）對應的拉拉熊貼文</td><td><b>相容</b></td></tr>
-<tr><td><a href="lala/data.js"><code>https://poterpan.github.io/lala-food-feed/lala/data.js</code></a></td><td>lala-food 目前公開的 data.js，已套用上面三個檔案，可直接替換</td><td><b>相容</b></td></tr>
-<tr><td><a href="lala/posts.js"><code>https://poterpan.github.io/lala-food-feed/lala/posts.js</code></a></td><td>lala-food 目前公開的 posts.js，已併入找到的貼文，可直接替換</td><td><b>相容</b></td></tr>
+<tr><td><a href="venues.json"><code>https://poterpan.github.io/lala-food-feed/venues.json</code></a></td><td>主要產出。每家店的名稱、地址、座標、CID，加上拉拉熊吃過沒、推不推、Threads 原文連結</td><td class="tag"><b>推薦</b></td></tr>
+<tr><td><a href="meta.json"><code>https://poterpan.github.io/lala-food-feed/meta.json</code></a></td><td>這一版的產生時間、各檔案筆數、因條件不足沒收錄的店家數與原因</td><td class="tag"></td></tr>
+<tr><td><a href="lala/extra.json"><code>https://poterpan.github.io/lala-food-feed/lala/extra.json</code></a></td><td>與 lala-food 的 extra.json 同格式：visited_from_wish、visited_add</td><td class="tag"><b>相容</b></td></tr>
+<tr><td><a href="lala/notes.json"><code>https://poterpan.github.io/lala-food-feed/lala/notes.json</code></a></td><td>與 lala-food 的 notes.json 同格式：必點品項 items、拉拉熊原話心得 comment</td><td class="tag"><b>相容</b></td></tr>
+<tr><td><a href="lala/posts.json"><code>https://poterpan.github.io/lala-food-feed/lala/posts.json</code></a></td><td>與 lala-food 的 posts.js 同內容（純 JSON）：每家店（CID）對應的拉拉熊貼文</td><td class="tag"><b>相容</b></td></tr>
+<tr><td><a href="lala/data.js"><code>https://poterpan.github.io/lala-food-feed/lala/data.js</code></a></td><td>lala-food 目前公開的 data.js，已套用上面三個檔案，可直接替換</td><td class="tag"><b>相容</b></td></tr>
+<tr><td><a href="lala/posts.js"><code>https://poterpan.github.io/lala-food-feed/lala/posts.js</code></a></td><td>lala-food 目前公開的 posts.js，已併入找到的貼文，可直接替換</td><td class="tag"><b>相容</b></td></tr>
 </table>
 
 <h2><code>venues.json</code> 欄位</h2>
@@ -47,7 +48,7 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 
 <h2>資料怎麼來的</h2>
 <p>每次更新會抓拉拉熊的新貼文與回覆，用 LLM 從文字、照片、留言裡的「這是哪家？」問答認出店家，再對應到 Google 地圖的店家（CID）。只收錄有把握的結果：
-名字不一致的、連鎖店沒有分店證據的、泛稱（例如「鐵板炒飯」）都不會出現在這裡。這一版因此沒收錄的：chain_branch_unverified 30、name_mismatch 46、only_review_mentions 23、generic_name 6。</p>
+名字不一致的、連鎖店沒有分店證據的、泛稱（例如「鐵板炒飯」）都不會出現在這裡。這一版因此沒收錄的：連鎖店無分店證據 30 家、店名對不上 46 家、只有待審核的提及 23 家、泛稱或地名 6 家。</p>
 <p>每一筆都附 Threads 原文連結，可以逐筆檢查。</p>
 
 <h2>接到 lala-food</h2>
