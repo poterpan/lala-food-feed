@@ -1,0 +1,29 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "lala-food-feed v1 posts",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "url",
+   "venue_ids"
+  ],
+  "properties": {
+   "url": {
+    "type": "string"
+   },
+   "date": {
+    "type": "string"
+   },
+   "text": {
+    "type": "string"
+   },
+   "venue_ids": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

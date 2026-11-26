@@ -1,0 +1,33 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "lala-food-feed v1 meta",
+ "type": "object",
+ "required": [
+  "schema",
+  "generated_at",
+  "counts"
+ ],
+ "properties": {
+  "schema": {
+   "type": "string"
+  },
+  "generated_at": {
+   "type": "string"
+  },
+  "source_account": {
+   "type": "string"
+  },
+  "counts": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "integer"
+   }
+  },
+  "withheld": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "integer"
+   }
+  }
+ }
+}

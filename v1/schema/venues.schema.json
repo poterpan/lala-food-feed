@@ -1,0 +1,164 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "lala-food-feed v1 venues",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "id",
+   "cid",
+   "name",
+   "lat",
+   "lng",
+   "author",
+   "basis"
+  ],
+  "properties": {
+   "id": {
+    "type": "string"
+   },
+   "cid": {
+    "type": "string"
+   },
+   "place_id": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "name": {
+    "type": "string"
+   },
+   "address": {
+    "type": "string"
+   },
+   "city": {
+    "type": "string"
+   },
+   "lat": {
+    "type": "number"
+   },
+   "lng": {
+    "type": "number"
+   },
+   "category": {
+    "type": "string"
+   },
+   "brand": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "author": {
+    "type": "object",
+    "required": [
+     "visited",
+     "recommends",
+     "saved"
+    ],
+    "properties": {
+     "visited": {
+      "type": "boolean"
+     },
+     "recommends": {
+      "type": [
+       "boolean",
+       "null"
+      ]
+     },
+     "saved": {
+      "type": "boolean"
+     },
+     "saved_at": {
+      "type": [
+       "integer",
+       "null"
+      ]
+     },
+     "saved_note": {
+      "type": [
+       "string",
+       "null"
+      ]
+     }
+    }
+   },
+   "basis": {
+    "type": "array",
+    "items": {
+     "enum": [
+      "threads",
+      "saved_list"
+     ]
+    }
+   },
+   "names_in_threads": {
+    "type": "object",
+    "additionalProperties": {
+     "type": "integer"
+    }
+   },
+   "stance": {
+    "type": "object",
+    "additionalProperties": {
+     "type": "integer"
+    }
+   },
+   "items": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "quotes": {
+    "type": "array",
+    "items": {
+     "type": "object",
+     "required": [
+      "text",
+      "url"
+     ],
+     "properties": {
+      "text": {
+       "type": "string"
+      },
+      "stance": {
+       "type": "string"
+      },
+      "url": {
+       "type": "string"
+      },
+      "date": {
+       "type": "string"
+      }
+     }
+    }
+   },
+   "post_urls": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "first_seen": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "last_seen": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "sources": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

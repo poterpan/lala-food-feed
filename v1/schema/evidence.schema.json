@@ -1,0 +1,63 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "lala-food-feed v1 evidence",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "speaker",
+   "stance",
+   "url"
+  ],
+  "properties": {
+   "venue_id": {
+    "type": "string"
+   },
+   "brand": {
+    "type": "string"
+   },
+   "speaker": {
+    "enum": [
+     "author",
+     "other_user"
+    ]
+   },
+   "stance": {
+    "enum": [
+     "recommend",
+     "negative",
+     "mixed",
+     "question",
+     "mention"
+    ]
+   },
+   "experience": {
+    "enum": [
+     "visited",
+     "planned",
+     "not_yet",
+     "unknown"
+    ]
+   },
+   "kind": {
+    "enum": [
+     "text",
+     "photo",
+     "comment"
+    ]
+   },
+   "quote": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "url": {
+    "type": "string"
+   },
+   "date": {
+    "type": "string"
+   }
+  }
+ }
+}

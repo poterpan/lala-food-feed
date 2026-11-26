@@ -1,0 +1,71 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "lala-food-feed v1 brands",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "brand",
+   "mentions"
+  ],
+  "properties": {
+   "brand": {
+    "type": "string"
+   },
+   "names_in_threads": {
+    "type": "object",
+    "additionalProperties": {
+     "type": "integer"
+    }
+   },
+   "stance": {
+    "type": "object",
+    "additionalProperties": {
+     "type": "integer"
+    }
+   },
+   "experience": {
+    "type": "string"
+   },
+   "author_recommends": {
+    "type": "boolean"
+   },
+   "items": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "comment": {
+    "type": "string"
+   },
+   "saved_branch_cids": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "first_seen": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "last_seen": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "mentions": {
+    "type": "integer"
+   },
+   "sources": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

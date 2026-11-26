@@ -1,14 +1,14 @@
 {
- "_說明": "由 threads-data-platform 依拉拉熊的 Threads 內容自動產生；欄位與 lala-food extra.json 相同",
+ "_說明": "由 lala-food-feed 依拉拉熊的 Threads 內容自動產生；欄位與 lala-food extra.json 相同",
  "visited_from_wish": {
   "11222846829073344401": "一番地壽喜燒 開封店",
   "694526374424343264": "台北中山阿城鵝肉吉林總店",
   "11496941030989048276": "Starbucks星巴克 愿秀門市",
-  "2028556555833839260": "我家牛排 板橋遠科旗艦店",
   "11202105771563939112": "御品元冰火湯圓",
   "17773423162308721146": "三角窗麵擔",
-  "3139272573148765455": "雅口麻辣豆腐專賣",
-  "8713191030362838731": "芋香園"
+  "2028556555833839260": "我家牛排 板橋遠科旗艦店",
+  "8713191030362838731": "芋香園",
+  "3139272573148765455": "雅口麻辣豆腐專賣"
  },
  "visited_add": [
   {
@@ -42,24 +42,14 @@
    "source": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9"
   },
   {
-   "name": "霸味薑母鴨",
+   "name": "地一牛肉麵",
    "note": "",
-   "addr": "新北市三重區光田里重陽路一段100號",
-   "lat": 25.059461,
-   "lng": 121.486583,
-   "cid": "1247454145355116465",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/DgNOf97oGOi"
-  },
-  {
-   "name": "施家麻油腰花",
-   "note": "",
-   "addr": "臺北市信義區國業里松山路538-2號",
-   "lat": 25.037777,
-   "lng": 121.577925,
-   "cid": "12464670497103083341",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/DfrxzNhAclw"
+   "addr": "臺北市大安區車層里延吉街162號",
+   "lat": 25.039201,
+   "lng": 121.554915,
+   "cid": "4824089957187277743",
+   "cat": "牛肉麵・牛肉湯",
+   "source": "https://www.threads.com/@zeke_6973/post/DfFljkBAfyF"
   },
   {
    "name": "奉茶旬味",
@@ -72,36 +62,6 @@
    "source": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg"
   },
   {
-   "name": "楊枝金撈",
-   "note": "",
-   "addr": "澳門孫逸仙博士大馬路606號",
-   "lat": 22.161481,
-   "lng": 113.556112,
-   "cid": "5130863374799102386",
-   "cat": "甜點・冰品",
-   "source": "https://www.threads.com/@zeke_6973/post/Demcrf5gQGO"
-  },
-  {
-   "name": "地一牛肉麵",
-   "note": "",
-   "addr": "臺北市大安區車層里延吉街162號",
-   "lat": 25.039201,
-   "lng": 121.554915,
-   "cid": "4824089957187277743",
-   "cat": "牛肉麵・牛肉湯",
-   "source": "https://www.threads.com/@zeke_6973/post/DfFljkBAfyF"
-  },
-  {
-   "name": "張媽媽香大雞排",
-   "note": "",
-   "addr": "83號, No. 83景後街景行里文山區臺北市116",
-   "lat": 24.992288,
-   "lng": 121.543119,
-   "cid": "16924871813805623339",
-   "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_"
-  },
-  {
    "name": "木柵製冰所",
    "note": "",
    "addr": "臺北市文山區樟腳里木新路二段295-1號",
@@ -110,206 +70,6 @@
    "cid": "17177491256556889740",
    "cat": "甜點・冰品",
    "source": "https://www.threads.com/@zeke_6973/post/DdVnkzIoHLi"
-  },
-  {
-   "name": "四季民福",
-   "note": "",
-   "addr": "中國北京市东城区东四东四十条23号 邮政编码: 100010",
-   "lat": 39.933919,
-   "lng": 116.429952,
-   "cid": "4536436953304270250",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/DgMl5CXIPNN"
-  },
-  {
-   "name": "利庵咖哩 人氣漢堡排 景美店",
-   "note": "",
-   "addr": "臺北市文山區景興路282巷3號",
-   "lat": 24.98957,
-   "lng": 121.542055,
-   "cid": "5811498370699764926",
-   "cat": "異國料理",
-   "source": "https://www.threads.com/@zeke_6973/post/DgLFPh4gYOW"
-  },
-  {
-   "name": "大橋頭米糕",
-   "note": "",
-   "addr": "臺北市大同區隆和里延平北路三段41號",
-   "lat": 25.064897,
-   "lng": 121.511231,
-   "cid": "4197356680263944533",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/Dft7O00oJu_"
-  },
-  {
-   "name": "金仙滷肉飯",
-   "note": "",
-   "addr": "新北市蘆洲區得勝里得勝街32號",
-   "lat": 25.082912,
-   "lng": 121.471043,
-   "cid": "8918294519880289216",
-   "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/DfrxzNhAclw"
-  },
-  {
-   "name": "新井壽司日本料理",
-   "note": "",
-   "addr": "新北市中和區安平里保健路9號",
-   "lat": 24.998347,
-   "lng": 121.50795,
-   "cid": "15523784577237331017",
-   "cat": "異國料理",
-   "source": "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_"
-  },
-  {
-   "name": "笑貓咖哩-承德店 | 創作香料咖哩專門店｜スパイスカレー｜xiaomaocurry ｜spice curry",
-   "note": "",
-   "addr": "臺北市大同區建明里承德路一段24巷18號",
-   "lat": 25.050577,
-   "lng": 121.516106,
-   "cid": "441553308145770101",
-   "cat": "異國料理",
-   "source": "https://www.threads.com/@zeke_6973/post/DfMcbtmoFBr"
-  },
-  {
-   "name": "Krispy Kreme Doughnuts 新店裕隆城",
-   "note": "",
-   "addr": "新北市新店區寶福里中興路三段70號B1",
-   "lat": 24.978061,
-   "lng": 121.546478,
-   "cid": "14671533547381288471",
-   "cat": "早午餐・漢堡・麵包",
-   "source": "https://www.threads.com/@zeke_6973/post/DfO3YAoIHaP"
-  },
-  {
-   "name": "Krispy Kreme Doughnuts 南港環球門市",
-   "note": "",
-   "addr": "臺北市南港區中南里忠孝東路七段371號B1(南港車站",
-   "lat": 25.052895,
-   "lng": 121.60726,
-   "cid": "17041999054548893666",
-   "cat": "早午餐・漢堡・麵包",
-   "source": "https://www.threads.com/@zeke_6973/post/DfO3YAoIHaP"
-  },
-  {
-   "name": "果汁先生/景美好汁味現榨蔬果汁",
-   "note": "",
-   "addr": "臺北市文山區景行里景美街42號",
-   "lat": 24.990761,
-   "lng": 121.541715,
-   "cid": "9717475295062414324",
-   "cat": "飲料・咖啡・酒",
-   "source": "https://www.threads.com/@zeke_6973/post/Dd8tQDZAVPs"
-  },
-  {
-   "name": "小六 越南小吃",
-   "note": "",
-   "addr": "臺北市文山區景行里景美街104號",
-   "lat": 24.989352,
-   "lng": 121.541401,
-   "cid": "16474832525321169454",
-   "cat": "異國料理",
-   "source": "https://www.threads.com/@zeke_6973/post/Dd6guqqAcZs"
-  },
-  {
-   "name": "陳記泡泡冰創始店",
-   "note": "",
-   "addr": "基隆市仁愛區玉田里仁三路25號廟口第41號攤",
-   "lat": 25.128206,
-   "lng": 121.743389,
-   "cid": "10026756520879491346",
-   "cat": "甜點・冰品",
-   "source": "https://www.threads.com/@zeke_6973/post/DgKLjbSoPua"
-  },
-  {
-   "name": "天天鮮排骨飯",
-   "note": "",
-   "addr": "基隆市仁愛區文昌里孝三路42巷4號",
-   "lat": 25.12982,
-   "lng": 121.739314,
-   "cid": "16714965602951924564",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/DgKEDk0oBIo"
-  },
-  {
-   "name": "季緣 台北車站店",
-   "note": "",
-   "addr": "臺北市中正區黎明里信陽街12 號",
-   "lat": 25.044543,
-   "lng": 121.515903,
-   "cid": "15219605942573086718",
-   "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/DgH961coIl_"
-  },
-  {
-   "name": "御品元冰火湯圓-台北饒河店",
-   "note": "",
-   "addr": "臺北市松山區慈祐里饒河街178號",
-   "lat": 25.050644,
-   "lng": 121.576326,
-   "cid": "1620885439612299098",
-   "cat": "甜點・冰品",
-   "source": "https://www.threads.com/@zeke_6973/post/DgCn824oJiJ"
-  },
-  {
-   "name": "木野咖啡",
-   "note": "",
-   "addr": "臺南市中西區光賢里武聖路197巷17號",
-   "lat": 23.005943,
-   "lng": 120.189541,
-   "cid": "13130894515766264199",
-   "cat": "飲料・咖啡・酒",
-   "source": "https://www.threads.com/@zeke_6973/post/Dfm9dErAa6B"
-  },
-  {
-   "name": "KUMAYA CAFE'愛熊家-高雄驛一番街",
-   "note": "",
-   "addr": "高雄市三民區港西里建國二路320號B2北側",
-   "lat": 22.640453,
-   "lng": 120.302993,
-   "cid": "7695873997799795771",
-   "cat": "飲料・咖啡・酒",
-   "source": "https://www.threads.com/@zeke_6973/post/Dfel2NaoKZH"
-  },
-  {
-   "name": "神戶風月堂 新光三越A8",
-   "note": "",
-   "addr": "臺北市信義區西村里松高路12號B2樓",
-   "lat": 25.038038,
-   "lng": 121.566676,
-   "cid": "6715172149130046544",
-   "cat": "早午餐・漢堡・麵包",
-   "source": "https://www.threads.com/@zeke_6973/post/DfZh9C3AWmz"
-  },
-  {
-   "name": "waku waku burger 中山店(搬家中）",
-   "note": "",
-   "addr": "臺北市大同區承德路一段87號",
-   "lat": 25.052577,
-   "lng": 121.517766,
-   "cid": "17792109437871235130",
-   "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/DfO1a65ICE6"
-  },
-  {
-   "name": "白家通化十全排骨 信義店",
-   "note": "",
-   "addr": "臺北市信義區敦厚里永吉路30巷112號",
-   "lat": 25.043252,
-   "lng": 121.568597,
-   "cid": "17547649838957110203",
-   "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/De_vhjiAVUA"
-  },
-  {
-   "name": "劉山東小吃店",
-   "note": "",
-   "addr": "臺北市中正區黎明里開封街一段14巷2號",
-   "lat": 25.045715,
-   "lng": 121.51376,
-   "cid": "1174056091795400445",
-   "cat": "麵食・水餃",
-   "source": "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn"
   },
   {
    "name": "BEL BUTTER WAFFLE 京站時尚廣場",
@@ -332,34 +92,84 @@
    "source": "https://www.threads.com/@zeke_6973/post/DdbimXtgaZ0"
   },
   {
-   "name": "穀香雞肉飯",
+   "name": "KUMAYA CAFE'愛熊家-高雄驛一番街",
    "note": "",
-   "addr": "臺北市文山區景行里景美街100號",
-   "lat": 24.98941,
-   "lng": 121.541263,
-   "cid": "655504077674491634",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/DdbKBl3oEwV"
+   "addr": "高雄市三民區港西里建國二路320號B2北側",
+   "lat": 22.640453,
+   "lng": 120.302993,
+   "cid": "7695873997799795771",
+   "cat": "飲料・咖啡・酒",
+   "source": "https://www.threads.com/@zeke_6973/post/Dfel2NaoKZH"
   },
   {
-   "name": "阿豆仔",
+   "name": "Krispy Kreme Doughnuts 南港環球門市",
    "note": "",
-   "addr": "新北市中和區民安里民安街5號",
-   "lat": 25.000592,
-   "lng": 121.480824,
-   "cid": "12248860042042868476",
-   "cat": "甜點・冰品",
-   "source": "https://www.threads.com/@zeke_6973/post/DdbKBl3oEwV"
+   "addr": "臺北市南港區中南里忠孝東路七段371號B1(南港車站",
+   "lat": 25.052895,
+   "lng": 121.60726,
+   "cid": "17041999054548893666",
+   "cat": "早午餐・漢堡・麵包",
+   "source": "https://www.threads.com/@zeke_6973/post/DfO3YAoIHaP"
   },
   {
-   "name": "繼光香香雞-新店裕隆城專櫃",
+   "name": "Krispy Kreme Doughnuts 新店裕隆城",
    "note": "",
    "addr": "新北市新店區寶福里中興路三段70號B1",
    "lat": 24.978061,
    "lng": 121.546478,
-   "cid": "118512523048692476",
+   "cid": "14671533547381288471",
+   "cat": "早午餐・漢堡・麵包",
+   "source": "https://www.threads.com/@zeke_6973/post/DfO3YAoIHaP"
+  },
+  {
+   "name": "waku waku burger 中山店(搬家中）",
+   "note": "",
+   "addr": "臺北市大同區承德路一段87號",
+   "lat": 25.052577,
+   "lng": 121.517766,
+   "cid": "17792109437871235130",
    "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/DdYDZ8LIId9"
+   "source": "https://www.threads.com/@zeke_6973/post/DfO1a65ICE6"
+  },
+  {
+   "name": "利庵咖哩 人氣漢堡排 景美店",
+   "note": "",
+   "addr": "臺北市文山區景興路282巷3號",
+   "lat": 24.98957,
+   "lng": 121.542055,
+   "cid": "5811498370699764926",
+   "cat": "異國料理",
+   "source": "https://www.threads.com/@zeke_6973/post/DgLFPh4gYOW"
+  },
+  {
+   "name": "劉山東小吃店",
+   "note": "",
+   "addr": "臺北市中正區黎明里開封街一段14巷2號",
+   "lat": 25.045715,
+   "lng": 121.51376,
+   "cid": "1174056091795400445",
+   "cat": "麵食・水餃",
+   "source": "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn"
+  },
+  {
+   "name": "四季民福",
+   "note": "",
+   "addr": "中國北京市东城区东四东四十条23号 邮政编码: 100010",
+   "lat": 39.933919,
+   "lng": 116.429952,
+   "cid": "4536436953304270250",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgMl5CXIPNN"
+  },
+  {
+   "name": "大橋頭米糕",
+   "note": "",
+   "addr": "臺北市大同區隆和里延平北路三段41號",
+   "lat": 25.064897,
+   "lng": 121.511231,
+   "cid": "4197356680263944533",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/Dft7O00oJu_"
   },
   {
    "name": "天仁茗茶 天仁釀茶所 誠品裕隆城店",
@@ -372,6 +182,86 @@
    "source": "https://www.threads.com/@zeke_6973/post/DdYDZ8LIId9"
   },
   {
+   "name": "天天鮮排骨飯",
+   "note": "",
+   "addr": "基隆市仁愛區文昌里孝三路42巷4號",
+   "lat": 25.12982,
+   "lng": 121.739314,
+   "cid": "16714965602951924564",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgKEDk0oBIo"
+  },
+  {
+   "name": "季緣 台北車站店",
+   "note": "",
+   "addr": "臺北市中正區黎明里信陽街12 號",
+   "lat": 25.044543,
+   "lng": 121.515903,
+   "cid": "15219605942573086718",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/DgH961coIl_"
+  },
+  {
+   "name": "小六 越南小吃",
+   "note": "",
+   "addr": "臺北市文山區景行里景美街104號",
+   "lat": 24.989352,
+   "lng": 121.541401,
+   "cid": "16474832525321169454",
+   "cat": "異國料理",
+   "source": "https://www.threads.com/@zeke_6973/post/Dd6guqqAcZs"
+  },
+  {
+   "name": "張媽媽香大雞排",
+   "note": "",
+   "addr": "83號, No. 83景後街景行里文山區臺北市116",
+   "lat": 24.992288,
+   "lng": 121.543119,
+   "cid": "16924871813805623339",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_"
+  },
+  {
+   "name": "御品元冰火湯圓-台北饒河店",
+   "note": "",
+   "addr": "臺北市松山區慈祐里饒河街178號",
+   "lat": 25.050644,
+   "lng": 121.576326,
+   "cid": "1620885439612299098",
+   "cat": "甜點・冰品",
+   "source": "https://www.threads.com/@zeke_6973/post/DgCn824oJiJ"
+  },
+  {
+   "name": "新井壽司日本料理",
+   "note": "",
+   "addr": "新北市中和區安平里保健路9號",
+   "lat": 24.998347,
+   "lng": 121.50795,
+   "cid": "15523784577237331017",
+   "cat": "異國料理",
+   "source": "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_"
+  },
+  {
+   "name": "施家麻油腰花",
+   "note": "",
+   "addr": "臺北市信義區國業里松山路538-2號",
+   "lat": 25.037777,
+   "lng": 121.577925,
+   "cid": "12464670497103083341",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DfrxzNhAclw"
+  },
+  {
+   "name": "木野咖啡",
+   "note": "",
+   "addr": "臺南市中西區光賢里武聖路197巷17號",
+   "lat": 23.005943,
+   "lng": 120.189541,
+   "cid": "13130894515766264199",
+   "cat": "飲料・咖啡・酒",
+   "source": "https://www.threads.com/@zeke_6973/post/Dfm9dErAa6B"
+  },
+  {
    "name": "東京廚房",
    "note": "",
    "addr": "臺北市文山區景華里景華街24號",
@@ -380,6 +270,106 @@
    "cid": "7069709407452044071",
    "cat": "異國料理",
    "source": "https://www.threads.com/@zeke_6973/post/DdWH46gAaC8"
+  },
+  {
+   "name": "果汁先生/景美好汁味現榨蔬果汁",
+   "note": "",
+   "addr": "臺北市文山區景行里景美街42號",
+   "lat": 24.990761,
+   "lng": 121.541715,
+   "cid": "9717475295062414324",
+   "cat": "飲料・咖啡・酒",
+   "source": "https://www.threads.com/@zeke_6973/post/Dd8tQDZAVPs"
+  },
+  {
+   "name": "楊枝金撈",
+   "note": "",
+   "addr": "澳門孫逸仙博士大馬路606號",
+   "lat": 22.161481,
+   "lng": 113.556112,
+   "cid": "5130863374799102386",
+   "cat": "甜點・冰品",
+   "source": "https://www.threads.com/@zeke_6973/post/Demcrf5gQGO"
+  },
+  {
+   "name": "白家通化十全排骨 信義店",
+   "note": "",
+   "addr": "臺北市信義區敦厚里永吉路30巷112號",
+   "lat": 25.043252,
+   "lng": 121.568597,
+   "cid": "17547649838957110203",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/De_vhjiAVUA"
+  },
+  {
+   "name": "神戶風月堂 新光三越A8",
+   "note": "",
+   "addr": "臺北市信義區西村里松高路12號B2樓",
+   "lat": 25.038038,
+   "lng": 121.566676,
+   "cid": "6715172149130046544",
+   "cat": "早午餐・漢堡・麵包",
+   "source": "https://www.threads.com/@zeke_6973/post/DfZh9C3AWmz"
+  },
+  {
+   "name": "穀香雞肉飯",
+   "note": "",
+   "addr": "臺北市文山區景行里景美街100號",
+   "lat": 24.98941,
+   "lng": 121.541263,
+   "cid": "655504077674491634",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DdbKBl3oEwV"
+  },
+  {
+   "name": "笑貓咖哩-承德店 | 創作香料咖哩專門店｜スパイスカレー｜xiaomaocurry ｜spice curry",
+   "note": "",
+   "addr": "臺北市大同區建明里承德路一段24巷18號",
+   "lat": 25.050577,
+   "lng": 121.516106,
+   "cid": "441553308145770101",
+   "cat": "異國料理",
+   "source": "https://www.threads.com/@zeke_6973/post/DfMcbtmoFBr"
+  },
+  {
+   "name": "繼光香香雞-新店裕隆城專櫃",
+   "note": "",
+   "addr": "新北市新店區寶福里中興路三段70號B1",
+   "lat": 24.978061,
+   "lng": 121.546478,
+   "cid": "118512523048692476",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/DdYDZ8LIId9"
+  },
+  {
+   "name": "金仙滷肉飯",
+   "note": "",
+   "addr": "新北市蘆洲區得勝里得勝街32號",
+   "lat": 25.082912,
+   "lng": 121.471043,
+   "cid": "8918294519880289216",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/DfrxzNhAclw"
+  },
+  {
+   "name": "阿豆仔",
+   "note": "",
+   "addr": "新北市中和區民安里民安街5號",
+   "lat": 25.000592,
+   "lng": 121.480824,
+   "cid": "12248860042042868476",
+   "cat": "甜點・冰品",
+   "source": "https://www.threads.com/@zeke_6973/post/DdbKBl3oEwV"
+  },
+  {
+   "name": "陳記泡泡冰創始店",
+   "note": "",
+   "addr": "基隆市仁愛區玉田里仁三路25號廟口第41號攤",
+   "lat": 25.128206,
+   "lng": 121.743389,
+   "cid": "10026756520879491346",
+   "cat": "甜點・冰品",
+   "source": "https://www.threads.com/@zeke_6973/post/DgKLjbSoPua"
   }
  ]
 }

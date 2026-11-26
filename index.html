@@ -1,71 +1,60 @@
 <!doctype html>
 <html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="icon" href="data:,">
-<title>lala-food-feed</title>
+<link rel="icon" href="data:,"><title>lala-food-feed</title>
 <style>
 body{font:15px/1.65 -apple-system,"PingFang TC","Noto Sans TC",sans-serif;max-width:920px;margin:2rem auto;padding:0 1rem;color:#222}
 h1{margin-bottom:.2rem} .sub{color:#666;margin-top:0} table{border-collapse:collapse;width:100%;margin:.6rem 0 1.4rem}
 td,th{border-bottom:1px solid #e5e5e5;padding:.45rem .5rem;vertical-align:top;text-align:left} th{background:#fafafa}
 code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-break:break-all}
-.stats span{display:inline-block;margin:0 1.2rem .4rem 0} .stats b{font-size:1.25rem} td.tag{white-space:nowrap}
+.stats span{display:inline-block;margin:0 1.2rem .4rem 0} .stats b{font-size:1.25rem}
 </style></head><body>
 <h1>lala-food-feed</h1>
-<p class="sub">從拉拉熊（<a href="https://www.threads.com/@zeke_6973">@zeke_6973</a>）的 Threads 貼文與留言自動整理的店家資料，給 <a href="https://github.com/2xin15/lala-food">lala-food</a> 使用。</p>
-<p>最後更新：<b>2026-11-26 23:36（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式版本：<code>lala-food-feed@1</code></p>
-<div class="stats">
-<span>店家 <b>272</b></span>
-<span>愛心升級為已去過 <b>8</b></span>
-<span>新增已去過 <b>37</b></span>
-<span>必點與心得 <b>79</b></span>
-<span>有貼文對應的店 <b>62</b></span>
-<span>連鎖品牌推薦 <b>181</b></span>
-</div>
+<p class="sub">從拉拉熊（<a href="https://www.threads.com/@zeke_6973">@zeke_6973</a>）的 Threads 貼文、留言與收藏清單自動整理的店家資料。</p>
+<p>最後更新：<b>2026-11-26 23:54（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式：<code>lala-food-feed/v1</code></p>
+<div class="stats"><span>店家 <b>434</b></span><span>拉拉熊吃過 <b>90</b></span><span>拉拉熊推薦 <b>74</b></span><span>拉拉熊收藏 <b>248</b></span><span>連鎖品牌 <b>181</b></span><span>美食貼文 <b>54</b></span></div>
 
-<h2>端點</h2>
-<table><tr><th>網址</th><th>內容</th><th></th></tr>
-<tr><td><a href="venues.json"><code>https://poterpan.github.io/lala-food-feed/venues.json</code></a></td><td>主要產出。每家店的名稱、地址、座標、CID，加上拉拉熊吃過沒、推不推、Threads 原文連結</td><td class="tag"><b>推薦</b></td></tr>
-<tr><td><a href="brands.json"><code>https://poterpan.github.io/lala-food-feed/brands.json</code></a></td><td>連鎖品牌層級的推薦：拉拉熊推了某個品牌但沒講哪間分店（例如迷客夏、烏弄），附必點、原話心得與已知分店 CID</td><td class="tag"><b>推薦</b></td></tr>
-<tr><td><a href="meta.json"><code>https://poterpan.github.io/lala-food-feed/meta.json</code></a></td><td>這一版的產生時間、各檔案筆數、因條件不足沒收錄的店家數與原因</td><td class="tag"></td></tr>
-<tr><td><a href="lala/extra.json"><code>https://poterpan.github.io/lala-food-feed/lala/extra.json</code></a></td><td>與 lala-food 的 extra.json 同格式：visited_from_wish、visited_add</td><td class="tag"><b>相容</b></td></tr>
-<tr><td><a href="lala/notes.json"><code>https://poterpan.github.io/lala-food-feed/lala/notes.json</code></a></td><td>與 lala-food 的 notes.json 同格式：必點品項 items、拉拉熊原話心得 comment</td><td class="tag"><b>相容</b></td></tr>
-<tr><td><a href="lala/posts.json"><code>https://poterpan.github.io/lala-food-feed/lala/posts.json</code></a></td><td>與 lala-food 的 posts.js 同內容（純 JSON）：每家店（CID）對應的拉拉熊貼文</td><td class="tag"><b>相容</b></td></tr>
-<tr><td><a href="lala/data.js"><code>https://poterpan.github.io/lala-food-feed/lala/data.js</code></a></td><td>lala-food 目前公開的 data.js，已套用上面三個檔案，可直接替換</td><td class="tag"><b>相容</b></td></tr>
-<tr><td><a href="lala/posts.js"><code>https://poterpan.github.io/lala-food-feed/lala/posts.js</code></a></td><td>lala-food 目前公開的 posts.js，已併入找到的貼文，可直接替換</td><td class="tag"><b>相容</b></td></tr>
+<h2>v1：標準格式（推薦）</h2>
+<p>自給自足，只依據拉拉熊的 Threads 與他的收藏清單，不依賴任何其他網站的資料。</p>
+<table><tr><th>網址</th><th>內容</th></tr>
+<tr><td><a href="v1/venues.json"><code>https://poterpan.github.io/lala-food-feed/v1/venues.json</code></a></td><td>所有店家：Threads 上有證據的，加上拉拉熊收藏清單裡的。每家都標明依據（吃過、推薦、收藏）</td></tr>
+<tr><td><a href="v1/brands.json"><code>https://poterpan.github.io/lala-food-feed/v1/brands.json</code></a></td><td>連鎖品牌層級的推薦（拉拉熊推了某品牌但沒說哪間分店），附必點、原話、已知分店</td></tr>
+<tr><td><a href="v1/evidence.json"><code>https://poterpan.github.io/lala-food-feed/v1/evidence.json</code></a></td><td>每一條證據：哪家店或品牌、拉拉熊或網友、立場、拉拉熊原話（逐字）、原文連結、日期</td></tr>
+<tr><td><a href="v1/posts.json"><code>https://poterpan.github.io/lala-food-feed/v1/posts.json</code></a></td><td>拉拉熊的美食貼文，以及每篇介紹了哪些店（venue_ids）</td></tr>
+<tr><td><a href="v1/meta.json"><code>https://poterpan.github.io/lala-food-feed/v1/meta.json</code></a></td><td>產生時間、各項數量、因條件不足沒收錄的店與原因</td></tr>
+<tr><td><a href="v1/schema/"><code>https://poterpan.github.io/lala-food-feed/v1/schema/</code></a></td><td>以上檔案的 JSON Schema</td></tr>
 </table>
 
-<h2><code>venues.json</code> 欄位</h2>
-<p>JSON 陣列，一家店一筆：</p>
-<table><tr><th>欄位</th><th>說明</th></tr>
-<tr><td><code>cid</code></td><td>Google 地點 CID（與 lala-food 同一套 ID）</td></tr>
-<tr><td><code>place_id</code></td><td>Google Places place_id（只從收藏清單對到的店為 null）</td></tr>
-<tr><td><code>name / addr / city / lat / lng</code></td><td>店名、地址、縣市、座標</td></tr>
-<tr><td><code>names_in_threads</code></td><td>Threads 上出現過的寫法與次數，例如 {&quot;烏弄&quot;: 10, &quot;乌弄&quot;: 5}</td></tr>
-<tr><td><code>stance</code></td><td>誰說了什麼：author:* 是拉拉熊本人，other_user:* 是網友；recommend / negative / mixed / question / mention</td></tr>
-<tr><td><code>experience</code></td><td>拉拉熊吃過沒：visited / planned / not_yet / unknown</td></tr>
-<tr><td><code>author_recommends</code></td><td>拉拉熊本人的推薦是否多於負評</td></tr>
-<tr><td><code>in_lala_visited / in_lala_wish</code></td><td>是否已在 lala-food 的已去過／愛心清單</td></tr>
-<tr><td><code>first_seen / last_seen</code></td><td>在 Threads 上第一次、最後一次被提到的時間</td></tr>
-<tr><td><code>sources</code></td><td>所有提到這家店的 Threads 原文連結</td></tr>
+<h2>lala/：lala-food 相容格式</h2>
+<p>全部由 v1 產生。<code>data.js</code>、<code>posts.js</code> 可以直接替換；想保留 lala-food 既有的手動修改，就用差異檔或 <code>merged/</code>。</p>
+<table><tr><th>網址</th><th>內容</th></tr>
+<tr><td><a href="lala/data.js"><code>https://poterpan.github.io/lala-food-feed/lala/data.js</code></a></td><td>只用 v1 產生的完整版：已去過＝拉拉熊吃過，愛心＝他的收藏清單</td></tr>
+<tr><td><a href="lala/posts.js"><code>https://poterpan.github.io/lala-food-feed/lala/posts.js</code></a></td><td>只用 v1 產生：每家店（CID）對應的拉拉熊貼文</td></tr>
+<tr><td><a href="lala/extra.json"><code>https://poterpan.github.io/lala-food-feed/lala/extra.json</code></a></td><td>相對於 lala-food 目前資料的差異，格式同其 extra.json</td></tr>
+<tr><td><a href="lala/notes.json"><code>https://poterpan.github.io/lala-food-feed/lala/notes.json</code></a></td><td>必點品項與拉拉熊原話心得，格式同其 notes.json</td></tr>
+<tr><td><a href="lala/posts.json"><code>https://poterpan.github.io/lala-food-feed/lala/posts.json</code></a></td><td>相對於 lala-food 目前資料的貼文對應（純 JSON）</td></tr>
+<tr><td><a href="lala/merged/data.js"><code>https://poterpan.github.io/lala-food-feed/lala/merged/data.js</code></a></td><td>lala-food 目前的 data.js 套用上面差異後的結果（保留其手動修改）</td></tr>
+<tr><td><a href="lala/merged/posts.js"><code>https://poterpan.github.io/lala-food-feed/lala/merged/posts.js</code></a></td><td>lala-food 目前的 posts.js 併入新找到的貼文</td></tr>
 </table>
 
-<h2><code>brands.json</code> 欄位</h2>
-<p>JSON 陣列，一個品牌一筆。分店不確定的連鎖店推薦放這裡，不放進 venues.json：</p>
+<h2><code>v1/venues.json</code> 主要欄位</h2>
 <table><tr><th>欄位</th><th>說明</th></tr>
-<tr><td><code>brand</code></td><td>品牌名稱</td></tr>
-<tr><td><code>names_in_threads / stance / experience / author_recommends</code></td><td>同 venues.json</td></tr>
-<tr><td><code>items / comment</code></td><td>必點品項、拉拉熊原話心得（逐字、已對照原文）</td></tr>
-<tr><td><code>saved_branch_cids</code></td><td>拉拉熊收藏清單裡這個品牌的分店 CID</td></tr>
-<tr><td><code>lala_branch_cids</code></td><td>lala-food 現有資料裡這個品牌的分店 CID，可用來把品牌推薦掛到地圖上的分店</td></tr>
-<tr><td><code>mentions / first_seen / last_seen / sources</code></td><td>提及次數、時間範圍、Threads 原文連結</td></tr>
+<tr><td><code>id / cid</code></td><td>Google 地點 CID（與 lala-food 同一套 ID）</td></tr>
+<tr><td><code>place_id</code></td><td>Google Places place_id；只來自收藏清單的店為 null</td></tr>
+<tr><td><code>name / address / city / lat / lng / category</code></td><td>店名、地址、縣市、座標、分類</td></tr>
+<tr><td><code>brand</code></td><td>所屬連鎖品牌（不是連鎖則為 null）</td></tr>
+<tr><td><code>author.visited</code></td><td>拉拉熊說過或照片顯示他吃過</td></tr>
+<tr><td><code>author.recommends</code></td><td>拉拉熊本人的推薦多於負評為 true，相反為 false，沒表態為 null</td></tr>
+<tr><td><code>author.saved / saved_at / saved_note</code></td><td>是否在拉拉熊的收藏清單、收藏時間（Unix 秒）、他在清單上的備註</td></tr>
+<tr><td><code>basis</code></td><td>依據：threads（Threads 上有提到）、saved_list（在收藏清單）</td></tr>
+<tr><td><code>names_in_threads</code></td><td>Threads 上出現過的寫法與次數</td></tr>
+<tr><td><code>stance</code></td><td>誰說了什麼：author:* 是拉拉熊，other_user:* 是網友</td></tr>
+<tr><td><code>items / quotes</code></td><td>必點品項、拉拉熊原話（逐字、已對照原文，附連結）</td></tr>
+<tr><td><code>post_urls</code></td><td>拉拉熊介紹這家店的貼文</td></tr>
+<tr><td><code>first_seen / last_seen / sources</code></td><td>Threads 上第一次與最後一次提到的時間、所有原文連結</td></tr>
 </table>
 
 <h2>資料怎麼來的</h2>
-<p>每次更新會抓拉拉熊的新貼文與回覆，用 LLM 從文字、照片、留言裡的「這是哪家？」問答認出店家，再對應到 Google 地圖的店家（CID）。只收錄有把握的結果：
-名字不一致的、連鎖店沒有分店證據的、泛稱（例如「鐵板炒飯」）都不會出現在這裡。這一版因此沒收錄的：連鎖店無分店證據 6 家、店名對不上 46 家、只有待審核的提及 23 家、泛稱或地名 6 家。</p>
-<p>每一筆都附 Threads 原文連結，可以逐筆檢查。</p>
-
-<h2>接到 lala-food</h2>
-<p>在 <code>update.mjs</code> 先讀 <code>lala/extra.json</code>、<code>lala/notes.json</code>，讀不到就用本機原本的檔案；本機的手動設定（例如 <code>visited_remove</code>）永遠優先。
-也可以直接讀 <code>venues.json</code>，用 <code>experience</code> 與 <code>author_recommends</code> 決定放「已去過」或「愛心」。</p>
-<p><a href="https://github.com/poterpan/lala-food-feed">GitHub repo</a></p>
+<p>每次更新會抓拉拉熊的新貼文與回覆，用 LLM 從文字、照片、留言裡的「這是哪家？」問答認出店家，再對應到 Google 地圖的店家（CID）。
+Threads 上的店只收錄有把握的結果；這一版因條件不足沒收錄的：連鎖店無分店證據 6 家、店名對不上 46 家、只有待審核的提及 23 家、泛稱或地名 6 家。收藏清單直接來自拉拉熊本人分享的 Google 地圖清單。</p>
+<p>每一筆 Threads 證據都附原文連結，可以逐筆檢查。<a href="https://github.com/poterpan/lala-food-feed">GitHub repo</a></p>
 </body></html>
