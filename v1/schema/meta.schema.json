@@ -20,7 +20,10 @@
   "counts": {
    "type": "object",
    "additionalProperties": {
-    "type": "integer"
+    "type": [
+     "integer",
+     "object"
+    ]
    }
   },
   "withheld": {

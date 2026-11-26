@@ -181,6 +181,46 @@
     "items": {
      "type": "string"
     }
+   },
+   "tier": {
+    "enum": [
+     "author_visited",
+     "author_endorsed",
+     "community_recommended",
+     "author_saved",
+     "mentioned"
+    ]
+   },
+   "community": {
+    "type": "object",
+    "properties": {
+     "recommendations": {
+      "type": "integer"
+     },
+     "recommenders": {
+      "type": "integer"
+     },
+     "negative": {
+      "type": "integer"
+     },
+     "asked_by_author": {
+      "type": "boolean"
+     },
+     "author_reaction": {
+      "enum": [
+       "visited",
+       "planned",
+       "not_yet",
+       "unknown"
+      ]
+     },
+     "items": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     }
+    }
    }
   }
  }

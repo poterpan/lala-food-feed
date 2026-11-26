@@ -10,8 +10,8 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 </style></head><body>
 <h1>lala-food-feed</h1>
 <p class="sub">從拉拉熊（<a href="https://www.threads.com/@zeke_6973">@zeke_6973</a>）的 Threads 貼文、留言與收藏清單自動整理的店家資料。</p>
-<p>最後更新：<b>2026-11-27 03:07（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式：<code>lala-food-feed/v1</code></p>
-<div class="stats"><span>店家 <b>522</b></span><span>拉拉熊吃過 <b>122</b></span><span>拉拉熊推薦 <b>113</b></span><span>拉拉熊收藏 <b>264</b></span><span>連鎖品牌 <b>176</b></span><span>美食貼文 <b>71</b></span></div>
+<p>最後更新：<b>2026-11-27 03:13（台灣時間）</b>　更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）　格式：<code>lala-food-feed/v1</code></p>
+<div class="stats"><span>店家 <b>522</b></span><span>拉拉熊吃過 <b>122</b></span><span>拉拉熊推薦 <b>113</b></span><span>網友推薦 <b>125</b></span><span>拉拉熊收藏 <b>264</b></span><span>連鎖品牌 <b>176</b></span><span>美食貼文 <b>71</b></span></div>
 
 <p>待審核：<a href="review/"><b>0</b> 筆</a>（自動判斷沒把握的店家，人工確認後才會收錄）</p>
 
@@ -19,6 +19,7 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 <p>自給自足，只依據拉拉熊的 Threads 與他的收藏清單，不依賴任何其他網站的資料。</p>
 <table><tr><th>網址</th><th>內容</th></tr>
 <tr><td><a href="v1/venues.json"><code>https://poterpan.github.io/lala-food-feed/v1/venues.json</code></a></td><td>所有店家：Threads 上有證據的，加上拉拉熊收藏清單裡的。每家都標明依據（吃過、推薦、收藏）</td></tr>
+<tr><td><a href="v1/recommendations.json"><code>https://poterpan.github.io/lala-food-feed/v1/recommendations.json</code></a></td><td>社群推薦：網友推薦給拉拉熊、他還沒吃過的店，依推薦人數與他的反應（想去、記下來）排序</td></tr>
 <tr><td><a href="v1/brands.json"><code>https://poterpan.github.io/lala-food-feed/v1/brands.json</code></a></td><td>連鎖品牌層級的推薦（拉拉熊推了某品牌但沒說哪間分店），附必點、原話、已知分店</td></tr>
 <tr><td><a href="v1/evidence.json"><code>https://poterpan.github.io/lala-food-feed/v1/evidence.json</code></a></td><td>每一條證據：哪家店或品牌、拉拉熊或網友、立場、拉拉熊原話（逐字）、原文連結、日期</td></tr>
 <tr><td><a href="v1/posts.json"><code>https://poterpan.github.io/lala-food-feed/v1/posts.json</code></a></td><td>拉拉熊的美食貼文，以及每篇介紹了哪些店（venue_ids）</td></tr>
@@ -49,6 +50,8 @@ code{font-size:13px;background:#f5f5f5;padding:1px 4px;border-radius:4px;word-br
 <tr><td><code>author.saved / saved_at / saved_note</code></td><td>是否在拉拉熊分享的任一 Google 地圖清單、加入時間（Unix 秒）、他在清單上的備註</td></tr>
 <tr><td><code>author.lists</code></td><td>在哪幾份清單：id、title、meaning（saved＝收藏；recommended＝他說平常會去吃，算吃過且推薦）</td></tr>
 <tr><td><code>basis</code></td><td>依據：threads（Threads 上有提到）、saved_list（在收藏清單）</td></tr>
+<tr><td><code>tier</code></td><td>分級：author_visited 拉拉熊吃過 › author_endorsed 拉拉熊推薦 › community_recommended 網友推薦 › author_saved 只在他的清單 › mentioned 只被提到</td></tr>
+<tr><td><code>community</code></td><td>網友推薦：推薦次數、推薦人數（不同網友，不公開帳號）、拉拉熊的反應（visited/planned/not_yet/unknown）、是否他自己發問、網友推薦的品項</td></tr>
 <tr><td><code>names_in_threads</code></td><td>Threads 上出現過的寫法與次數</td></tr>
 <tr><td><code>stance</code></td><td>誰說了什麼：author:* 是拉拉熊，other_user:* 是網友</td></tr>
 <tr><td><code>items / quotes</code></td><td>必點品項、拉拉熊原話（逐字、已對照原文，附連結）</td></tr>
