@@ -31,11 +31,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Df1xHLDIHYU",
    "date": "2026-11-17",
    "text": "一路吃到北投了~~\n陈季的甜不辣和鱿鱼都好好吃，很有咬劲\n鸡腿更是很香很嫩啊！\n旁边的红茶店大杯的真的巨大一杯…\n感觉只有这种大杯符合我大杯的标准哈哈哈"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Df1yBVnIBDE",
-   "date": "2026-11-17",
-   "text": "这个炸物给的分量真的多，小份的我都快吃撑了"
   }
  ],
  "14602401179918739271": [
@@ -48,11 +43,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Dfy2074oG4F",
    "date": "2026-11-16",
    "text": "对对对，中午还便宜一点\n我感觉我完全吃回本哈哈哈哈"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Dfy2C6CoONT",
-   "date": "2026-11-16",
-   "text": "而且服务员小姐/小哥1小时内至少5次来问我要不要加蔬菜/肉，之前也有看到说这家服务不好，感觉好像没有欸！\n我吃的是忠孝复兴旁边的这家~"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/Dfy9VSioF5k",
@@ -73,11 +63,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgASBfEIIxT",
    "date": "2026-11-21",
    "text": "但是momo的装修更新一点，空调也舒服\n一番地的肉更好吃一点"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgASSw6INyS",
-   "date": "2026-11-21",
-   "text": "这个超好吃"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/DgAXZBJAaTE",
@@ -124,11 +109,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
    "date": "2026-11-10",
    "text": "1️⃣豆腐洋行國華店\n2️⃣鬍鬚忠牛肉湯\n3️⃣榮興水果店\n4️⃣清珍鴨肉羹\n5️⃣ 天蠍座燒烤（創始老店\n5️⃣ 黑工號嫩仙草 育樂店\n6️⃣ 國華牛肉湯\n7️⃣奉茶\n8️⃣木子樑室"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "date": "2026-11-10",
-   "text": "超好吃，每家都是会回访的水准🤣"
   }
  ],
  "16259321547352114051": [
@@ -141,11 +121,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfjL3_6INW_",
    "date": "2026-11-10",
    "text": "台南的水果好香甜啊！！\n终于吃到了新鲜的美味芒果哈哈哈"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "date": "2026-11-10",
-   "text": "超好吃，每家都是会回访的水准🤣"
   }
  ],
  "16778390392044867133": [
@@ -160,11 +135,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
    "date": "2026-11-10",
    "text": "1️⃣豆腐洋行國華店\n2️⃣鬍鬚忠牛肉湯\n3️⃣榮興水果店\n4️⃣清珍鴨肉羹\n5️⃣ 天蠍座燒烤（創始老店\n5️⃣ 黑工號嫩仙草 育樂店\n6️⃣ 國華牛肉湯\n7️⃣奉茶\n8️⃣木子樑室"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "date": "2026-11-10",
-   "text": "超好吃，每家都是会回访的水准🤣"
   }
  ],
  "16908299507674726603": [
@@ -172,11 +142,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
    "date": "2026-11-10",
    "text": "1️⃣豆腐洋行國華店\n2️⃣鬍鬚忠牛肉湯\n3️⃣榮興水果店\n4️⃣清珍鴨肉羹\n5️⃣ 天蠍座燒烤（創始老店\n5️⃣ 黑工號嫩仙草 育樂店\n6️⃣ 國華牛肉湯\n7️⃣奉茶\n8️⃣木子樑室"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "date": "2026-11-10",
-   "text": "超好吃，每家都是会回访的水准🤣"
   }
  ],
  "3719284834517236615": [
@@ -189,11 +154,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfjULl7ICdA",
    "date": "2026-11-10",
    "text": "台南第一顿，呀咪呀咪"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "date": "2026-11-10",
-   "text": "超好吃，每家都是会回访的水准🤣"
   }
  ],
  "17935771450072828788": [
@@ -343,19 +303,9 @@ window.LALA_POSTS = {
    "text": "希望今天伊禾白汤没有很多人吃，我要先去吃shinn，买杯手摇饮，去排队晚上的"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DetGai5oO3A",
-   "date": "2026-10-20",
-   "text": "shinn来不及了哈哈哈哈哈"
-  },
-  {
    "url": "https://www.threads.com/@zeke_6973/post/DetQdscoMTu",
    "date": "2026-10-20",
    "text": "排队伊禾白汤中\n14:30到的看看几点能吃上🤣"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DetbOm3IPCY",
-   "date": "2026-10-20",
-   "text": "进来了"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/DewzhfLgXWw",
@@ -399,11 +349,6 @@ window.LALA_POSTS = {
    "text": "在忠孝復興附近喝到两家超不错的咖啡▓\n第一家：VWI by CHADWANG\n（貌似还是不限时咖啡，可以坐床边办公学习）\n第二家：SIMPLE KAFFA興波咖啡"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/Ded42ZHINwS",
-   "date": "2026-10-14",
-   "text": "第一家这个甜品应该是店员手工做的，不是那种化冻的，偏甜一点，我觉得坐窗边点一杯手冲配着慢慢吃应该很舒服！豆子可以选，还可以闻闻看自己喜欢哪个。\n第二家我点的茶香咖啡真挺好喝的，一把盖子扣开茶香味就很明显，不是那种香精味，奶味+茶味+咖啡味融合的特别好，不是那种非常苦或者酸的。我没来台湾之前很少喝拿铁，这边的牛奶是真的很不错，什么饮品做的都很融合。"
-  },
-  {
    "url": "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
    "date": "2026-11-26",
    "text": "蛋糕甜品可能是…亚尼克？\n我之前买了一个外观微瑕的9折\n还满好吃的\n咖啡的话推SIMPLE KAFFA興波咖啡 新光三越Diamond Towers的一个茶拿铁（忘记具体名字了，融合的非常完美好喝）\nVWI by CHADWANG手冲有很多可选，可以先闻味道之类的，店员介绍很细心\n两家店离得很近，如果不怕摄入过多咖啡因可以一起喝～\n（不过咖啡口味见仁见智，我觉得这两家还不错啦，乳糖不耐受别喝拿铁，虽然隔壁厕所很豪华）"
@@ -419,11 +364,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Ded5YWfoD_B",
    "date": "2026-10-14",
    "text": "XD，而且有时候我喝咖啡会很容易想上厕所，第二家正好就在新光三越里面，上二楼就有很豪华的厕所🤣"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Ded42ZHINwS",
-   "date": "2026-10-14",
-   "text": "第一家这个甜品应该是店员手工做的，不是那种化冻的，偏甜一点，我觉得坐窗边点一杯手冲配着慢慢吃应该很舒服！豆子可以选，还可以闻闻看自己喜欢哪个。\n第二家我点的茶香咖啡真挺好喝的，一把盖子扣开茶香味就很明显，不是那种香精味，奶味+茶味+咖啡味融合的特别好，不是那种非常苦或者酸的。我没来台湾之前很少喝拿铁，这边的牛奶是真的很不错，什么饮品做的都很融合。"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/DgM7VwrIMII",
@@ -461,11 +401,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DeZBvFmoLRY",
    "date": "2026-10-12",
    "text": "今天就排15分钟欸"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DeZfa3KAWvF",
-   "date": "2026-10-12",
-   "text": "感觉这一碗还比较适合加料：糖渍洋葱"
   },
   {
    "url": "https://www.threads.com/@zeke_6973/post/Dedo2ZFIEdQ",
@@ -669,11 +604,6 @@ window.LALA_POSTS = {
    "text": "但是momo的装修更新一点，空调也舒服\n一番地的肉更好吃一点"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DgASSw6INyS",
-   "date": "2026-11-21",
-   "text": "这个超好吃"
-  },
-  {
    "url": "https://www.threads.com/@zeke_6973/post/DgAXZBJAaTE",
    "date": "2026-11-21",
    "text": "momo装修什么的都好一点，座椅也舒服，但是一番地肉更好吃哈哈哈哈"
@@ -704,18 +634,6 @@ window.LALA_POSTS = {
    "text": "吃一番地"
   }
  ],
- "7390618790061298717": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfAaNabgUrv",
-   "date": "2026-10-27",
-   "text": "吃"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfCRqMzAdf-",
-   "date": "2026-10-28",
-   "text": "卤肉饭拌吃还是不拌吃？"
-  }
- ],
  "7856184268919988168": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
@@ -741,6 +659,23 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgPKKEjIFjX",
    "date": "2026-11-27",
    "text": "这三家真的必吃"
+  }
+ ],
+ "17579303080629790612": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Df1xHLDIHYU",
+   "date": "2026-11-17",
+   "text": "一路吃到北投了~~\n陈季的甜不辣和鱿鱼都好好吃，很有咬劲\n鸡腿更是很香很嫩啊！\n旁边的红茶店大杯的真的巨大一杯…\n感觉只有这种大杯符合我大杯的标准哈哈哈"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLv78UAWTk",
+   "date": "2026-11-25",
+   "text": "漂亮 北投早餐你問我 我跟你講 你比問一百個北投人都準 北投早餐來 我先給你來齁 北投早餐 中式先給你來一套 阿輝伯蘿蔔絲餅 A先給你來一套 早上六點就開始排隊了 這個狗幹好吃 記得加蛋加辣先來一份 然後這個你 如果你早上買了這個會餓的話 再去旁邊市場高記 自己路線找一下啦 北投高記茶莊 路線自己找一下 然後這個 你以為結束了 還沒有 還有這招 傳統豆花堂 中式的 這家也穩到不行 這個你再不喜歡 沒關係 再往豆花堂上面走 早安勇士 不用多說包C的 炸雞沙拉直接點起來 再不行 再往上走 都是同一條路 哈柔早餐 卡拉雞腿堡加蛋加辣 過癮 嘎嘣脆 還要是不是 還要是不是 還要去甲S啦 羚羊那麼多tmd 先吃一吃再來講"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgLxeCoAbEf",
+   "date": "2026-11-26",
+   "text": "漂亮 北投早餐你問我 我跟你講 你比問一百個北投人都準 北投早餐來 我先給你來齁 北投早餐 中式先給你來一套 阿輝伯蘿蔔絲餅 A先給你來一套 早上六點就開始排隊了 這個狗幹好吃 記得加蛋加辣先來一份 然後這個你 如果你早上買了這個會餓的話 再去旁邊市場高記 自己路線找一下啦 北投高記茶莊 路線自己找一下 然後這個 你以為結束了 還沒有 還有這招 傳統豆花堂 中式的 這家也穩到不行 這個你再不喜歡 沒關係 再往豆花堂上面走 早安勇士 不用多說包C的 炸雞沙拉直接點起來 再不行 再往上走 都是同一條路 哈柔早餐 卡拉雞腿堡加蛋加辣 過癮 嘎嘣脆 還要是不是 還要是不是 還要去甲S啦 羚羊那麼多tmd 先吃一吃再來講"
   }
  ],
  "16924871813805623339": [
@@ -787,48 +722,26 @@ window.LALA_POSTS = {
    "text": "霸味三重总店，笑死\n因为我搜了一下还问了ai\n都说吃这家"
   }
  ],
- "17579303080629790612": [
+ "4167633776798905020": [
   {
-   "url": "https://www.threads.com/@zeke_6973/post/Df1xHLDIHYU",
-   "date": "2026-11-17",
-   "text": "一路吃到北投了~~\n陈季的甜不辣和鱿鱼都好好吃，很有咬劲\n鸡腿更是很香很嫩啊！\n旁边的红茶店大杯的真的巨大一杯…\n感觉只有这种大杯符合我大杯的标准哈哈哈"
+   "url": "https://www.threads.com/@zeke_6973/post/DfUSS7YgZ21",
+   "date": "2026-11-04",
+   "text": "难怪那么多高中生在吃\n还可以免费加饭加酱\n但是没有想象中的好吃到爆\n大安还是吃curry lab Tokyo吧哈哈哈"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DgLv78UAWTk",
+   "url": "https://www.threads.com/@zeke_6973/post/DgLFxD4gd-R",
    "date": "2026-11-25",
-   "text": "漂亮 北投早餐你問我 我跟你講 你比問一百個北投人都準 北投早餐來 我先給你來齁 北投早餐 中式先給你來一套 阿輝伯蘿蔔絲餅 A先給你來一套 早上六點就開始排隊了 這個狗幹好吃 記得加蛋加辣先來一份 然後這個你 如果你早上買了這個會餓的話 再去旁邊市場高記 自己路線找一下啦 北投高記茶莊 路線自己找一下 然後這個 你以為結束了 還沒有 還有這招 傳統豆花堂 中式的 這家也穩到不行 這個你再不喜歡 沒關係 再往豆花堂上面走 早安勇士 不用多說包C的 炸雞沙拉直接點起來 再不行 再往上走 都是同一條路 哈柔早餐 卡拉雞腿堡加蛋加辣 過癮 嘎嘣脆 還要是不是 還要是不是 還要去甲S啦 羚羊那麼多tmd 先吃一吃再來講"
+   "text": "竣师傅\nCurry Lab. Tokyo 大安店\n池音 雞白湯ラーメン"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DgLxeCoAbEf",
-   "date": "2026-11-26",
-   "text": "漂亮 北投早餐你問我 我跟你講 你比問一百個北投人都準 北投早餐來 我先給你來齁 北投早餐 中式先給你來一套 阿輝伯蘿蔔絲餅 A先給你來一套 早上六點就開始排隊了 這個狗幹好吃 記得加蛋加辣先來一份 然後這個你 如果你早上買了這個會餓的話 再去旁邊市場高記 自己路線找一下啦 北投高記茶莊 路線自己找一下 然後這個 你以為結束了 還沒有 還有這招 傳統豆花堂 中式的 這家也穩到不行 這個你再不喜歡 沒關係 再往豆花堂上面走 早安勇士 不用多說包C的 炸雞沙拉直接點起來 再不行 再往上走 都是同一條路 哈柔早餐 卡拉雞腿堡加蛋加辣 過癮 嘎嘣脆 還要是不是 還要是不是 還要去甲S啦 羚羊那麼多tmd 先吃一吃再來講"
-  }
- ],
- "5635509801842809194": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgO-qclIL07",
-   "date": "2026-11-27",
-   "text": "非常之好吃啊"
+   "url": "https://www.threads.com/@zeke_6973/post/DgLGUmmAYYe",
+   "date": "2026-11-25",
+   "text": "Curry Lab. Tokyo 大安店"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DgO-rZ2IJgr",
+   "url": "https://www.threads.com/@zeke_6973/post/DgQOFCMk5oE",
    "date": "2026-11-27",
-   "text": "真的超级好吃"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOtLgAIFUu",
-   "date": "2026-11-27",
-   "text": "八合里真的好吃，那个炒牛河不输潮汕的"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOtQDwoIue",
-   "date": "2026-11-27",
-   "text": "好吃的不行，我每周都想吃"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgPeW99ICDZ",
-   "date": "2026-11-27",
-   "text": "我都是让我朋友帮我调一个\n我自己也调不来哈哈哈"
+   "text": "这家是真好吃"
   }
  ],
  "694526374424343264": [
@@ -877,6 +790,55 @@ window.LALA_POSTS = {
    "text": "好远，但是我去看过海豚\n招弟不错"
   }
  ],
+ "17328940969545409368": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dd6guqqAcZs",
+   "date": "2026-09-30",
+   "text": "打卡四家世新大学景美夜市好店\n1️⃣阿华热炒+十字路口鸡腿\n鸡腿依旧好吃到舍不得吞下去，阿华热炒是好吃的湿炒，但是店里太热太热了真的吃不到什么味道了都！可以外带一下\n2️⃣杨记水饺\n饺子比较小，可以点高丽菜/韭菜的馅，选择5/10/15个拼口味。皮非常软韧的啊，馅料也很嫩很鲜甜，一吃就是纯手工的，酱油是甜甜的酱油，调料自己加的我不爱\n3️⃣小六越南\n吃完发现我是真的不爱越南口味，这家店很正宗呀，那个凉拌菜酸酸甜甜的很开胃。因为我不太喜欢越南菜不评价了"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgNiV2DgZ-S",
+   "date": "2026-11-26",
+   "text": "忘了杨家水饺！"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgPKKEjIFjX",
+   "date": "2026-11-27",
+   "text": "这三家真的必吃"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgPKNsEoDxz",
+   "date": "2026-11-27",
+   "text": "杨家手工水饺吃过了吗哈哈哈"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgQOdPUk1Xt",
+   "date": "2026-11-27",
+   "text": "这个我觉得真的是我吃的最喜欢的"
+  }
+ ],
+ "15167923438729704615": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DdtJj65oKza",
+   "date": "2026-09-25",
+   "text": "三妈臭臭锅，金门金峰卤肉饭，711意面\n今天在台湾吃对了没有🤣"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DdtfB4pAeGR",
+   "date": "2026-09-25",
+   "text": "你发现了华点，我也是吃完才发现貌似这家店…（？），不过它门口还摆着2020评奖的牌子"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dey2eaPAf89",
+   "date": "2026-10-22",
+   "text": "这个卤肉饭好像并不是真正的金峰，我发现▓"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfCRmh8AShr",
+   "date": "2026-10-28",
+   "text": "超好笑，我是不是又吃错店了\n这貌似不是三重的五灯奖，吃成连锁五灯奖了\n上次吃金峰卤肉饭吃成西门金峰卤肉饭\n（叠甲：没有说这些店不好吃的意思）"
+  }
+ ],
  "8285193402708631225": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DfOrnMsoNPR",
@@ -904,23 +866,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DfCF5-_IECw",
    "date": "2026-10-28",
    "text": "burntburger"
-  }
- ],
- "4167633776798905020": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfUSS7YgZ21",
-   "date": "2026-11-04",
-   "text": "难怪那么多高中生在吃\n还可以免费加饭加酱\n但是没有想象中的好吃到爆\n大安还是吃curry lab Tokyo吧哈哈哈"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgLFxD4gd-R",
-   "date": "2026-11-25",
-   "text": "竣师傅\nCurry Lab. Tokyo 大安店\n池音 雞白湯ラーメン"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgLGUmmAYYe",
-   "date": "2026-11-25",
-   "text": "Curry Lab. Tokyo 大安店"
   }
  ],
  "11496941030989048276": [
@@ -986,72 +931,6 @@ window.LALA_POSTS = {
    "text": "延三溫體牛-黃記"
   }
  ],
- "9597654951644927654": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Dfjpq_qoIjr",
-   "date": "2026-11-10",
-   "text": "木子樑茶还不错喝啊\n冬瓜青才35块超便宜啊\n可惜只有台南有▓"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkMYK-j536",
-   "date": "2026-11-10",
-   "text": "台南独旅 DAY 1\n12个小时吃了什么？"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
-   "date": "2026-11-10",
-   "text": "1️⃣豆腐洋行國華店\n2️⃣鬍鬚忠牛肉湯\n3️⃣榮興水果店\n4️⃣清珍鴨肉羹\n5️⃣ 天蠍座燒烤（創始老店\n5️⃣ 黑工號嫩仙草 育樂店\n6️⃣ 國華牛肉湯\n7️⃣奉茶\n8️⃣木子樑室"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfkNnkEgWDg",
-   "date": "2026-11-10",
-   "text": "超好吃，每家都是会回访的水准🤣"
-  }
- ],
- "1996105823642840062": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfrplLFgY_w",
-   "date": "2026-11-13",
-   "text": "六张犁旁边的釜山猪肉汤饭好好吃🤤\n猪肉片特别嫩，汤底是类似排骨汤的味道\n我选的这个比较清淡，但是吃起来也很鲜有滋味！\n吃完也不会嘴巴咸咸的想喝很多水\n而且特别一人食友好，炸鸡/冬粉卷还有单人小份的！\n炸鸡有点像汤咖喱的风味？\n神奇的味道。不知道怎么描述。但是很好吃…"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfrqA2GgX9p",
-   "date": "2026-11-13",
-   "text": "btw而且感觉猪肉汤饭非常的饮控啊！\n都是食物本人没有精加工，还很好吃"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfrqJsYgdqR",
-   "date": "2026-11-13",
-   "text": "李家餐厅（饭点去要排30分钟可能）"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfsMhqyAao-",
-   "date": "2026-11-13",
-   "text": "没错没错，我感觉超好吃还健康哈哈哈哈"
-  }
- ],
- "17328940969545409368": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/Dd6guqqAcZs",
-   "date": "2026-09-30",
-   "text": "打卡四家世新大学景美夜市好店\n1️⃣阿华热炒+十字路口鸡腿\n鸡腿依旧好吃到舍不得吞下去，阿华热炒是好吃的湿炒，但是店里太热太热了真的吃不到什么味道了都！可以外带一下\n2️⃣杨记水饺\n饺子比较小，可以点高丽菜/韭菜的馅，选择5/10/15个拼口味。皮非常软韧的啊，馅料也很嫩很鲜甜，一吃就是纯手工的，酱油是甜甜的酱油，调料自己加的我不爱\n3️⃣小六越南\n吃完发现我是真的不爱越南口味，这家店很正宗呀，那个凉拌菜酸酸甜甜的很开胃。因为我不太喜欢越南菜不评价了"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgNiV2DgZ-S",
-   "date": "2026-11-26",
-   "text": "忘了杨家水饺！"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgPKKEjIFjX",
-   "date": "2026-11-27",
-   "text": "这三家真的必吃"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgPKNsEoDxz",
-   "date": "2026-11-27",
-   "text": "杨家手工水饺吃过了吗哈哈哈"
-  }
- ],
  "853834195101557397": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DgMj9g3oMbX",
@@ -1078,26 +957,28 @@ window.LALA_POSTS = {
    "text": "哇塞，那我回去也要吃！"
   }
  ],
- "17906267064864546188": [
+ "17784600101090889227": [
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DgMchz6oN5z",
-   "date": "2026-11-26",
-   "text": "有一个叫西安风味小吃的炒面很好吃\n但是可能有点太咸\n可以提前和老板说少点盐"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgMrer-IGpZ",
-   "date": "2026-11-26",
-   "text": "先去吃西安风味小吃附近的"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+   "url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
    "date": "2026-11-27",
-   "text": "我来分享一些之前在厦门经常吃的美味食物\n（来旅游或者是本地人都可以吃看看，应该都还可以吧！）\n1️⃣朱富贵\n这个必吃啊，很经典的，推荐厦门火车站店\n锅底可以选糟粕醋，太咸记得加旁边的水！\n2️⃣八合里\n懒得去潮汕可以吃这个平替，炒牛河非常好吃\n3️⃣喜旺梨\n想尝尝台湾味的可以去试看看，还不错啦\n但是他们家台湾饮料和台湾本地的配料表不一样\n4️⃣鲜芋仙\n和台湾的不一样，很好吃，我在厦门经常吃\n5️⃣山姆\n看干蒸烧卖就好，无敌好吃，就是贵\n如果你们有进入山姆的才能可以去\n出口卖的冰淇淋炸鸡披萨也都不错吃\n冰淇淋最好吃了\n6️⃣西安风味小吃\n孜然炒面不解释，好吃的不行\n可能会太咸，但是我刚刚好\nxhs搜搜看，附近很多好吃的\n果汁、拉面之类的吃不完\n7️⃣鸡柳大人\n有条件去吃现做的，一定要甘梅粉加到爆\n外卖会变硬硬的，私心喜欢鸡柳+年糕（无薯条）\n能吃辣的和火鸡面拌在一起吃，信我\n8️⃣汤龙腾炖罐\n居然漏了一个！不行啊\n厦门最好吃的炖罐，福建人必吃的\n点一个炖罐+主食当消夜很不错\n喜欢鸡蛋肉泥炖罐"
+   "text": "今天下课来新店简单吃点"
+  }
+ ],
+ "9042420724587109494": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgPtwC2IJ3x",
+   "date": "2026-11-27",
+   "text": "谁推荐的60+tea\n好好喝啊，超级香…\n我真心感觉台湾饮控人很爽\n随随便便都可以买到各种\n无糖也很好喝的茶饮"
   },
   {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOssG7IL_q",
+   "url": "https://www.threads.com/@zeke_6973/post/DgPwo1CoPuH",
    "date": "2026-11-27",
-   "text": "之前的手怎么那么瘦？"
+   "text": "好喝的，这个纯茶真不错"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
+   "date": "2026-11-27",
+   "text": "1️⃣迷客夏 鲜奶系列\n芋头鲜奶/嫩仙草冻鲜奶都不错\n（冰的更好喝）\n\n2️⃣乌弄（可无糖，饮控）\n菊花茶（不过是季节产品，快下架了…）\n其他的也很好喝，推荐冬片仔\n\n3️⃣60+tea （可无糖，饮控）\n火乌龙+茶丸\n刚发现的，非常好喝的纯茶！\n唯一一家只喝过一次就推荐的\n\n4️⃣50岚\n推荐四季奶青、八冰绿、柠檬绿\n虽然但是，这个太大众了！\n\n5️⃣得正\n柠檬春乌龙/甘蔗春乌龙\n\n6️⃣甘蔗妈妈\n甘蔗鲜奶，这种搭配第一次见到啊！\n特别惊艳好喝，就是略甜"
   }
  ],
  "1048405376045569528": [
@@ -1133,23 +1014,62 @@ window.LALA_POSTS = {
    "text": "台风前夕，无人排队\n煎包豆沙，都很美味\n天气凉爽，快哉快哉"
   }
  ],
+ "1144883667007461288": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DejkOcMAZmF",
+   "date": "2026-10-16",
+   "text": "我现在完全理解有人说“完全不如我家巷口啊”的心情了\n世新旁边这个牛排是真好吃啊！还便宜，还很新鲜\n店里还有凉凉的蜂蜜红茶和玉米汤喝，除了店里热热的没有缺点了"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgNOHmPIMET",
+   "date": "2026-11-26",
+   "text": "不是门口的，是往里面一点的一家，叫同一家牛排"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgQOWpRE3_4",
+   "date": "2026-11-27",
+   "text": "这个真的好好吃，而且老板也很好"
+  }
+ ],
+ "9597654951644927654": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/Dfjpq_qoIjr",
+   "date": "2026-11-10",
+   "text": "木子樑茶还不错喝啊\n冬瓜青才35块超便宜啊\n可惜只有台南有▓"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfkMYK-j536",
+   "date": "2026-11-10",
+   "text": "台南独旅 DAY 1\n12个小时吃了什么？"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfkNRZdAXOG",
+   "date": "2026-11-10",
+   "text": "1️⃣豆腐洋行國華店\n2️⃣鬍鬚忠牛肉湯\n3️⃣榮興水果店\n4️⃣清珍鴨肉羹\n5️⃣ 天蠍座燒烤（創始老店\n5️⃣ 黑工號嫩仙草 育樂店\n6️⃣ 國華牛肉湯\n7️⃣奉茶\n8️⃣木子樑室"
+  }
+ ],
+ "1996105823642840062": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfrplLFgY_w",
+   "date": "2026-11-13",
+   "text": "六张犁旁边的釜山猪肉汤饭好好吃🤤\n猪肉片特别嫩，汤底是类似排骨汤的味道\n我选的这个比较清淡，但是吃起来也很鲜有滋味！\n吃完也不会嘴巴咸咸的想喝很多水\n而且特别一人食友好，炸鸡/冬粉卷还有单人小份的！\n炸鸡有点像汤咖喱的风味？\n神奇的味道。不知道怎么描述。但是很好吃…"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfrqJsYgdqR",
+   "date": "2026-11-13",
+   "text": "李家餐厅（饭点去要排30分钟可能）"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfsMhqyAao-",
+   "date": "2026-11-13",
+   "text": "没错没错，我感觉超好吃还健康哈哈哈哈"
+  }
+ ],
  "8239175376240301640": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DfeZZQHINcw",
    "date": "2026-11-08",
    "text": "来打卡观光客店～\n水果和炼乳和刨冰很般配\n但是水果没有特别好吃（除了香蕉）\n台北好像没有这种类型的冰\n来吃个新鲜感啦哈哈哈"
-  }
- ],
- "15167923438729704615": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfCRmh8AShr",
-   "date": "2026-10-28",
-   "text": "超好笑，我是不是又吃错店了\n这貌似不是三重的五灯奖，吃成连锁五灯奖了\n上次吃金峰卤肉饭吃成西门金峰卤肉饭\n（叠甲：没有说这些店不好吃的意思）"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DfCRqMzAdf-",
-   "date": "2026-10-28",
-   "text": "卤肉饭拌吃还是不拌吃？"
   }
  ],
  "11643719049567786305": [
@@ -1164,42 +1084,11 @@ window.LALA_POSTS = {
    "text": "中山的金猪烤肉还不错吃呀\n好喜欢这种全程帮烤的烤肉\n点了三人套餐包含的辛拉面也好吃\n汤底比自己煮的更浓郁一点…"
   }
  ],
- "17784600101090889227": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
-   "date": "2026-11-27",
-   "text": "今天下课来新店简单吃点"
-  }
- ],
- "11924104110035498762": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/De_cYaJoB9T",
-   "date": "2026-10-27",
-   "text": "台北市政府旁边的muji cafe超级不错吃！\n推：冰淇淋奶茶、布丁、爱文芒果干、酸奶洋葱洋芋片\n最爱冰淇淋奶茶，超正的红茶鲜奶+牛乳冰淇淋味😍"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/De_ddkgoDNO",
-   "date": "2026-10-27",
-   "text": "我总感觉muji像充氧了，一进muji整个人特别舒服！这个餐厅餐具环境也很精致，限时90分钟（但是貌似没有很严），超适合坐着发呆打发时间…"
-  }
- ],
  "9511623134232537728": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/Df7cIM_gW9R",
    "date": "2026-11-19",
    "text": "吃过了哈哈哈"
-  }
- ],
- "8025341193483441177": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOq31RgSu_",
-   "date": "2026-11-27",
-   "text": "之前出差去过几次泉州\n我记得下辇牛肉很好吃（无图）"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOuWEnIB7E",
-   "date": "2026-11-27",
-   "text": "之前出差去过几次泉州\n我记得下辇牛肉很好吃（无图）"
   }
  ],
  "10966147063888458068": [
@@ -1221,30 +1110,11 @@ window.LALA_POSTS = {
    "text": "这个盐酥鸡很好吃"
   }
  ],
- "4536436953304270250": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgMl5CXIPNN",
-   "date": "2026-11-26",
-   "text": "好像没吃过平价甜品\n但是我来分享一个我吃到最喜欢的很小众的\n四季民福北京烤鸭里卖的甜品拼盘\n这个驴打滚特别好吃念念不忘"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgO7uhnoMIt",
-   "date": "2026-11-27",
-   "text": "你从台湾去的话\n四季民福还不错\n那个甜品拼盘一次可以吃到很多口味，很好吃\n橙子也很好吃"
-  }
- ],
  "953982222234349142": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DehAMOAAT9Z",
    "date": "2026-10-15",
    "text": "速通士林夜市\n鸡排是好吃的，先炸再烤，没有很多油，刷了甜口的酱\n亚米亚米要排20-30分钟也还不错喝，是老式奶茶味道"
-  }
- ],
- "3229213104581589047": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOxmPnAY8e",
-   "date": "2026-11-27",
-   "text": "吃好利来（？）\n这个还挺好吃的，各个品类都不踩雷"
   }
  ],
  "2182843687451876530": [
@@ -1259,18 +1129,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Df0Af5Aksr_",
    "date": "2026-11-16",
    "text": "哈哈哈因为我那天去完重新桥集市，我家牛排已经下午休息了"
-  }
- ],
- "1144883667007461288": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DejkOcMAZmF",
-   "date": "2026-10-16",
-   "text": "我现在完全理解有人说“完全不如我家巷口啊”的心情了\n世新旁边这个牛排是真好吃啊！还便宜，还很新鲜\n店里还有凉凉的蜂蜜红茶和玉米汤喝，除了店里热热的没有缺点了"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgNOHmPIMET",
-   "date": "2026-11-26",
-   "text": "不是门口的，是往里面一点的一家，叫同一家牛排"
   }
  ],
  "17177491256556889740": [
@@ -1336,18 +1194,6 @@ window.LALA_POSTS = {
    "text": "太及时了，我刚刚到"
   }
  ],
- "2374721713851536049": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
-   "date": "2026-11-27",
-   "text": "我来分享一些之前在厦门经常吃的美味食物\n（来旅游或者是本地人都可以吃看看，应该都还可以吧！）\n1️⃣朱富贵\n这个必吃啊，很经典的，推荐厦门火车站店\n锅底可以选糟粕醋，太咸记得加旁边的水！\n2️⃣八合里\n懒得去潮汕可以吃这个平替，炒牛河非常好吃\n3️⃣喜旺梨\n想尝尝台湾味的可以去试看看，还不错啦\n但是他们家台湾饮料和台湾本地的配料表不一样\n4️⃣鲜芋仙\n和台湾的不一样，很好吃，我在厦门经常吃\n5️⃣山姆\n看干蒸烧卖就好，无敌好吃，就是贵\n如果你们有进入山姆的才能可以去\n出口卖的冰淇淋炸鸡披萨也都不错吃\n冰淇淋最好吃了\n6️⃣西安风味小吃\n孜然炒面不解释，好吃的不行\n可能会太咸，但是我刚刚好\nxhs搜搜看，附近很多好吃的\n果汁、拉面之类的吃不完\n7️⃣鸡柳大人\n有条件去吃现做的，一定要甘梅粉加到爆\n外卖会变硬硬的，私心喜欢鸡柳+年糕（无薯条）\n能吃辣的和火鸡面拌在一起吃，信我\n8️⃣汤龙腾炖罐\n居然漏了一个！不行啊\n厦门最好吃的炖罐，福建人必吃的\n点一个炖罐+主食当消夜很不错\n喜欢鸡蛋肉泥炖罐"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgOssG7IL_q",
-   "date": "2026-11-27",
-   "text": "之前的手怎么那么瘦？"
-  }
- ],
  "15326876942461443714": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/Ddd5Kx6IMMj",
@@ -1367,6 +1213,13 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Ddgm84GAZos",
    "date": "2026-09-20",
    "text": "我真的是那种去哪里都要在商场吃点东西逛一逛的人"
+  }
+ ],
+ "11924104110035498762": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/De_cYaJoB9T",
+   "date": "2026-10-27",
+   "text": "台北市政府旁边的muji cafe超级不错吃！\n推：冰淇淋奶茶、布丁、爱文芒果干、酸奶洋葱洋芋片\n最爱冰淇淋奶茶，超正的红茶鲜奶+牛乳冰淇淋味😍"
   }
  ],
  "2204171077572639018": [
@@ -1586,6 +1439,13 @@ window.LALA_POSTS = {
    "text": "花生泡泡冰和芋泥球超好吃"
   }
  ],
+ "7390618790061298717": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfAaNabgUrv",
+   "date": "2026-10-27",
+   "text": "吃"
+  }
+ ],
  "14715907866964249889": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DgKlv2hoPKu",
@@ -1632,6 +1492,13 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgL9GZpICiS",
    "date": "2026-11-26",
    "text": "我就猜到是这家，收藏好久了"
+  }
+ ],
+ "6227887437760463946": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgP7oyloKB3",
+   "date": "2026-11-27",
+   "text": "我知道这个，但是吃不下了哈哈哈"
   }
  ],
  "17637500245999112361": [

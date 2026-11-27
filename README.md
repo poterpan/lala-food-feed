@@ -3,7 +3,7 @@
 從拉拉熊（[@zeke_6973](https://www.threads.com/@zeke_6973)）的 Threads 貼文、留言與收藏清單自動整理的店家資料。
 
 - 說明頁：https://poterpan.github.io/lala-food-feed/
-- 最後更新：2026-11-28 03:35（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
+- 最後更新：2026-11-28 06:13（台灣時間）；更新頻率：每天 03:30、12:30、18:30、22:30（台灣時間）
 
 ## v1：標準格式（推薦）
 
@@ -33,8 +33,11 @@
 
 | 欄位 | 說明 |
 |---|---|
-| `id / cid` | Google 地點 CID（與 lala-food 同一套 ID） |
-| `place_id` | Google Places place_id；只來自收藏清單的店為 null |
+| `id` | 店家 ID：Google 地點 CID（與 lala-food 同一套）；中國大陸的店用高德，為 amap:<高德 POI ID> |
+| `cid` | Google 地點 CID；中國大陸（高德）的店為 null，lala/ 相容檔案不收這些店 |
+| `place_id` | Google Places place_id；只來自收藏清單的店、高德的店為 null |
+| `amap_id` | 高德 POI ID（中國大陸的店），其餘為 null |
+| `maps_url` | 開啟地圖的連結：Google 地圖，或中國大陸的店用高德（手機會開高德 App） |
 | `name / address / city / lat / lng / category` | 店名、地址、縣市、座標、分類 |
 | `brand` | 所屬連鎖品牌（不是連鎖則為 null） |
 | `author.visited` | 拉拉熊說過或照片顯示他吃過 |

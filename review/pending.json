@@ -1,158 +1,167 @@
 [
  {
-  "key": "taiwan|坪林手||新店",
-  "query": "坪林手 新店 大坪林站",
-  "reasons": [
-   "medium_score",
-   "not_food_type"
-  ],
-  "mentions": 2,
-  "by_author": true,
-  "candidate": {
-   "name": "大坪林",
-   "address": "23143新北市新店區北新路3段190號",
-   "cid": "13320166322222111798",
-   "maps": "https://maps.google.com/?cid=13320166322222111798"
-  }
- },
- {
-  "key": "taiwan|小潘鳳梨酥||新店",
-  "query": "小潘鳳梨酥 新店 大坪林站",
-  "reasons": [
-   "medium_score"
-  ],
-  "mentions": 2,
-  "by_author": true,
-  "candidate": {
-   "name": "小潘蛋糕坊 板橋中正店",
-   "address": "220新北市板橋區社後里中正路135巷11-1號",
-   "cid": "10143414860899880",
-   "maps": "https://maps.google.com/?cid=10143414860899880"
-  }
- },
- {
-  "key": "overseas|小楊生煎||上海",
-  "query": "小楊生煎 上海",
-  "reasons": [
-   "medium_score"
-  ],
-  "mentions": 2,
-  "by_author": true,
-  "candidate": {
-   "name": "小楊生煎",
-   "address": "中國上海市黄浦区宁波路178号 邮政编码: 200002",
-   "cid": "9610049975008306065",
-   "maps": "https://maps.google.com/?cid=9610049975008306065"
-  }
- },
- {
-  "key": "overseas|湯龍騰||廈門",
-  "query": "汤龙腾 厦门",
-  "reasons": [
-   "medium_score"
-  ],
-  "mentions": 2,
-  "by_author": true,
-  "candidate": {
-   "name": "龍記湯包小館",
-   "address": "中國福建省廈門市思明區F4RH+333 邮政编码: 361006",
-   "cid": "13728824065654939122",
-   "maps": "https://maps.google.com/?cid=13728824065654939122"
-  }
- },
- {
   "key": "overseas|八合裡||廈門",
-  "query": "八合里 厦门",
+  "query": "八合里 厦门火车站",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 15,
+  "by_author": true,
+  "candidate": {
+   "name": "八合里潮汕鲜牛肉火锅(厦门万象城店)",
+   "address": "福建省厦门市思明区湖滨东路99号华润万象城1期负二楼B229号商铺",
+   "cid": null,
+   "place_id": "amap:B0FFI8RRM6",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFI8RRM6&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "overseas|雞柳大人||廈門",
+  "query": "鸡柳大人 厦门火车站",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 5,
+  "by_author": true,
+  "candidate": {
+   "name": "鸡柳大人",
+   "address": "福建省厦门市湖里区安兜社36-101号(安兜地铁站1号口步行360米)",
+   "cid": null,
+   "place_id": "amap:B0M6GUOEN6",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0M6GUOEN6&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "overseas|西安風味小吃||廈門",
+  "query": "西安风味小吃",
+  "reasons": [
+   "amap_not_one_chain"
+  ],
+  "mentions": 4,
+  "by_author": true,
+  "candidate": {
+   "name": "焦记西安风味小吃(屿后南里店)",
+   "address": "福建省厦门市思明区屿后南里150号",
+   "cid": null,
+   "place_id": "amap:B0FFI6LX7N",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFI6LX7N&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "overseas|朱富貴糟粕醋||廈門",
+  "query": "朱富貴糟粕醋 厦门火车站",
   "reasons": [
    "medium_score"
   ],
   "mentions": 2,
   "by_author": true,
   "candidate": {
-   "name": "汕頭八合里海記牛肉店嘉禾店",
-   "address": "中國福建省厦门市思明区 96, 嘉禾路96-106号 邮政编码: 361007",
-   "cid": "5635509801842809194",
-   "maps": "https://maps.google.com/?cid=5635509801842809194"
+   "name": "富贵香餐厅 生蚝馆",
+   "address": "福建省厦门市思明区金尚路29号之12店",
+   "cid": null,
+   "place_id": "amap:B025003JB9",
+   "maps": "https://uri.amap.com/poidetail?poiid=B025003JB9&src=lala-food-feed"
   }
  },
  {
-  "key": "overseas|慶豐包子||北京",
-  "query": "慶豐包子 北京",
+  "key": "overseas|山姆||廈門",
+  "query": "山姆",
   "reasons": [
-   "medium_score"
+   "amap_not_one_chain"
   ],
   "mentions": 2,
   "by_author": true,
   "candidate": {
-   "name": "慶豐包子舖",
-   "address": "中國北京市西城区前门西大街4号 邮政编码: 100031",
-   "cid": "13888619961685655347",
-   "maps": "https://maps.google.com/?cid=13888619961685655347"
+   "name": "星巴克(厦门山姆会员商店店)",
+   "address": "福建省厦门市湖里区虎屿北路9号山姆会员商店地上一层4841F1F0001号铺位",
+   "cid": null,
+   "place_id": "amap:B0HB9ZC7LN",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0HB9ZC7LN&src=lala-food-feed"
   }
  },
  {
-  "key": "overseas|老宋閩南排檔||廈門",
-  "query": "老宋·闽南排档 厦门",
+  "key": "overseas|眾記烤肉||福州",
+  "query": "众记烤肉",
   "reasons": [
    "medium_score"
   ],
   "mentions": 1,
   "by_author": true,
   "candidate": {
-   "name": "良山大排檔",
-   "address": "中國福建省厦门市思明区开元路（近轮渡公交总站） 邮政编码: 361001",
-   "cid": "6422304793595586879",
-   "maps": "https://maps.google.com/?cid=6422304793595586879"
+   "name": "众记市场烤肉铺(上渡店)",
+   "address": "福建省福州市仓山区上渡路149-9栋",
+   "cid": null,
+   "place_id": "amap:B0L661MIXO",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0L661MIXO&src=lala-food-feed"
   }
  },
  {
-  "key": "overseas|星巴克|中關村某個星巴克|北京",
-  "query": "星巴克 中关村某个星巴克 北京 中关村",
+  "key": "overseas|一點點||福州",
+  "query": "一点点",
   "reasons": [
-   "overseas_unverified"
+   "medium_score"
   ],
   "mentions": 1,
   "by_author": true,
   "candidate": {
-   "name": "Starbucks星巴克 愿秀門市",
-   "address": "1-2樓, No. 3號南港路二段南港區臺北市115",
-   "cid": "11496941030989048276",
-   "maps": "https://maps.google.com/?cid=11496941030989048276"
+   "name": "1点点(澳门路店)",
+   "address": "福建省福州市鼓楼区澳门路43号(三坊七巷林则徐纪念馆)",
+   "cid": null,
+   "place_id": "amap:B0FFG8RA8K",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFG8RA8K&src=lala-food-feed"
   }
  },
  {
-  "key": "taiwan|八哥||景美夜市",
-  "query": "八哥 景美夜市 景美",
+  "key": "overseas|焦記||廈門",
+  "query": "焦记 厦门火车站",
+  "reasons": [
+   "amap_not_one_chain"
+  ],
+  "mentions": 1,
+  "by_author": true,
+  "candidate": {
+   "name": "焦记西安风味小吃(屿后南里店)",
+   "address": "福建省厦门市思明区屿后南里150号",
+   "cid": null,
+   "place_id": "amap:B0FFI6LX7N",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFI6LX7N&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "taiwan|湯龍騰||",
+  "query": "汤龙腾",
   "reasons": [
    "medium_score"
   ],
   "mentions": 1,
-  "by_author": false,
+  "by_author": true,
   "candidate": {
-   "name": "八哥重慶酸辣粉世新店",
-   "address": "116臺北市文山區試院里木柵路一段66號",
-   "cid": "3859274481517586255",
-   "maps": "https://maps.google.com/?cid=3859274481517586255"
+   "name": "龍洞海鮮餐廳",
+   "address": "106臺北市大安區通安里安和路二段69巷2號",
+   "cid": "4776216190487453469",
+   "place_id": "ChIJjTcPCUiqQjQRHV953FGHSEI",
+   "maps": "https://maps.google.com/?cid=4776216190487453469"
   }
  },
  {
-  "key": "taiwan|鯨宴||廈門",
-  "query": "鯨宴 厦门 厦门火车站",
+  "key": "overseas|廈門薑母鴨||廈門",
+  "query": "廈門薑母鴨",
   "reasons": [
    "medium_score"
   ],
-  "mentions": 1,
+  "mentions": 2,
   "by_author": false,
   "candidate": {
-   "name": "宴遇",
-   "address": "中國福建省厦门市思明区嘉禾路21号 邮政编码: 361007",
-   "cid": "2762601755610937977",
-   "maps": "https://maps.google.com/?cid=2762601755610937977"
+   "name": "阿勇姜母鸭",
+   "address": "福建省厦门市同安区新民镇西洪塘小学旁下厝里107号",
+   "cid": null,
+   "place_id": "amap:B0FFIP30AO",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFIP30AO&src=lala-food-feed"
   }
  },
  {
-  "key": "taiwan|鮮芋仙||廈門",
-  "query": "鮮芋仙 厦门 厦门火车站",
+  "key": "taiwan|微微||新店",
+  "query": "微微 新店",
   "reasons": [
    "medium_score",
    "not_food_type"
@@ -160,117 +169,91 @@
   "mentions": 1,
   "by_author": false,
   "candidate": {
-   "name": "鮮芋仙",
-   "address": "中國福建省廈門市湖里區 邮政编码: 361009",
-   "cid": "13609814984017541735",
-   "maps": "https://maps.google.com/?cid=13609814984017541735"
+   "name": "微微包室內裝修設計",
+   "address": "231新北市新店區央北二路65號2樓",
+   "cid": "17855264883707340801",
+   "place_id": "ChIJJxxXEu4DaDQRAejhe8-kyvc",
+   "maps": "https://maps.google.com/?cid=17855264883707340801"
   }
  },
  {
-  "key": "overseas|一樹一葉||廈門",
-  "query": "一树一叶 厦门 闽南",
-  "reasons": [
-   "medium_score",
-   "not_food_type"
-  ],
-  "mentions": 1,
-  "by_author": false,
-  "candidate": {
-   "name": "一樹一葉",
-   "address": "中國福建省厦门市集美区石鼓路60号 邮政编码: 361021",
-   "cid": "2527463741008444752",
-   "maps": "https://maps.google.com/?cid=2527463741008444752"
-  }
- },
- {
-  "key": "overseas|七北瘋||廈門",
-  "query": "七北疯 厦门 闽南",
-  "reasons": [
-   "medium_score",
-   "not_food_type"
-  ],
-  "mentions": 1,
-  "by_author": false,
-  "candidate": {
-   "name": "七北瘋",
-   "address": "中國厦门市湖里区CN 福建省 厦门市 湖里区 林后社 219 219-101 邮政编码: 361009",
-   "cid": "15766278643302256918",
-   "maps": "https://maps.google.com/?cid=15766278643302256918"
-  }
- },
- {
-  "key": "overseas|八婆婆||廈門",
-  "query": "八婆婆 厦门 闽南",
+  "key": "overseas|茶滿芳庭||廈門",
+  "query": "茶满芳庭",
   "reasons": [
    "medium_score"
   ],
   "mentions": 1,
   "by_author": false,
   "candidate": {
-   "name": "八婆婆燒仙草",
-   "address": "中國福建省厦门市思明区龙头路144号 邮政编码: 361001",
-   "cid": "8684201455764884885",
-   "maps": "https://maps.google.com/?cid=8684201455764884885"
+   "name": "茶满方庭(软三店)",
+   "address": "福建省厦门市集美区诚毅大街龙亭七里1-117",
+   "cid": null,
+   "place_id": "amap:B0JUKH4CII",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0JUKH4CII&src=lala-food-feed"
   }
  },
  {
-  "key": "overseas|朱富貴||福州",
-  "query": "朱富贵 福州",
+  "key": "overseas|小眼鏡海鮮||廈門",
+  "query": "小眼镜海鲜",
   "reasons": [
    "medium_score"
   ],
   "mentions": 1,
   "by_author": false,
   "candidate": {
-   "name": "富貴魚鄉",
-   "address": "中國福建省福州市鼓楼区福新路75号（帝苑歌城对面） 邮政编码: 350001",
-   "cid": "15077451891356545633",
-   "maps": "https://maps.google.com/?cid=15077451891356545633"
+   "name": "小眼镜大排档(汇成总店)",
+   "address": "福建省厦门市思明区湖滨中路7-9号(文灶地铁站1号口步行120米)",
+   "cid": null,
+   "place_id": "amap:B025003TAE",
+   "maps": "https://uri.amap.com/poidetail?poiid=B025003TAE&src=lala-food-feed"
   }
  },
  {
-  "key": "taiwan|西安風味小吃||廈門",
-  "query": "西安风味小吃 厦门 厦门火车站",
+  "key": "overseas|粵陳記||廈門",
+  "query": "粤陈记 厦门火车站",
   "reasons": [
    "medium_score"
   ],
   "mentions": 1,
   "by_author": false,
   "candidate": {
-   "name": "西安風味小吃",
-   "address": "中國福建省厦门市思明区屿后南里150号 邮政编码: 361006",
-   "cid": "17906267064864546188",
-   "maps": "https://maps.google.com/?cid=17906267064864546188"
+   "name": "陈记石磨肠粉",
+   "address": "福建省厦门市思明区莲花北路82号",
+   "cid": null,
+   "place_id": "amap:B0FFL7B41B",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFL7B41B&src=lala-food-feed"
   }
  },
  {
-  "key": "taiwan|樂一下||",
-  "query": "樂一下",
+  "key": "overseas|潮發||廈門",
+  "query": "潮发 厦门火车站",
   "reasons": [
-   "medium_score"
+   "amap_not_one_chain"
   ],
   "mentions": 1,
   "by_author": false,
   "candidate": {
-   "name": "樂涮極選鍋物",
-   "address": "B1, No. 19號建國北路二段3巷復華里中山區臺北市10491",
-   "cid": "9472715655962872264",
-   "maps": "https://maps.google.com/?cid=9472715655962872264"
+   "name": "潮发潮汕牛肉火锅(东孚新城商业街店)",
+   "address": "福建省厦门市海沧区东孚街道东孚商业街159号-101号",
+   "cid": null,
+   "place_id": "amap:B0FFLIBE99",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFLIBE99&src=lala-food-feed"
   }
  },
  {
-  "key": "overseas|潮牛悅||廈門",
-  "query": "潮牛悅 廈門",
+  "key": "overseas|迷客夏||上海",
+  "query": "迷客夏",
   "reasons": [
-   "medium_score"
+   "amap_not_one_chain"
   ],
   "mentions": 1,
   "by_author": false,
   "candidate": {
-   "name": "潮福城",
-   "address": "中國福建省厦门市思明区湖滨北路28号 邮政编码: 361012",
-   "cid": "4693444867255123242",
-   "maps": "https://maps.google.com/?cid=4693444867255123242"
+   "name": "迷客夏Milksha(新天地东台里店)",
+   "address": "上海市上海市黄浦区吉安路111号新天地东台里D-LG252迷客夏(东台食集对面)",
+   "cid": null,
+   "place_id": "amap:B0L2V18QL0",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0L2V18QL0&src=lala-food-feed"
   }
  }
 ]
