@@ -38,6 +38,7 @@
   "11643719049567786305": "金豬食堂",
   "6620514278128053048": "陳季炸雞 北投店",
   "27587628862279662": "天下三絕麵食館",
+  "2182843687451876530": "川渝小吃坊",
   "2028556555833839260": "我家牛排 板橋遠科旗艦店",
   "8369438642297747883": "池音 雞白湯ラーメン",
   "207776848065512137": "烏弄原生茶飲 松山店",
@@ -59,6 +60,16 @@
    "source": "https://www.threads.com/@poppyxpoison/post/DePp0D5Eozo"
   },
   {
+   "name": "MINT PASTA 綠薄荷麵食坊（供餐至21:00）",
+   "note": "",
+   "addr": "臺北市文山區景行里景興路274之2號",
+   "lat": 24.989895,
+   "lng": 121.542284,
+   "cid": "7856184268919988168",
+   "cat": "異國料理",
+   "source": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9"
+  },
+  {
    "name": "張媽媽香大雞排",
    "note": "",
    "addr": "83號, No. 83景後街景行里文山區臺北市116",
@@ -69,14 +80,14 @@
    "source": "https://www.threads.com/@buygood.mov/post/DdXxoqwD-Qp"
   },
   {
-   "name": "MINT PASTA 綠薄荷麵食坊（供餐至21:00）",
+   "name": "汕頭八合里海記牛肉店嘉禾店",
    "note": "",
-   "addr": "臺北市文山區景行里景興路274之2號",
-   "lat": 24.989895,
-   "lng": 121.542284,
-   "cid": "7856184268919988168",
-   "cat": "異國料理",
-   "source": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9"
+   "addr": "中國福建省厦门市思明区 96, 嘉禾路96-106号 邮政编码: 361007",
+   "lat": 24.48145,
+   "lng": 118.12198,
+   "cid": "5635509801842809194",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgO-qclIL07"
   },
   {
    "name": "招弟大飯店",
@@ -97,6 +108,16 @@
    "cid": "9597654951644927654",
    "cat": "其他美食",
    "source": "https://www.threads.com/@zeke_6973/post/Dfjpq_qoIjr"
+  },
+  {
+   "name": "楊家手工水餃",
+   "note": "",
+   "addr": "臺北市文山區景行里景後街176號",
+   "lat": 24.990571,
+   "lng": 121.542111,
+   "cid": "17328940969545409368",
+   "cat": "麵食・水餃",
+   "source": "https://www.threads.com/@zeke_6973/post/Dd6guqqAcZs"
   },
   {
    "name": "樂食蜀川味麵館",
@@ -137,6 +158,16 @@
    "cid": "14668456906811259100",
    "cat": "甜點・冰品",
    "source": "https://www.threads.com/@zeke_6973/post/DdRDWnOAcei"
+  },
+  {
+   "name": "西安風味小吃",
+   "note": "",
+   "addr": "中國福建省厦门市思明区屿后南里150号 邮政编码: 361006",
+   "lat": 24.491433,
+   "lng": 118.120431,
+   "cid": "17906267064864546188",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgMchz6oN5z"
   },
   {
    "name": "鬍鬚忠牛肉湯",
@@ -189,6 +220,26 @@
    "source": "https://www.threads.com/@valencia.chen.123/post/DgHU3u7k20Z"
   },
   {
+   "name": "景美上海生煎包",
+   "note": "",
+   "addr": "臺北市文山區景行里景文街55號",
+   "lat": 24.991592,
+   "lng": 121.541465,
+   "cid": "9886338519292144785",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@01ivia2020/post/DgNntu_E74s"
+  },
+  {
+   "name": "福大蒸餃館",
+   "note": "",
+   "addr": "臺北市中山區民安里中山北路一段140巷11號",
+   "lat": 25.051513,
+   "lng": 121.521636,
+   "cid": "10460725085699448610",
+   "cat": "麵食・水餃",
+   "source": "https://www.threads.com/@zeke_6973/post/DeWjrBFgc_d"
+  },
+  {
    "name": "西門金鋒魯肉飯",
    "note": "",
    "addr": "臺北市萬華區西門里昆明街89號1樓",
@@ -197,6 +248,16 @@
    "cid": "15167923438729704615",
    "cat": "台式小吃・飯",
    "source": "https://www.threads.com/@_seeyatmr/post/DfC5LIZnxWq"
+  },
+  {
+   "name": "阿輝牛肉城",
+   "note": "",
+   "addr": "新北市新店區信義里中興路三段225號",
+   "lat": 24.98306,
+   "lng": 121.54307,
+   "cid": "17784600101090889227",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
   },
   {
    "name": "Café&Meal MUJI 統一時代店",
@@ -219,6 +280,16 @@
    "source": "https://www.threads.com/@h_y_an_/post/DeySMYdn2rS"
   },
   {
+   "name": "下輦牛肉",
+   "note": "",
+   "addr": "中國福建省泉州市晋江市池峰路62号 邮政编码: 362006",
+   "lat": 24.87735,
+   "lng": 118.57884,
+   "cid": "8025341193483441177",
+   "cat": "其他美食",
+   "source": "https://www.threads.com/@zeke_6973/post/DgOq31RgSu_"
+  },
+  {
    "name": "北投炸蛋蔥油餅",
    "note": "",
    "addr": "臺北市北投區長安里光明路218號",
@@ -239,6 +310,16 @@
    "source": "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5"
   },
   {
+   "name": "四季民福",
+   "note": "",
+   "addr": "中國北京市东城区东四东四十条23号 邮政编码: 100010",
+   "lat": 39.933919,
+   "lng": 116.429952,
+   "cid": "4536436953304270250",
+   "cat": "台式小吃・飯",
+   "source": "https://www.threads.com/@zeke_6973/post/DgMl5CXIPNN"
+  },
+  {
    "name": "士林豪大大雞排-基河店",
    "note": "",
    "addr": "臺北市士林區義信里基河路115號",
@@ -249,14 +330,14 @@
    "source": "https://www.threads.com/@419darkness/post/DehDU_Djx_k"
   },
   {
-   "name": "景美上海生煎包",
+   "name": "好利來",
    "note": "",
-   "addr": "臺北市文山區景行里景文街55號",
-   "lat": 24.991592,
-   "lng": 121.541465,
-   "cid": "9886338519292144785",
-   "cat": "其他美食",
-   "source": "https://www.threads.com/@zeke_6973/post/DdX7XEloC3F"
+   "addr": "中國福建省厦门市湖里区金昌路95号 邮政编码: 361009",
+   "lat": 24.49601,
+   "lng": 118.150391,
+   "cid": "3229213104581589047",
+   "cat": "早午餐・漢堡・麵包",
+   "source": "https://www.threads.com/@zeke_6973/post/DfzDD8EoNVm"
   },
   {
    "name": "景美同一家牛排",
@@ -337,6 +418,16 @@
    "cid": "5729948388158024662",
    "cat": "其他美食",
    "source": "https://www.threads.com/@cooperhu0424/post/DgC4U3wD0Qx"
+  },
+  {
+   "name": "鮮芋仙",
+   "note": "",
+   "addr": "中國福建省厦门市思明区厦禾路899号 邮政编码: 361007",
+   "lat": 24.468938,
+   "lng": 118.11296,
+   "cid": "2374721713851536049",
+   "cat": "甜點・冰品",
+   "source": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
   },
   {
    "name": "50嵐 基隆廟口店",
@@ -467,16 +558,6 @@
    "cid": "1174056091795400445",
    "cat": "麵食・水餃",
    "source": "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn"
-  },
-  {
-   "name": "四季民福",
-   "note": "",
-   "addr": "中國北京市东城区东四东四十条23号 邮政编码: 100010",
-   "lat": 39.933919,
-   "lng": 116.429952,
-   "cid": "4536436953304270250",
-   "cat": "台式小吃・飯",
-   "source": "https://www.threads.com/@zeke_6973/post/DgMl5CXIPNN"
   },
   {
    "name": "大橋頭米糕",
@@ -647,6 +728,16 @@
    "cid": "12745323496759954582",
    "cat": "麵食・水餃",
    "source": "https://www.threads.com/@zeke_6973/post/DfhJ26_IJz_"
+  },
+  {
+   "name": "米樂早餐店",
+   "note": "",
+   "addr": "臺北市文山區華興里試院路58-2號",
+   "lat": 24.989601,
+   "lng": 121.549317,
+   "cid": "9250458014920757701",
+   "cat": "早午餐・漢堡・麵包",
+   "source": "https://www.threads.com/@zeke_6973/post/DgO5CeeIPP0"
   },
   {
    "name": "裕成水果行",

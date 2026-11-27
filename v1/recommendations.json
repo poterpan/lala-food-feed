@@ -85,44 +85,6 @@
   ]
  },
  {
-  "id": "13804380331441189213",
-  "cid": "13804380331441189213",
-  "place_id": "ChIJqQiO7kSpQjQRXfHwz8UCk78",
-  "name": "十巷咖哩",
-  "address": "臺北市中山區恆安里雙城街10巷25-1號",
-  "city": "台北市",
-  "lat": 25.064189,
-  "lng": 121.523661,
-  "category": "早午餐・漢堡・麵包",
-  "brand": null,
-  "community": {
-   "recommendations": 3,
-   "recommenders": 3,
-   "author_reaction": "planned",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "飯",
-    "醬",
-    "炸物",
-    "咖哩"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@shelleythepig/post/DfVEbThk6XD",
-   "https://www.threads.com/@siang_hao_sun/post/DfUdrTHk5V3",
-   "https://www.threads.com/@zeke_6973/post/DfMeTcgIDMh"
-  ]
- },
- {
   "id": "15338468298515431934",
   "cid": "15338468298515431934",
   "place_id": "ChIJD2RRah-pQjQR_kGam6Yv3dQ",
@@ -134,16 +96,16 @@
   "category": "台式小吃・飯",
   "brand": null,
   "community": {
-   "recommendations": 3,
-   "recommenders": 3,
+   "recommendations": 4,
+   "recommenders": 4,
    "author_reaction": "planned",
    "asked_by_author": true,
    "negative": 0,
    "items": [
+    "滷肉飯",
     "小菜",
     "煎餃",
-    "排骨",
-    "滷肉飯"
+    "排骨"
    ]
   },
   "author": {
@@ -164,7 +126,46 @@
    "https://www.threads.com/@fangyi.still.working.on/post/DfCWpQ3j1Le",
    "https://www.threads.com/@zeke_6973/post/DdjOeNsAS0s",
    "https://www.threads.com/@zeke_6973/post/De93gVWgb_-",
-   "https://www.threads.com/@zeke_6973/post/DgITchGgY8z"
+   "https://www.threads.com/@zeke_6973/post/DgITchGgY8z",
+   "https://www.threads.com/@zeke_6973/post/DgPyk7AINXl"
+  ]
+ },
+ {
+  "id": "13804380331441189213",
+  "cid": "13804380331441189213",
+  "place_id": "ChIJqQiO7kSpQjQRXfHwz8UCk78",
+  "name": "十巷咖哩",
+  "address": "臺北市中山區恆安里雙城街10巷25-1號",
+  "city": "台北市",
+  "lat": 25.064189,
+  "lng": 121.523661,
+  "category": "早午餐・漢堡・麵包",
+  "brand": null,
+  "community": {
+   "recommendations": 3,
+   "recommenders": 3,
+   "author_reaction": "planned",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "咖哩",
+    "飯",
+    "醬",
+    "炸物"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@shelleythepig/post/DfVEbThk6XD",
+   "https://www.threads.com/@siang_hao_sun/post/DfUdrTHk5V3",
+   "https://www.threads.com/@zeke_6973/post/DfMeTcgIDMh"
   ]
  },
  {
@@ -221,8 +222,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "麵線羹",
-    "臭豆腐"
+    "臭豆腐",
+    "麵線羹"
    ]
   },
   "author": {
@@ -236,6 +237,40 @@
   "sources": [
    "https://www.threads.com/@fjakfljkaf/post/DgD7rF3nwI5",
    "https://www.threads.com/@zeke_6973/post/DgLICzvgZ_s"
+  ]
+ },
+ {
+  "id": "17698183587083585090",
+  "cid": "17698183587083585090",
+  "place_id": "ChIJceYgr72rQjQRQgbEFTSUnPU",
+  "name": "快樂地瓜球-景美店",
+  "address": "臺北市文山區景行里景文街69-1號",
+  "city": "台北市",
+  "lat": 24.991464,
+  "lng": 121.541548,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 2,
+   "recommenders": 2,
+   "author_reaction": "planned",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "地瓜球"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@sober_why/post/DdbqUBgk3b2",
+   "https://www.threads.com/@zeke_6973/post/DgO4-3BIALT"
   ]
  },
  {
@@ -640,6 +675,38 @@
   ]
  },
  {
+  "id": "4245079151914509831",
+  "cid": "4245079151914509831",
+  "place_id": "ChIJ00cU_vABaDQRB-ZHTf-M6To",
+  "name": "小樂精緻麵食館",
+  "address": "新北市新店區新安里寶橋路67號",
+  "city": "新北市",
+  "lat": 24.975225,
+  "lng": 121.545282,
+  "category": "麵食・水餃",
+  "brand": null,
+  "community": {
+   "recommendations": 2,
+   "recommenders": 2,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@yy.yyyyyggg/post/DgPqis2IGSq",
+   "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
+  ]
+ },
+ {
   "id": "12874481471757487259",
   "cid": "12874481471757487259",
   "place_id": "ChIJmUDadC2qQjQRmwx0x69Yq7I",
@@ -858,6 +925,41 @@
   ]
  },
  {
+  "id": "1377579080844664162",
+  "cid": "1377579080844664162",
+  "place_id": "ChIJf0bgoQCqQjQRYl3BE-AkHhM",
+  "name": "獨特牛排館（景美店）",
+  "address": "臺北市文山區景行里景美街92號",
+  "city": "台北市",
+  "lat": 24.989614,
+  "lng": 121.541289,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 2,
+   "recommenders": 2,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "飲料",
+    "冰品"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": false,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@mengtsung.ed.cheng/post/DebrEPsGjAK",
+   "https://www.threads.com/@zeke_6973/post/DgPKYalIHkf"
+  ]
+ },
+ {
   "id": "6391391002194268725",
   "cid": "6391391002194268725",
   "place_id": "ChIJH3neV6WuQjQRNdJq4kDIslg",
@@ -963,8 +1065,8 @@
   },
   "sources": [
    "https://www.threads.com/@d_____isappointing0921/post/Ddbn_ydD4Ok",
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY",
-   "https://www.threads.com/@zeke_6973/post/DgLE3oOgTCc"
+   "https://www.threads.com/@zeke_6973/post/DgLE3oOgTCc",
+   "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
   ]
  },
  {
@@ -1061,8 +1163,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "酸奶炸鸡",
-    "酸奶炸雞"
+    "酸奶炸雞",
+    "酸奶炸鸡"
    ]
   },
   "author": {
@@ -3416,6 +3518,46 @@
   ]
  },
  {
+  "id": "16990795618530835403",
+  "cid": "16990795618530835403",
+  "place_id": "ChIJdYGKb72pQjQRyzvLDZhuy-s",
+  "name": "黃家香腸",
+  "address": "臺北市中正區永功里泉州街32之3號",
+  "city": "台北市",
+  "lat": 25.025893,
+  "lng": 121.513514,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "not_yet",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "香腸"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": true,
+   "saved_at": 1794716469,
+   "saved_note": null,
+   "lists": [
+    {
+     "id": "zx9JfvSi_pqYNQ6jvVv_ExkUjHRkgQ",
+     "title": "喜愛的地點",
+     "meaning": "saved"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DfyjijbIIgo",
+   "https://www.threads.com/@zeke_6973/post/DgO5EiyILZR"
+  ]
+ },
+ {
   "id": "18039339599669470009",
   "cid": "18039339599669470009",
   "place_id": "ChIJ1fphfeMDbjQROaPvFMqbWPo",
@@ -4486,7 +4628,7 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "米血"
+    "侯薑母鴨"
    ]
   },
   "author": {
@@ -5519,41 +5661,6 @@
   ]
  },
  {
-  "id": "3229213104581589047",
-  "cid": "3229213104581589047",
-  "place_id": "ChIJjaXy9_CaFDQRNzifojV40Cw",
-  "name": "好利來",
-  "address": "中國福建省厦门市湖里区金昌路95号 邮政编码: 361009",
-  "city": "其他",
-  "lat": 24.49601,
-  "lng": 118.150391,
-  "category": "早午餐・漢堡・麵包",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "半熟芝士蛋糕",
-    "布丁芝士帽",
-    "麵包"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DfzDD8EoNVm"
-  ]
- },
- {
   "id": "11420168428649348323",
   "cid": "11420168428649348323",
   "place_id": "ChIJDV9uW2epQjQR43zG4K2WfJ4",
@@ -5924,37 +6031,6 @@
   ]
  },
  {
-  "id": "4245079151914509831",
-  "cid": "4245079151914509831",
-  "place_id": "ChIJ00cU_vABaDQRB-ZHTf-M6To",
-  "name": "小樂精緻麵食館",
-  "address": "新北市新店區新安里寶橋路67號",
-  "city": "新北市",
-  "lat": 24.975225,
-  "lng": 121.545282,
-  "category": "麵食・水餃",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY"
-  ]
- },
- {
   "id": "3689246655280095924",
   "cid": "3689246655280095924",
   "place_id": "ChIJy6ZECqhMXTQRtKLEWEnWMjM",
@@ -6151,7 +6227,7 @@
    "lists": []
   },
   "sources": [
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY"
+   "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
   ]
  },
  {
@@ -6188,43 +6264,6 @@
   ]
  },
  {
-  "id": "2182843687451876530",
-  "cid": "2182843687451876530",
-  "place_id": "ChIJifL3HGypQjQRstzFvsQESx4",
-  "name": "川渝小吃坊",
-  "address": "臺北市大同區建泰里南京西路18巷6弄8之1號",
-  "city": "台北市",
-  "lat": 25.052007,
-  "lng": 121.519642,
-  "category": "台式小吃・飯",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": true,
-   "saved_at": 1791719079,
-   "saved_note": null,
-   "lists": [
-    {
-     "id": "zx9JfvSi_pqYNQ6jvVv_ExkUjHRkgQ",
-     "title": "喜愛的地點",
-     "meaning": "saved"
-    }
-   ]
-  },
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgIVdXyAZ-f"
-  ]
- },
- {
   "id": "2630773065836724150",
   "cid": "2630773065836724150",
   "place_id": "ChIJKbQz96-uQjQRtv_cOSpigiQ",
@@ -6258,15 +6297,15 @@
   ]
  },
  {
-  "id": "6634877543883963276",
-  "cid": "6634877543883963276",
-  "place_id": "ChIJjREgfACrQjQRjHtrG_nRE1w",
-  "name": "布袋蛤蜊之家",
-  "address": "臺北市文山區景行里景文街71號",
-  "city": "台北市",
-  "lat": 24.99145,
-  "lng": 121.541677,
-  "category": "其他美食",
+  "id": "1878271157711128338",
+  "cid": "1878271157711128338",
+  "place_id": "ChIJ55EFM6gCaDQREsc7m6r1EBo",
+  "name": "帝王林家薑母鴨",
+  "address": "新北市板橋區留侯里西門街55巷1號",
+  "city": "新北市",
+  "lat": 25.010126,
+  "lng": 121.454234,
+  "category": "燒烤・鍋物",
   "brand": null,
   "community": {
    "recommendations": 1,
@@ -6275,7 +6314,7 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "老薑麻油口味"
+    "帝王林家薑母鴨"
    ]
   },
   "author": {
@@ -6287,7 +6326,7 @@
    "lists": []
   },
   "sources": [
-   "https://www.threads.com/@01ivia2020/post/DgNntu_E74s"
+   "https://www.threads.com/@yuyuyyyu0215/post/DgPjAJvh2VR"
   ]
  },
  {
@@ -6392,6 +6431,37 @@
   ]
  },
  {
+  "id": "9180204188068137469",
+  "cid": "9180204188068137469",
+  "place_id": "ChIJlwBUfcTEFDQR_cla-xGjZn8",
+  "name": "廈門姜母鴨",
+  "address": "中國福建省泉州市南安市 298, 金庄街298号 邮政编码: 362341",
+  "city": "其他",
+  "lat": 24.80247,
+  "lng": 118.42505,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgOtzCPoM82"
+  ]
+ },
+ {
   "id": "17515336633636355456",
   "cid": "17515336633636355456",
   "place_id": "ChIJ7XZhmV2pQjQRgP1HOd75EvM",
@@ -6489,37 +6559,6 @@
   ]
  },
  {
-  "id": "5240570400159058967",
-  "cid": "5240570400159058967",
-  "place_id": "ChIJb4-93v4BaDQRF0zoYQM_ukg",
-  "name": "彭園婚宴新店館",
-  "address": "新北市新店區復興里北新路三段207之1號1樓",
-  "city": "新北市",
-  "lat": 24.984877,
-  "lng": 121.539964,
-  "category": "台式小吃・飯",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@2huhuiyu3/post/DgMYUE4khWs"
-  ]
- },
- {
   "id": "16593425085416079827",
   "cid": "16593425085416079827",
   "place_id": "ChIJdQy0JwipQjQR0wFIDzOwR-Y",
@@ -6584,6 +6623,37 @@
   ]
  },
  {
+  "id": "5441014575636098428",
+  "cid": "5441014575636098428",
+  "place_id": "ChIJp95W2QCqQjQRfC2Dxu1dgks",
+  "name": "微笑碳烤",
+  "address": "臺北市文山區景行里景美街10號",
+  "city": "台北市",
+  "lat": 24.991537,
+  "lng": 121.541705,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgO5JZcoPBD"
+  ]
+ },
+ {
   "id": "3756619376504609522",
   "cid": "3756619376504609522",
   "place_id": "ChIJT4h3YIauQjQR8hroZGsxIjQ",
@@ -6612,39 +6682,6 @@
   },
   "sources": [
    "https://www.threads.com/@h7327538/post/DdgTWXuEloJ"
-  ]
- },
- {
-  "id": "17698183587083585090",
-  "cid": "17698183587083585090",
-  "place_id": "ChIJceYgr72rQjQRQgbEFTSUnPU",
-  "name": "快樂地瓜球-景美店",
-  "address": "臺北市文山區景行里景文街69-1號",
-  "city": "台北市",
-  "lat": 24.991464,
-  "lng": 121.541548,
-  "category": "其他美食",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "地瓜球"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@sober_why/post/DdbqUBgk3b2"
   ]
  },
  {
@@ -8087,7 +8124,7 @@
    "lists": []
   },
   "sources": [
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY"
+   "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
   ]
  },
  {
@@ -8253,37 +8290,6 @@
   },
   "sources": [
    "https://www.threads.com/@mian_yu_/post/De-Dax3E-DA"
-  ]
- },
- {
-  "id": "1377579080844664162",
-  "cid": "1377579080844664162",
-  "place_id": "ChIJf0bgoQCqQjQRYl3BE-AkHhM",
-  "name": "獨特牛排館（景美店）",
-  "address": "臺北市文山區景行里景美街92號",
-  "city": "台北市",
-  "lat": 24.989614,
-  "lng": 121.541289,
-  "category": "其他美食",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@mengtsung.ed.cheng/post/DebrEPsGjAK"
   ]
  },
  {
@@ -8538,6 +8544,40 @@
   },
   "sources": [
    "https://www.threads.com/@jia__0210/post/DfeJyJFIL_o"
+  ]
+ },
+ {
+  "id": "318735298139701504",
+  "cid": "318735298139701504",
+  "place_id": "ChIJ54Pf_2F2bjQRAMH-nhBgbAQ",
+  "name": "福泰飯桌 第三代",
+  "address": "臺南市中西區赤嵌里民族路二段219號",
+  "city": "台南市",
+  "lat": 22.995794,
+  "lng": 120.205094,
+  "category": "台式小吃・飯",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "虱目鱼肚",
+    "鱼皮汤"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgP0b5VoAqn"
   ]
  },
  {
@@ -8964,7 +9004,7 @@
    "lists": []
   },
   "sources": [
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY"
+   "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
   ]
  },
  {
@@ -9028,7 +9068,7 @@
    "lists": []
   },
   "sources": [
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY"
+   "https://www.threads.com/@zeke_6973/post/DgPRbR4IOFm"
   ]
  },
  {
@@ -9190,6 +9230,38 @@
   },
   "sources": [
    "https://www.threads.com/@may935a/post/DfjPm5-E95T"
+  ]
+ },
+ {
+  "id": "9974245764724312370",
+  "cid": "9974245764724312370",
+  "place_id": "ChIJBU1EzyGrQjQRMknWXK2ja4o",
+  "name": "萬歲豚骨麻辣",
+  "address": "臺北市文山區景行里景後街194號",
+  "city": "台北市",
+  "lat": 24.98995,
+  "lng": 121.541697,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgO5JZcoPBD",
+   "https://www.threads.com/@zeke_6973/post/DgPRy3FoKFm"
   ]
  },
  {
@@ -9547,6 +9619,45 @@
   },
   "sources": [
    "https://www.threads.com/@missyehmising/post/DfWcNNRkyoo"
+  ]
+ },
+ {
+  "id": "1478576240692833592",
+  "cid": "1478576240692833592",
+  "place_id": null,
+  "name": "迷客夏 臺北忠孝復興店",
+  "address": "1樓, No. 1號復興南路一段135巷大安區臺北市10666",
+  "city": "台北市",
+  "lat": 25.042708,
+  "lng": 121.54433,
+  "category": "其他美食",
+  "brand": "迷客夏",
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "迷客夏"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": true,
+   "saved_at": 1795083260,
+   "saved_note": null,
+   "lists": [
+    {
+     "id": "zx9JfvSi_pqYNQ6jvVv_ExkUjHRkgQ",
+     "title": "喜愛的地點",
+     "meaning": "saved"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.threads.com/@pofatoezil/post/DfSRv_gkwX6"
   ]
  },
  {
@@ -9912,37 +10023,6 @@
   ]
  },
  {
-  "id": "17784600101090889227",
-  "cid": "17784600101090889227",
-  "place_id": "ChIJV7qr_fsBaDQRCw7mqZCXz_Y",
-  "name": "阿輝牛肉城",
-  "address": "新北市新店區信義里中興路三段225號",
-  "city": "新北市",
-  "lat": 24.98306,
-  "lng": 121.54307,
-  "category": "台式小吃・飯",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@fadog0802/post/DgNqfTGkuwY"
-  ]
- },
- {
   "id": "16158317877922440187",
   "cid": "16158317877922440187",
   "place_id": "ChIJL98jbAAZaDQR-yNp4X_gPeA",
@@ -10204,6 +10284,43 @@
   "sources": [
    "https://www.threads.com/@drinkingisgoodd/post/DdUCE6Ck1vT",
    "https://www.threads.com/@zeke_6973/post/DdT7fUPAZbP"
+  ]
+ },
+ {
+  "id": "5591395122903985835",
+  "cid": "5591395122903985835",
+  "place_id": null,
+  "name": "雞哥炭烤吐司",
+  "address": "新北市三重區光興街179號",
+  "city": "新北市",
+  "lat": 25.059711,
+  "lng": 121.495376,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": true,
+   "saved_at": 1795765263,
+   "saved_note": null,
+   "lists": [
+    {
+     "id": "zx9JfvSi_pqYNQ6jvVv_ExkUjHRkgQ",
+     "title": "喜愛的地點",
+     "meaning": "saved"
+    }
+   ]
+  },
+  "sources": [
+   "https://www.threads.com/@realblack177/post/DfdT1dPgU-v"
   ]
  },
  {

@@ -1,5 +1,315 @@
 [
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgPyk7AINXl",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "笑死，我知道这家\n超级无敌排啊",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
+  "venue_ids": [
+   "15338468298515431934"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "15338468298515431934",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
+  "type": "post",
+  "date": "2026-11-27",
+  "text": "今天下课来新店简单吃点",
+  "thread_url": null,
+  "venue_ids": [
+   "17784600101090889227",
+   "4245079151914509831"
+  ],
+  "about_venue_ids": [
+   "17784600101090889227"
+  ],
+  "venues": [
+   {
+    "id": "17784600101090889227",
+    "relation": "about"
+   },
+   {
+    "id": "4245079151914509831",
+    "relation": "thread"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgPeW99ICDZ",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "我都是让我朋友帮我调一个\n我自己也调不来哈哈哈",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "5635509801842809194"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "5635509801842809194",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgPKYalIHkf",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "这个不要，本来就很排哈哈哈哈",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "1377579080844664162"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "1377579080844664162",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgPKNsEoDxz",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "杨家手工水饺吃过了吗哈哈哈",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "17328940969545409368"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "17328940969545409368",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgPKKEjIFjX",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "这三家真的必吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "12673933957849692846",
+   "17328940969545409368",
+   "7856184268919988168"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "12673933957849692846",
+    "relation": "mention"
+   },
+   {
+    "id": "17328940969545409368",
+    "relation": "mention"
+   },
+   {
+    "id": "7856184268919988168",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgP0b5VoAqn",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "好羡慕，我吃不来鱼虾蟹之类的\n感觉去台南错失好多美味",
+  "thread_url": null,
+  "venue_ids": [
+   "10043534453822776299",
+   "318735298139701504"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "10043534453822776299",
+    "relation": "mention"
+   },
+   {
+    "id": "318735298139701504",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgP0JkCoE5L",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "川渝小吃坊和福大好吃\n有一个古茂宜咖啡在我名单里\n还没吃过",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
+  "venue_ids": [
+   "10460725085699448610",
+   "2182843687451876530"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "10460725085699448610",
+    "relation": "mention"
+   },
+   {
+    "id": "2182843687451876530",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOxmPnAY8e",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "吃好利来（？）\n这个还挺好吃的，各个品类都不踩雷",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "3229213104581589047"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "3229213104581589047",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOuWEnIB7E",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "之前出差去过几次泉州\n我记得下辇牛肉很好吃（无图）",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "8025341193483441177"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "8025341193483441177",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOtQDwoIue",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "好吃的不行，我每周都想吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "5635509801842809194"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "5635509801842809194",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOtLgAIFUu",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "八合里真的好吃，那个炒牛河不输潮汕的",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "5635509801842809194"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "5635509801842809194",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOssG7IL_q",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "之前的手怎么那么瘦？",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "17906267064864546188",
+   "2374721713851536049"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "17906267064864546188",
+    "relation": "mention"
+   },
+   {
+    "id": "2374721713851536049",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "type": "post",
+  "date": "2026-11-27",
+  "text": "我来分享一些之前在厦门经常吃的美味食物\n（来旅游或者是本地人都可以吃看看，应该都还可以吧！）\n1️⃣朱富贵\n这个必吃啊，很经典的，推荐厦门火车站店\n锅底可以选糟粕醋，太咸记得加旁边的水！\n2️⃣八合里\n懒得去潮汕可以吃这个平替，炒牛河非常好吃\n3️⃣喜旺梨\n想尝尝台湾味的可以去试看看，还不错啦\n但是他们家台湾饮料和台湾本地的配料表不一样\n4️⃣鲜芋仙\n和台湾的不一样，很好吃，我在厦门经常吃\n5️⃣山姆\n看干蒸烧卖就好，无敌好吃，就是贵\n如果你们有进入山姆的才能可以去\n出口卖的冰淇淋炸鸡披萨也都不错吃\n冰淇淋最好吃了\n6️⃣西安风味小吃\n孜然炒面不解释，好吃的不行\n可能会太咸，但是我刚刚好\nxhs搜搜看，附近很多好吃的\n果汁、拉面之类的吃不完\n7️⃣鸡柳大人\n有条件去吃现做的，一定要甘梅粉加到爆\n外卖会变硬硬的，私心喜欢鸡柳+年糕（无薯条）\n能吃辣的和火鸡面拌在一起吃，信我\n8️⃣汤龙腾炖罐\n居然漏了一个！不行啊\n厦门最好吃的炖罐，福建人必吃的\n点一个炖罐+主食当消夜很不错\n喜欢鸡蛋肉泥炖罐",
+  "thread_url": null,
+  "venue_ids": [
+   "10426034618926231150",
+   "17906267064864546188",
+   "2374721713851536049",
+   "5635509801842809194",
+   "9180204188068137469"
+  ],
+  "about_venue_ids": [
+   "17906267064864546188",
+   "2374721713851536049"
+  ],
+  "venues": [
+   {
+    "id": "10426034618926231150",
+    "relation": "thread"
+   },
+   {
+    "id": "17906267064864546188",
+    "relation": "about"
+   },
+   {
+    "id": "2374721713851536049",
+    "relation": "about"
+   },
+   {
+    "id": "5635509801842809194",
+    "relation": "thread"
+   },
+   {
+    "id": "9180204188068137469",
+    "relation": "thread"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOq31RgSu_",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "之前出差去过几次泉州\n我记得下辇牛肉很好吃（无图）",
+  "thread_url": null,
+  "venue_ids": [
+   "8025341193483441177"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "8025341193483441177",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgOfByaD95a",
   "type": "reply",
   "date": "2026-11-27",
@@ -34,6 +344,108 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO7uhnoMIt",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "你从台湾去的话\n四季民福还不错\n那个甜品拼盘一次可以吃到很多口味，很好吃\n橙子也很好吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "4536436953304270250"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "4536436953304270250",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO5CeeIPP0",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "吃过，肯定吃过啊",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "9250458014920757701"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "9250458014920757701",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO48rCIDAm",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "但是现在感觉开门时间看老板心情",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "12673933957849692846"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "12673933957849692846",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO-rZ2IJgr",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "真的超级好吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "5635509801842809194"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "5635509801842809194",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO-qclIL07",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "非常之好吃啊",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "5635509801842809194"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "5635509801842809194",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO-fhwoFfg",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "我不吃海鲜啊哈哈哈，加餐吧，我经常听到我朋友要去吃",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "8848031047474116895"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "8848031047474116895",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r",
   "type": "reply",
   "date": "2026-11-26",
@@ -51,6 +463,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgNjQoSAWu2",
+  "type": "reply",
+  "date": "2026-11-26",
+  "text": "对，但是他现在开店时间很随机，经常吃不到",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "12673933957849692846"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "12673933957849692846",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgNizY5gZal",
   "type": "reply",
   "date": "2026-11-26",
@@ -63,6 +492,23 @@
   "venues": [
    {
     "id": "10125488561352514194",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgNiV2DgZ-S",
+  "type": "reply",
+  "date": "2026-11-26",
+  "text": "忘了杨家水饺！",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "17328940969545409368"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "17328940969545409368",
     "relation": "mention"
    }
   ]
@@ -130,17 +576,22 @@
    "15546456875275119492",
    "16552505369828408621",
    "16924871813805623339",
+   "16990795618530835403",
+   "17698183587083585090",
    "17784600101090889227",
    "17895494021543679820",
    "4245079151914509831",
    "4673981156985135059",
    "491435778464332481",
+   "5441014575636098428",
    "616519807584140302",
    "6227887437760463946",
    "6415624161461266514",
    "6634877543883963276",
    "6650763524243396776",
-   "7856184268919988168"
+   "7856184268919988168",
+   "9886338519292144785",
+   "9974245764724312370"
   ],
   "about_venue_ids": [],
   "venues": [
@@ -165,6 +616,14 @@
     "relation": "thread"
    },
    {
+    "id": "16990795618530835403",
+    "relation": "thread"
+   },
+   {
+    "id": "17698183587083585090",
+    "relation": "thread"
+   },
+   {
     "id": "17784600101090889227",
     "relation": "thread"
    },
@@ -182,6 +641,10 @@
    },
    {
     "id": "491435778464332481",
+    "relation": "thread"
+   },
+   {
+    "id": "5441014575636098428",
     "relation": "thread"
    },
    {
@@ -206,6 +669,14 @@
    },
    {
     "id": "7856184268919988168",
+    "relation": "thread"
+   },
+   {
+    "id": "9886338519292144785",
+    "relation": "thread"
+   },
+   {
+    "id": "9974245764724312370",
     "relation": "thread"
    }
   ]
@@ -337,6 +808,7 @@
   "thread_url": null,
   "venue_ids": [
    "1247454145355116465",
+   "1878271157711128338",
    "2531298878824731700",
    "4743695118630059321"
   ],
@@ -344,6 +816,10 @@
   "venues": [
    {
     "id": "1247454145355116465",
+    "relation": "thread"
+   },
+   {
+    "id": "1878271157711128338",
     "relation": "thread"
    },
    {
@@ -4221,6 +4697,7 @@
    "14534457550946318694",
    "17472889471272756631",
    "4444334254719335883",
+   "5591395122903985835",
    "8823615202011060768"
   ],
   "about_venue_ids": [
@@ -4254,6 +4731,10 @@
    },
    {
     "id": "4444334254719335883",
+    "relation": "thread"
+   },
+   {
+    "id": "5591395122903985835",
     "relation": "thread"
    },
    {
@@ -4643,10 +5124,15 @@
   "text": "迷客夏到底往牛奶里加了什么…\n这个芋头鲜奶和仙草鲜奶都好喝到不行",
   "thread_url": null,
   "venue_ids": [
+   "1478576240692833592",
    "5130961434231419233"
   ],
   "about_venue_ids": [],
   "venues": [
+   {
+    "id": "1478576240692833592",
+    "relation": "thread"
+   },
    {
     "id": "5130961434231419233",
     "relation": "thread"
@@ -7298,14 +7784,20 @@
   "text": "打卡四家世新大学景美夜市好店\n1️⃣阿华热炒+十字路口鸡腿\n鸡腿依旧好吃到舍不得吞下去，阿华热炒是好吃的湿炒，但是店里太热太热了真的吃不到什么味道了都！可以外带一下\n2️⃣杨记水饺\n饺子比较小，可以点高丽菜/韭菜的馅，选择5/10/15个拼口味。皮非常软韧的啊，馅料也很嫩很鲜甜，一吃就是纯手工的，酱油是甜甜的酱油，调料自己加的我不爱\n3️⃣小六越南\n吃完发现我是真的不爱越南口味，这家店很正宗呀，那个凉拌菜酸酸甜甜的很开胃。因为我不太喜欢越南菜不评价了",
   "thread_url": null,
   "venue_ids": [
-   "16474832525321169454"
+   "16474832525321169454",
+   "17328940969545409368"
   ],
   "about_venue_ids": [
-   "16474832525321169454"
+   "16474832525321169454",
+   "17328940969545409368"
   ],
   "venues": [
    {
     "id": "16474832525321169454",
+    "relation": "about"
+   },
+   {
+    "id": "17328940969545409368",
     "relation": "about"
    }
   ]
