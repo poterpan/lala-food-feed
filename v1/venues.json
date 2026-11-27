@@ -126,8 +126,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉",
-    "湯底"
+    "湯底",
+    "牛肉"
    ]
   },
   "tier": "author_visited"
@@ -360,12 +360,12 @@
    "asked_by_author": true,
    "negative": 2,
    "items": [
+    "鹽味竹莢魚",
+    "麒麟",
     "竹莢魚焙乾拉麵",
     "牡蠣濃湯拉麵",
     "牛肝菌豚骨醬油拉麵",
-    "特級牛肝菌豚骨醬油拉麵",
-    "麒麟",
-    "鹽味竹莢魚"
+    "特級牛肝菌豚骨醬油拉麵"
    ]
   },
   "tier": "author_visited"
@@ -583,10 +583,10 @@
    "asked_by_author": true,
    "negative": 1,
    "items": [
-    "腿扣",
+    "腿庫",
     "豬腳",
     "白飯",
-    "腿庫"
+    "腿扣"
    ]
   },
   "tier": "author_visited"
@@ -783,8 +783,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "十一香",
-    "炸醬麵"
+    "炸醬麵",
+    "十一香"
    ]
   },
   "tier": "author_visited"
@@ -962,9 +962,9 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
-    "雞排",
     "炸物",
-    "甜不辣"
+    "甜不辣",
+    "雞排"
    ]
   },
   "tier": "author_visited"
@@ -5584,9 +5584,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "吃到飽",
     "自助吧",
-    "整顆芒果"
+    "整顆芒果",
+    "吃到飽"
    ]
   },
   "tier": "author_visited"
@@ -10446,8 +10446,8 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
-    "滷肉飯",
     "小菜",
+    "滷肉飯",
     "煎餃",
     "排骨"
    ]
@@ -11447,8 +11447,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "酸奶炸雞",
-    "酸奶炸鸡"
+    "酸奶炸鸡",
+    "酸奶炸雞"
    ]
   },
   "tier": "community_recommended"
@@ -12072,8 +12072,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "臭豆腐",
-    "麵線羹"
+    "麵線羹",
+    "臭豆腐"
    ]
   },
   "tier": "community_recommended"
@@ -13071,9 +13071,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵"
+    "紅燒牛肉麵",
+    "牛肉麵"
    ]
   },
   "tier": "community_recommended"
@@ -13552,8 +13552,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "台式炸雞",
-    "呱呱包"
+    "呱呱包",
+    "台式炸雞"
    ]
   },
   "tier": "community_recommended"

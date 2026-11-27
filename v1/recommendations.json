@@ -102,8 +102,8 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
-    "滷肉飯",
     "小菜",
+    "滷肉飯",
     "煎餃",
     "排骨"
    ]
@@ -222,8 +222,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "臭豆腐",
-    "麵線羹"
+    "麵線羹",
+    "臭豆腐"
    ]
   },
   "author": {
@@ -403,8 +403,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "台式炸雞",
-    "呱呱包"
+    "呱呱包",
+    "台式炸雞"
    ]
   },
   "author": {
@@ -1010,9 +1010,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵"
+    "紅燒牛肉麵",
+    "牛肉麵"
    ]
   },
   "author": {
@@ -1163,8 +1163,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "酸奶炸雞",
-    "酸奶炸鸡"
+    "酸奶炸鸡",
+    "酸奶炸雞"
    ]
   },
   "author": {
