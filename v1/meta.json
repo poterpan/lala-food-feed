@@ -1,18 +1,18 @@
 {
  "schema": "lala-food-feed/v1",
- "generated_at": "2026-11-26T21:51:03+00:00",
+ "generated_at": "2026-11-27T02:24:05+00:00",
  "source_account": "zeke_6973",
  "counts": {
   "venues": 704,
-  "venues_from_threads": 551,
-  "venues_saved_only": 153,
+  "venues_from_threads": 552,
+  "venues_saved_only": 152,
   "author_visited": 121,
   "author_recommends": 116,
   "author_saved": 264,
   "author_listed_recommended": 16,
-  "brands": 219,
-  "evidence": 1659,
-  "posts": 335,
+  "brands": 220,
+  "evidence": 1667,
+  "posts": 337,
   "posts_about": 73,
   "venues_from_threads_without_post": 0,
   "recommendations": 316,
@@ -30,16 +30,16 @@
   "generic_name": 4,
   "community_negative_only": 6
  },
- "review_pending": 0,
+ "review_pending": 1,
  "lala_overlay": {
-  "visited_from_wish": 43,
-  "visited_add": 67,
+  "visited_from_wish": 45,
+  "visited_add": 66,
   "visited_not_in_base": 58,
-  "posts": 236,
-  "notes": 77,
-  "posts_cids": 120,
-  "merged_visited": 131,
-  "merged_posts_cids": 128,
-  "base_updated": "2026-11-26"
+  "posts": 239,
+  "notes": 78,
+  "posts_cids": 121,
+  "merged_visited": 132,
+  "merged_posts_cids": 129,
+  "base_updated": "2026-11-27"
  }
 }

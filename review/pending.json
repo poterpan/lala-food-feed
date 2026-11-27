@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "key": "taiwan|樂一下||",
+  "query": "樂一下",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "樂涮極選鍋物",
+   "address": "B1, No. 19號建國北路二段3巷復華里中山區臺北市10491",
+   "cid": "9472715655962872264",
+   "maps": "https://maps.google.com/?cid=9472715655962872264"
+  }
+ }
+]

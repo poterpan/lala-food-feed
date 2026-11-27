@@ -7,8 +7,8 @@
   },
   "stance": {
    "other_user:recommend": 18,
-   "author:recommend": 15,
-   "author:mention": 15,
+   "author:recommend": 14,
+   "author:mention": 16,
    "other_user:mention": 9,
    "author:mixed": 1,
    "other_user:question": 5,
@@ -4156,6 +4156,25 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DdTCVPnoKWM"
+  ]
+ },
+ {
+  "brand": "米樂",
+  "names_in_threads": {
+   "米樂": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-26T03:14:27Z",
+  "last_seen": "2026-11-26T03:14:27Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@chang_tsu_ning/post/DgMHWsMCR8T"
   ]
  },
  {

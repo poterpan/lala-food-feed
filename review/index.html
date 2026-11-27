@@ -22,7 +22,7 @@ a{color:#0d74ce;text-decoration:none}.rs{font-size:12px;color:#b45309;margin-lef
 <span class="prog" id="prog"></span><button class="exp" id="exp">匯出判斷</button></div></header>
 <div id="list"></div>
 <script>
-const ITEMS=[], RZ={"medium_score": "名稱或地點不夠吻合", "not_food_type": "候選不是餐飲類", "area_mismatch": "地區對不上", "not_author_verified": "只有網友提到", "overseas_unverified": "海外店無法驗證", "low_score": "分數過低", "photo_only": "只從照片認出（招牌可能讀錯）", "decision_target_changed": "你審過的店已不在候選裡"}, KEY="tdp-review-v1";
+const ITEMS=[{"key": "taiwan|樂一下||", "mention_ids": ["4039319274518612509:樂一下:other_user"], "query": "樂一下", "reasons": ["medium_score"], "mentions": 1, "by_author": false, "candidate": {"name": "樂涮極選鍋物", "address": "B1, No. 19號建國北路二段3巷復華里中山區臺北市10491", "cid": "9472715655962872264", "maps": "https://maps.google.com/?cid=9472715655962872264"}, "quotes": [{"speaker": "網友", "stance": "recommend", "text": "剛嘗試樂一下，這樣真的好吃", "url": "https://www.threads.com/@averyeee_1201/post/DgOi3qcEgod", "parent": "每周四是麦当劳早餐\n無敵滿福雙層豬肉堡加蛋手動夾薯餅日", "parent_by": "拉拉熊", "thread": null}], "previous": null, "decided": null}], RZ={"medium_score": "名稱或地點不夠吻合", "not_food_type": "候選不是餐飲類", "area_mismatch": "地區對不上", "not_author_verified": "只有網友提到", "overseas_unverified": "海外店無法驗證", "low_score": "分數過低", "photo_only": "只從照片認出（招牌可能讀錯）", "decision_target_changed": "你審過的店已不在候選裡"}, KEY="tdp-review-v1";
 let st=JSON.parse(localStorage.getItem(KEY)||"{}"), filt="all";
 for(const it of ITEMS){ if(it.decided && !st[it.key]) st[it.key]=it.decided; }
 const save=()=>{localStorage.setItem(KEY,JSON.stringify(st));prog();};

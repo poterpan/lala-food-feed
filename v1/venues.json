@@ -126,8 +126,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉",
-    "湯底"
+    "湯底",
+    "牛肉"
    ]
   },
   "tier": "author_visited"
@@ -360,12 +360,12 @@
    "asked_by_author": true,
    "negative": 2,
    "items": [
+    "竹莢魚焙乾拉麵",
+    "牡蠣濃湯拉麵",
     "牛肝菌豚骨醬油拉麵",
     "特級牛肝菌豚骨醬油拉麵",
-    "鹽味竹莢魚",
     "麒麟",
-    "竹莢魚焙乾拉麵",
-    "牡蠣濃湯拉麵"
+    "鹽味竹莢魚"
    ]
   },
   "tier": "author_visited"
@@ -783,8 +783,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "十一香",
-    "炸醬麵"
+    "炸醬麵",
+    "十一香"
    ]
   },
   "tier": "author_visited"
@@ -871,11 +871,11 @@
    "negative": 0,
    "items": [
     "芋泥球",
-    "咖喱餅",
     "芋頭西米露",
     "芋泥杯杯",
+    "西米露",
     "起司球",
-    "西米露"
+    "咖喱餅"
    ]
   },
   "tier": "author_visited"
@@ -963,8 +963,8 @@
    "negative": 0,
    "items": [
     "甜不辣",
-    "炸物",
-    "雞排"
+    "雞排",
+    "炸物"
    ]
   },
   "tier": "author_visited"
@@ -1051,6 +1051,92 @@
    "asked_by_author": false,
    "negative": 0,
    "items": []
+  },
+  "tier": "author_visited"
+ },
+ {
+  "id": "16924871813805623339",
+  "cid": "16924871813805623339",
+  "place_id": "ChIJ8ayyNgGqQjQRK8jnKj454eo",
+  "name": "張媽媽香大雞排",
+  "address": "83號, No. 83景後街景行里文山區臺北市116",
+  "city": "台北市",
+  "lat": 24.992288,
+  "lng": 121.543119,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "張媽媽香雞排": 3,
+   "張媽媽G排": 2,
+   "張媽媽": 2,
+   "張媽媽雞排": 2,
+   "張媽媽大雞排": 1
+  },
+  "stance": {
+   "other_user:recommend": 5,
+   "author:mention": 4,
+   "other_user:mention": 1
+  },
+  "items": [
+   "雞排",
+   "香雞排"
+  ],
+  "quotes": [
+   {
+    "text": "已排已吃",
+    "stance": "mention",
+    "url": "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
+    "date": "2026-10-01"
+   },
+   {
+    "text": "终于排队吃上張媽媽雞排",
+    "stance": "mention",
+    "url": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
+    "date": "2026-09-18"
+   }
+  ],
+  "post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_"
+  ],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
+   "https://www.threads.com/@zeke_6973/post/DdWXQF3AQyB",
+   "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
+   "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+   "https://www.threads.com/@zeke_6973/post/DgOfABsj-9m"
+  ],
+  "first_seen": "2026-09-16T14:21:19Z",
+  "last_seen": "2026-11-27T01:19:34Z",
+  "sources": [
+   "https://www.threads.com/@buygood.mov/post/DdXxoqwD-Qp",
+   "https://www.threads.com/@luotuo0986/post/DdYK7DcEldy",
+   "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
+   "https://www.threads.com/@zeke_6973/post/DdWfO0igd6A",
+   "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
+   "https://www.threads.com/@zeke_6973/post/DgNirWlgbr5",
+   "https://www.threads.com/@zeke_6973/post/DgOfABsj-9m"
+  ],
+  "community": {
+   "recommendations": 5,
+   "recommenders": 5,
+   "author_reaction": "planned",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "雞排",
+    "香雞排"
+   ]
   },
   "tier": "author_visited"
  },
@@ -1146,6 +1232,104 @@
   "tier": "author_visited"
  },
  {
+  "id": "7856184268919988168",
+  "cid": "7856184268919988168",
+  "place_id": "ChIJr1cQsgCqQjQRyN_8_vfFBm0",
+  "name": "MINT PASTA 綠薄荷麵食坊（供餐至21:00）",
+  "address": "臺北市文山區景行里景興路274之2號",
+  "city": "台北市",
+  "lat": 24.989895,
+  "lng": 121.542284,
+  "category": "異國料理",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": true,
+   "saved": true,
+   "saved_at": 1795708995,
+   "saved_note": null,
+   "lists": [
+    {
+     "id": "D_F4cnC8ZSm8hoCy0FgMbbpgcbwPBg",
+     "title": "景美夜市美食名單",
+     "meaning": "recommended"
+    }
+   ]
+  },
+  "basis": [
+   "threads",
+   "saved_list"
+  ],
+  "names_in_threads": {
+   "mint": 5,
+   "Mint": 2,
+   "MINT": 1,
+   "綠薄荷": 1
+  },
+  "stance": {
+   "author:mention": 3,
+   "other_user:mixed": 1,
+   "other_user:mention": 1,
+   "other_user:recommend": 3,
+   "author:recommend": 1
+  },
+  "items": [
+   "義大利麵"
+  ],
+  "quotes": [
+   {
+    "text": "原来mint就是绿薄荷，听说要排队🥹，好想吃",
+    "stance": "mention",
+    "url": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
+    "date": "2026-09-16"
+   },
+   {
+    "text": "终于吃到大名鼎鼎的绿薄荷mint",
+    "stance": "recommend",
+    "url": "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
+    "date": "2026-09-17"
+   },
+   {
+    "text": "这家必须吃过了",
+    "stance": "mention",
+    "url": "https://www.threads.com/@zeke_6973/post/DgLwHojgZos",
+    "date": "2026-11-25"
+   }
+  ],
+  "post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq"
+  ],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
+   "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
+   "https://www.threads.com/@zeke_6973/post/DdY3hqWAQ4_",
+   "https://www.threads.com/@zeke_6973/post/DgLwHojgZos",
+   "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+   "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ"
+  ],
+  "first_seen": "2026-09-16T14:06:19Z",
+  "last_seen": "2026-11-27T01:19:34Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
+   "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
+   "https://www.threads.com/@zeke_6973/post/DdY3hqWAQ4_",
+   "https://www.threads.com/@zeke_6973/post/DgLwHojgZos",
+   "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ",
+   "https://www.threads.com/@zeke_6973/post/DgOfABsj-9m"
+  ],
+  "community": {
+   "recommendations": 3,
+   "recommenders": 3,
+   "author_reaction": "not_yet",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "義大利麵"
+   ]
+  },
+  "tier": "author_visited"
+ },
+ {
   "id": "17579303080629790612",
   "cid": "17579303080629790612",
   "place_id": "ChIJp40QnlCuQjQRlGfePwM79vM",
@@ -1220,89 +1404,6 @@
    "negative": 0,
    "items": [
     "茶"
-   ]
-  },
-  "tier": "author_visited"
- },
- {
-  "id": "16924871813805623339",
-  "cid": "16924871813805623339",
-  "place_id": "ChIJ8ayyNgGqQjQRK8jnKj454eo",
-  "name": "張媽媽香大雞排",
-  "address": "83號, No. 83景後街景行里文山區臺北市116",
-  "city": "台北市",
-  "lat": 24.992288,
-  "lng": 121.543119,
-  "category": "其他美食",
-  "brand": null,
-  "author": {
-   "visited": true,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "basis": [
-   "threads"
-  ],
-  "names_in_threads": {
-   "張媽媽G排": 2,
-   "張媽媽": 2,
-   "張媽媽雞排": 2,
-   "張媽媽香雞排": 1,
-   "張媽媽大雞排": 1
-  },
-  "stance": {
-   "other_user:recommend": 4,
-   "author:mention": 3,
-   "other_user:mention": 1
-  },
-  "items": [
-   "雞排"
-  ],
-  "quotes": [
-   {
-    "text": "已排已吃",
-    "stance": "mention",
-    "url": "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
-    "date": "2026-10-01"
-   },
-   {
-    "text": "终于排队吃上張媽媽雞排",
-    "stance": "mention",
-    "url": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
-    "date": "2026-09-18"
-   }
-  ],
-  "post_urls": [
-   "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_"
-  ],
-  "related_post_urls": [
-   "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
-   "https://www.threads.com/@zeke_6973/post/DdWXQF3AQyB",
-   "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
-   "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI"
-  ],
-  "first_seen": "2026-09-16T14:21:19Z",
-  "last_seen": "2026-11-26T16:32:27Z",
-  "sources": [
-   "https://www.threads.com/@buygood.mov/post/DdXxoqwD-Qp",
-   "https://www.threads.com/@luotuo0986/post/DdYK7DcEldy",
-   "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
-   "https://www.threads.com/@zeke_6973/post/DdWfO0igd6A",
-   "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
-   "https://www.threads.com/@zeke_6973/post/DgNirWlgbr5"
-  ],
-  "community": {
-   "recommendations": 4,
-   "recommenders": 4,
-   "author_reaction": "planned",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "香雞排",
-    "雞排"
    ]
   },
   "tier": "author_visited"
@@ -1398,100 +1499,6 @@
    "asked_by_author": true,
    "negative": 0,
    "items": []
-  },
-  "tier": "author_visited"
- },
- {
-  "id": "7856184268919988168",
-  "cid": "7856184268919988168",
-  "place_id": "ChIJr1cQsgCqQjQRyN_8_vfFBm0",
-  "name": "MINT PASTA 綠薄荷麵食坊（供餐至21:00）",
-  "address": "臺北市文山區景行里景興路274之2號",
-  "city": "台北市",
-  "lat": 24.989895,
-  "lng": 121.542284,
-  "category": "異國料理",
-  "brand": null,
-  "author": {
-   "visited": true,
-   "recommends": true,
-   "saved": true,
-   "saved_at": 1795708995,
-   "saved_note": null,
-   "lists": [
-    {
-     "id": "D_F4cnC8ZSm8hoCy0FgMbbpgcbwPBg",
-     "title": "景美夜市美食名單",
-     "meaning": "recommended"
-    }
-   ]
-  },
-  "basis": [
-   "threads",
-   "saved_list"
-  ],
-  "names_in_threads": {
-   "mint": 5,
-   "Mint": 2,
-   "綠薄荷": 1
-  },
-  "stance": {
-   "other_user:recommend": 3,
-   "author:mention": 3,
-   "other_user:mixed": 1,
-   "author:recommend": 1
-  },
-  "items": [
-   "義大利麵"
-  ],
-  "quotes": [
-   {
-    "text": "原来mint就是绿薄荷，听说要排队🥹，好想吃",
-    "stance": "mention",
-    "url": "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
-    "date": "2026-09-16"
-   },
-   {
-    "text": "终于吃到大名鼎鼎的绿薄荷mint",
-    "stance": "recommend",
-    "url": "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
-    "date": "2026-09-17"
-   },
-   {
-    "text": "这家必须吃过了",
-    "stance": "mention",
-    "url": "https://www.threads.com/@zeke_6973/post/DgLwHojgZos",
-    "date": "2026-11-25"
-   }
-  ],
-  "post_urls": [
-   "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq"
-  ],
-  "related_post_urls": [
-   "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
-   "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
-   "https://www.threads.com/@zeke_6973/post/DdY3hqWAQ4_",
-   "https://www.threads.com/@zeke_6973/post/DgLwHojgZos",
-   "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ"
-  ],
-  "first_seen": "2026-09-16T14:06:19Z",
-  "last_seen": "2026-11-26T16:21:40Z",
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DdWdg5jAVB9",
-   "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
-   "https://www.threads.com/@zeke_6973/post/DdY3hqWAQ4_",
-   "https://www.threads.com/@zeke_6973/post/DgLwHojgZos",
-   "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ"
-  ],
-  "community": {
-   "recommendations": 3,
-   "recommenders": 3,
-   "author_reaction": "not_yet",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "義大利麵"
-   ]
   },
   "tier": "author_visited"
  },
@@ -4275,6 +4282,80 @@
   "tier": "author_visited"
  },
  {
+  "id": "15546456875275119492",
+  "cid": "15546456875275119492",
+  "place_id": "ChIJDWYf2gCqQjQRhOuzzigcwNc",
+  "name": "鵝媽媽鵝肉切仔麵",
+  "address": "臺北市文山區景行里景後街129號1 樓",
+  "city": "台北市",
+  "lat": 24.990563,
+  "lng": 121.542399,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": false,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "鵝媽媽": 3,
+   "鹅妈妈": 1
+  },
+  "stance": {
+   "other_user:question": 1,
+   "author:mention": 1,
+   "author:negative": 1,
+   "other_user:recommend": 1
+  },
+  "items": [
+   "鵝肉飯"
+  ],
+  "quotes": [
+   {
+    "text": "鹅妈妈晚上不开门的呀",
+    "stance": "mention",
+    "url": "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
+    "date": "2026-11-20"
+   },
+   {
+    "text": "我每次去都不开门",
+    "stance": "negative",
+    "url": "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r",
+    "date": "2026-11-26"
+   }
+  ],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
+   "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+   "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r"
+  ],
+  "first_seen": "2026-11-20T10:15:03Z",
+  "last_seen": "2026-11-27T01:19:48Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
+   "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r",
+   "https://www.threads.com/@zeke_6973/post/DgOfByaD95a"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "鵝肉"
+   ]
+  },
+  "tier": "author_visited"
+ },
+ {
   "id": "11924104110035498762",
   "cid": "11924104110035498762",
   "place_id": "ChIJQVnN2LurQjQRCvdw74LteqU",
@@ -4396,9 +4477,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "男子漢",
     "鐵板麵",
-    "漢堡"
+    "漢堡",
+    "男子漢"
    ]
   },
   "tier": "author_visited"
@@ -4455,6 +4536,67 @@
    "negative": 0,
    "items": [
     "蔥油餅"
+   ]
+  },
+  "tier": "author_visited"
+ },
+ {
+  "id": "9513486430998004642",
+  "cid": "9513486430998004642",
+  "place_id": "ChIJQYChzBarQjQRooMiH4GxBoQ",
+  "name": "台灣第一家鹹酥雞",
+  "address": "台北市文山区景行里景文街137號1樓",
+  "city": "台北市",
+  "lat": 24.989869,
+  "lng": 121.541064,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": true,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "台灣第一家鹽酥雞": 2,
+   "台灣第一家鹹酥雞": 1
+  },
+  "stance": {
+   "other_user:recommend": 1,
+   "author:recommend": 2
+  },
+  "items": [
+   "鹽酥雞"
+  ],
+  "quotes": [],
+  "post_urls": [
+   "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5"
+  ],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5",
+   "https://www.threads.com/@zeke_6973/post/DgOfByaD95a"
+  ],
+  "first_seen": "2026-10-16T12:26:03Z",
+  "last_seen": "2026-11-27T01:19:48Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5",
+   "https://www.threads.com/@zeke_6973/post/DgOfByaD95a"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "鹽酥雞",
+    "腐皮卷",
+    "溪蝦"
    ]
   },
   "tier": "author_visited"
@@ -4639,9 +4781,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "吃到飽",
     "自助吧",
-    "整顆芒果"
+    "整顆芒果",
+    "吃到飽"
    ]
   },
   "tier": "author_visited"
@@ -5523,75 +5665,6 @@
   "tier": "author_visited"
  },
  {
-  "id": "15546456875275119492",
-  "cid": "15546456875275119492",
-  "place_id": "ChIJDWYf2gCqQjQRhOuzzigcwNc",
-  "name": "鵝媽媽鵝肉切仔麵",
-  "address": "臺北市文山區景行里景後街129號1 樓",
-  "city": "台北市",
-  "lat": 24.990563,
-  "lng": 121.542399,
-  "category": "其他美食",
-  "brand": null,
-  "author": {
-   "visited": true,
-   "recommends": false,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "basis": [
-   "threads"
-  ],
-  "names_in_threads": {
-   "鵝媽媽": 2,
-   "鹅妈妈": 1
-  },
-  "stance": {
-   "other_user:question": 1,
-   "author:mention": 1,
-   "author:negative": 1
-  },
-  "items": [
-   "鵝肉飯"
-  ],
-  "quotes": [
-   {
-    "text": "鹅妈妈晚上不开门的呀",
-    "stance": "mention",
-    "url": "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
-    "date": "2026-11-20"
-   },
-   {
-    "text": "我每次去都不开门",
-    "stance": "negative",
-    "url": "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r",
-    "date": "2026-11-26"
-   }
-  ],
-  "post_urls": [],
-  "related_post_urls": [
-   "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
-   "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r"
-  ],
-  "first_seen": "2026-11-20T10:15:03Z",
-  "last_seen": "2026-11-26T16:38:10Z",
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
-   "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r"
-  ],
-  "community": {
-   "recommendations": 0,
-   "recommenders": 0,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "tier": "author_visited"
- },
- {
   "id": "15326876942461443714",
   "cid": "15326876942461443714",
   "place_id": "ChIJlxrzFT5OXTQRgh6Kt18BtNQ",
@@ -6231,6 +6304,64 @@
   "tier": "author_visited"
  },
  {
+  "id": "616519807584140302",
+  "cid": "616519807584140302",
+  "place_id": "ChIJ53IzsLarQjQRDnwLoH9Rjgg",
+  "name": "再福排骨",
+  "address": "臺北市文山區景華里景文街41號",
+  "city": "台北市",
+  "lat": 24.992126,
+  "lng": 121.541481,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": true,
+   "saved": true,
+   "saved_at": 1795708948,
+   "saved_note": null,
+   "lists": [
+    {
+     "id": "D_F4cnC8ZSm8hoCy0FgMbbpgcbwPBg",
+     "title": "景美夜市美食名單",
+     "meaning": "recommended"
+    }
+   ]
+  },
+  "basis": [
+   "threads",
+   "saved_list"
+  ],
+  "names_in_threads": {
+   "再福排骨": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "items": [],
+  "quotes": [],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI"
+  ],
+  "first_seen": "2026-11-27T01:24:45Z",
+  "last_seen": "2026-11-27T01:24:45Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgOfmC6AU9i"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "排骨便當"
+   ]
+  },
+  "tier": "author_visited"
+ },
+ {
   "id": "5811498370699764926",
   "cid": "5811498370699764926",
   "place_id": "ChIJx7Ij2EirQjQRviRSPvqWplA",
@@ -6322,57 +6453,6 @@
   "last_seen": "2026-09-26T09:06:46Z",
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DdvrLp5IJFn"
-  ],
-  "community": {
-   "recommendations": 0,
-   "recommenders": 0,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "tier": "author_visited"
- },
- {
-  "id": "9513486430998004642",
-  "cid": "9513486430998004642",
-  "place_id": "ChIJQYChzBarQjQRooMiH4GxBoQ",
-  "name": "台灣第一家鹹酥雞",
-  "address": "台北市文山区景行里景文街137號1樓",
-  "city": "台北市",
-  "lat": 24.989869,
-  "lng": 121.541064,
-  "category": "其他美食",
-  "brand": null,
-  "author": {
-   "visited": true,
-   "recommends": true,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "basis": [
-   "threads"
-  ],
-  "names_in_threads": {
-   "台灣第一家鹹酥雞": 1
-  },
-  "stance": {
-   "author:recommend": 1
-  },
-  "items": [],
-  "quotes": [],
-  "post_urls": [
-   "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5"
-  ],
-  "related_post_urls": [
-   "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5"
-  ],
-  "first_seen": "2026-10-16T12:26:03Z",
-  "last_seen": "2026-10-16T12:26:03Z",
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5"
   ],
   "community": {
    "recommendations": 0,
@@ -7799,53 +7879,6 @@
   "tier": "author_visited"
  },
  {
-  "id": "616519807584140302",
-  "cid": "616519807584140302",
-  "place_id": null,
-  "name": "再福排骨",
-  "address": "臺北市文山區景華里景文街41號",
-  "city": "台北市",
-  "lat": 24.992126,
-  "lng": 121.541481,
-  "category": "其他美食",
-  "brand": null,
-  "author": {
-   "visited": true,
-   "recommends": true,
-   "saved": true,
-   "saved_at": 1795708948,
-   "saved_note": null,
-   "lists": [
-    {
-     "id": "D_F4cnC8ZSm8hoCy0FgMbbpgcbwPBg",
-     "title": "景美夜市美食名單",
-     "meaning": "recommended"
-    }
-   ]
-  },
-  "basis": [
-   "saved_list"
-  ],
-  "names_in_threads": {},
-  "stance": {},
-  "items": [],
-  "quotes": [],
-  "post_urls": [],
-  "related_post_urls": [],
-  "first_seen": null,
-  "last_seen": null,
-  "sources": [],
-  "community": {
-   "recommendations": 0,
-   "recommenders": 0,
-   "author_reaction": "unknown",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": []
-  },
-  "tier": "author_visited"
- },
- {
   "id": "14501626309821052619",
   "cid": "14501626309821052619",
   "place_id": null,
@@ -8499,8 +8532,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "許仔清燉豬腳",
-    "豬腳"
+    "豬腳",
+    "許仔清燉豬腳"
    ]
   },
   "tier": "author_endorsed"
@@ -9716,10 +9749,10 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
-    "滷肉飯",
     "小菜",
     "煎餃",
-    "排骨"
+    "排骨",
+    "滷肉飯"
    ]
   },
   "tier": "community_recommended"
@@ -9985,10 +10018,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "咖哩",
     "飯",
     "醬",
-    "炸物"
+    "炸物",
+    "咖哩"
    ]
   },
   "tier": "community_recommended"
@@ -10043,8 +10076,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "叉燒",
-    "龍蝦清湯拉麵"
+    "龍蝦清湯拉麵",
+    "叉燒"
    ]
   },
   "tier": "community_recommended"
@@ -10717,8 +10750,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "酸奶炸雞",
-    "酸奶炸鸡"
+    "酸奶炸鸡",
+    "酸奶炸雞"
    ]
   },
   "tier": "community_recommended"
@@ -11342,8 +11375,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "臭豆腐",
-    "麵線羹"
+    "麵線羹",
+    "臭豆腐"
    ]
   },
   "tier": "community_recommended"
@@ -12173,9 +12206,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
+    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵",
-    "牛肉麵"
+    "紅燒牛肉麵"
    ]
   },
   "tier": "community_recommended"
@@ -12602,8 +12635,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "呱呱包",
-    "台式炸雞"
+    "台式炸雞",
+    "呱呱包"
    ]
   },
   "tier": "community_recommended"

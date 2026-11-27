@@ -1440,6 +1440,106 @@
   "date": "2026-11-25"
  },
  {
+  "venue_id": "16924871813805623339",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgNirWlgbr5",
+  "date": "2026-11-26"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfABsj-9m",
+  "date": "2026-11-27"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "author",
+  "stance": "mention",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfABsj-9m",
+  "date": "2026-11-27"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "visited",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
+  "date": "2026-10-01"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "author",
+  "stance": "mention",
+  "experience": "visited",
+  "kind": "text",
+  "quote": "已排已吃",
+  "url": "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
+  "date": "2026-10-01"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "planned",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DdWfO0igd6A",
+  "date": "2026-09-16"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "other_user",
+  "stance": "mention",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@luotuo0986/post/DdYK7DcEldy",
+  "date": "2026-09-17"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "author",
+  "stance": "mention",
+  "experience": "visited",
+  "kind": "text",
+  "quote": "终于排队吃上張媽媽雞排",
+  "url": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
+  "date": "2026-09-18"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "author",
+  "stance": "mention",
+  "experience": "visited",
+  "kind": "photo",
+  "quote": "终于排队吃上張媽媽雞排",
+  "url": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
+  "date": "2026-09-18"
+ },
+ {
+  "venue_id": "16924871813805623339",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@buygood.mov/post/DdXxoqwD-Qp",
+  "date": "2026-09-17"
+ },
+ {
   "venue_id": "9974453540217416184",
   "speaker": "other_user",
   "stance": "recommend",
@@ -1621,6 +1721,36 @@
  },
  {
   "venue_id": "7856184268919988168",
+  "speaker": "author",
+  "stance": "mention",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ",
+  "date": "2026-11-26"
+ },
+ {
+  "venue_id": "7856184268919988168",
+  "speaker": "other_user",
+  "stance": "mixed",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ",
+  "date": "2026-11-26"
+ },
+ {
+  "venue_id": "7856184268919988168",
+  "speaker": "other_user",
+  "stance": "mention",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfABsj-9m",
+  "date": "2026-11-27"
+ },
+ {
+  "venue_id": "7856184268919988168",
   "speaker": "other_user",
   "stance": "recommend",
   "experience": "visited",
@@ -1661,26 +1791,6 @@
  },
  {
   "venue_id": "7856184268919988168",
-  "speaker": "author",
-  "stance": "mention",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ",
-  "date": "2026-11-26"
- },
- {
-  "venue_id": "7856184268919988168",
-  "speaker": "other_user",
-  "stance": "mixed",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/DgNhcZmAeLQ",
-  "date": "2026-11-26"
- },
- {
-  "venue_id": "7856184268919988168",
   "speaker": "other_user",
   "stance": "recommend",
   "experience": "unknown",
@@ -1697,86 +1807,6 @@
   "kind": "photo",
   "quote": "终于吃到大名鼎鼎的绿薄荷mint",
   "url": "https://www.threads.com/@zeke_6973/post/DdX5mFNoMXq",
-  "date": "2026-09-17"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "other_user",
-  "stance": "recommend",
-  "experience": "visited",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
-  "date": "2026-10-01"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "author",
-  "stance": "mention",
-  "experience": "visited",
-  "kind": "text",
-  "quote": "已排已吃",
-  "url": "https://www.threads.com/@zeke_6973/post/Dd9G6Z7gXcK",
-  "date": "2026-10-01"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "other_user",
-  "stance": "recommend",
-  "experience": "planned",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/DdWfO0igd6A",
-  "date": "2026-09-16"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "other_user",
-  "stance": "mention",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@luotuo0986/post/DdYK7DcEldy",
-  "date": "2026-09-17"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "author",
-  "stance": "mention",
-  "experience": "visited",
-  "kind": "text",
-  "quote": "终于排队吃上張媽媽雞排",
-  "url": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
-  "date": "2026-09-18"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "other_user",
-  "stance": "recommend",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/DgNirWlgbr5",
-  "date": "2026-11-26"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "author",
-  "stance": "mention",
-  "experience": "visited",
-  "kind": "photo",
-  "quote": "终于排队吃上張媽媽雞排",
-  "url": "https://www.threads.com/@zeke_6973/post/DdbRLw1Ad4_",
-  "date": "2026-09-18"
- },
- {
-  "venue_id": "16924871813805623339",
-  "speaker": "other_user",
-  "stance": "recommend",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@buygood.mov/post/DdXxoqwD-Qp",
   "date": "2026-09-17"
  },
  {
@@ -3400,6 +3430,46 @@
   "date": "2026-11-17"
  },
  {
+  "venue_id": "15546456875275119492",
+  "speaker": "other_user",
+  "stance": "question",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
+  "date": "2026-11-20"
+ },
+ {
+  "venue_id": "15546456875275119492",
+  "speaker": "author",
+  "stance": "mention",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": "鹅妈妈晚上不开门的呀",
+  "url": "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
+  "date": "2026-11-20"
+ },
+ {
+  "venue_id": "15546456875275119492",
+  "speaker": "author",
+  "stance": "negative",
+  "experience": "visited",
+  "kind": "text",
+  "quote": "我每次去都不开门",
+  "url": "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r",
+  "date": "2026-11-26"
+ },
+ {
+  "venue_id": "15546456875275119492",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfByaD95a",
+  "date": "2026-11-27"
+ },
+ {
   "venue_id": "11496941030989048276",
   "speaker": "other_user",
   "stance": "negative",
@@ -3970,36 +4040,6 @@
   "date": "2026-11-22"
  },
  {
-  "venue_id": "15546456875275119492",
-  "speaker": "other_user",
-  "stance": "question",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
-  "date": "2026-11-20"
- },
- {
-  "venue_id": "15546456875275119492",
-  "speaker": "author",
-  "stance": "mention",
-  "experience": "unknown",
-  "kind": "text",
-  "quote": "鹅妈妈晚上不开门的呀",
-  "url": "https://www.threads.com/@zeke_6973/post/Df9auAiIGJG",
-  "date": "2026-11-20"
- },
- {
-  "venue_id": "15546456875275119492",
-  "speaker": "author",
-  "stance": "negative",
-  "experience": "visited",
-  "kind": "text",
-  "quote": "我每次去都不开门",
-  "url": "https://www.threads.com/@zeke_6973/post/DgNjVSOAX7r",
-  "date": "2026-11-26"
- },
- {
   "venue_id": "9511623134232537728",
   "speaker": "other_user",
   "stance": "recommend",
@@ -4238,6 +4278,36 @@
   "quote": "肯定要吃三重总店的啊",
   "url": "https://www.threads.com/@zeke_6973/post/DgNOf97oGOi",
   "date": "2026-11-26"
+ },
+ {
+  "venue_id": "9513486430998004642",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "visited",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfByaD95a",
+  "date": "2026-11-27"
+ },
+ {
+  "venue_id": "9513486430998004642",
+  "speaker": "author",
+  "stance": "recommend",
+  "experience": "visited",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfByaD95a",
+  "date": "2026-11-27"
+ },
+ {
+  "venue_id": "9513486430998004642",
+  "speaker": "author",
+  "stance": "recommend",
+  "experience": "visited",
+  "kind": "photo",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5",
+  "date": "2026-10-16"
  },
  {
   "venue_id": "4194183315977915863",
@@ -8250,6 +8320,16 @@
   "date": "2026-11-26"
  },
  {
+  "venue_id": "616519807584140302",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@zeke_6973/post/DgOfmC6AU9i",
+  "date": "2026-11-27"
+ },
+ {
   "venue_id": "4827892600826953639",
   "speaker": "author",
   "stance": "mixed",
@@ -8408,16 +8488,6 @@
   "quote": null,
   "url": "https://www.threads.com/@zeke_6973/post/DeyPUYxIDiw",
   "date": "2026-10-22"
- },
- {
-  "venue_id": "9513486430998004642",
-  "speaker": "author",
-  "stance": "recommend",
-  "experience": "visited",
-  "kind": "photo",
-  "quote": null,
-  "url": "https://www.threads.com/@zeke_6973/post/Dejh42fAeh5",
-  "date": "2026-10-16"
  },
  {
   "venue_id": "9849117796440324613",
@@ -10612,9 +10682,9 @@
  {
   "brand": "麥當勞",
   "speaker": "author",
-  "stance": "recommend",
-  "experience": "unknown",
-  "kind": "comment",
+  "stance": "mention",
+  "experience": "visited",
+  "kind": "photo",
   "quote": null,
   "url": "https://www.threads.com/@zeke_6973/post/DgL_2QeIFA4",
   "date": "2026-11-26"
@@ -16208,6 +16278,16 @@
   "quote": null,
   "url": "https://www.threads.com/@zeke_6973/post/DdTCVPnoKWM",
   "date": "2026-09-15"
+ },
+ {
+  "brand": "米樂",
+  "speaker": "other_user",
+  "stance": "recommend",
+  "experience": "unknown",
+  "kind": "text",
+  "quote": null,
+  "url": "https://www.threads.com/@chang_tsu_ning/post/DgMHWsMCR8T",
+  "date": "2026-11-26"
  },
  {
   "brand": "大三元",
