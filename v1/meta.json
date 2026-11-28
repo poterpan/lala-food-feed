@@ -1,6 +1,6 @@
 {
  "schema": "lala-food-feed/v1",
- "generated_at": "2026-11-28T01:02:03+00:00",
+ "generated_at": "2026-11-28T02:07:46+00:00",
  "source_account": "zeke_6973",
  "counts": {
   "venues": 731,
@@ -33,14 +33,14 @@
  },
  "review_pending": 0,
  "lala_overlay": {
-  "visited_from_wish": 45,
-  "visited_add": 70,
+  "visited_from_wish": 47,
+  "visited_add": 68,
   "visited_not_in_base": 62,
-  "posts": 240,
+  "posts": 241,
   "notes": 80,
-  "posts_cids": 126,
+  "posts_cids": 127,
   "merged_visited": 136,
-  "merged_posts_cids": 134,
-  "base_updated": "2026-11-27"
+  "merged_posts_cids": 135,
+  "base_updated": "2026-11-28"
  }
 }

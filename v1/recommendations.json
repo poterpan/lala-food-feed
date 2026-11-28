@@ -108,10 +108,10 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
-    "滷肉飯",
-    "小菜",
     "煎餃",
-    "排骨"
+    "排骨",
+    "滷肉飯",
+    "小菜"
    ]
   },
   "author": {
@@ -156,10 +156,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
+    "咖哩",
     "飯",
     "醬",
-    "炸物",
-    "咖哩"
+    "炸物"
    ]
   },
   "author": {
@@ -697,10 +697,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "蝦仁羹",
-    "豬腳肉",
     "滷肉飯",
-    "蹄髈肉"
+    "蹄髈肉",
+    "蝦仁羹",
+    "豬腳肉"
    ]
   },
   "author": {
@@ -1377,8 +1377,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "酸奶炸鸡",
-    "酸奶炸雞"
+    "酸奶炸雞",
+    "酸奶炸鸡"
    ]
   },
   "author": {

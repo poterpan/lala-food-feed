@@ -1513,6 +1513,13 @@ window.LALA_POSTS = {
    "text": "鈞拉麵\n這里恬冰菓室\n拾梯甜日式舒芙蕾\n这几家有人推，我还没吃过"
   }
  ],
+ "11496230489420672286": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DfwfwAJINjY",
+   "date": "2026-11-15",
+   "text": "好吃吗？我根本起不来"
+  }
+ ],
  "7107734959072994922": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DgMJvPCoFsz",
