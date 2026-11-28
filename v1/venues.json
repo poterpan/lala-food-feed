@@ -126,8 +126,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉",
-    "湯底"
+    "湯底",
+    "牛肉"
    ]
   },
   "tier": "author_visited"
@@ -357,12 +357,12 @@
    "asked_by_author": true,
    "negative": 2,
    "items": [
-    "鹽味竹莢魚",
-    "麒麟",
     "牛肝菌豚骨醬油拉麵",
     "特級牛肝菌豚骨醬油拉麵",
     "竹莢魚焙乾拉麵",
-    "牡蠣濃湯拉麵"
+    "牡蠣濃湯拉麵",
+    "鹽味竹莢魚",
+    "麒麟"
    ]
   },
   "tier": "author_visited"
@@ -684,9 +684,9 @@
    "asked_by_author": true,
    "negative": 1,
    "items": [
+    "腿庫",
     "豬腳",
     "白飯",
-    "腿庫",
     "腿扣"
    ]
   },
@@ -724,16 +724,16 @@
    "saved_list"
   ],
   "names_in_threads": {
-   "十一香": 9,
+   "十一香": 10,
    "十一香牛肉麵": 1,
    "十一香牛肉面": 1,
    "十一香牛肉麵館": 1
   },
   "stance": {
+   "other_user:recommend": 3,
+   "author:recommend": 7,
    "other_user:question": 1,
    "author:mention": 1,
-   "other_user:recommend": 3,
-   "author:recommend": 6,
    "other_user:mention": 1
   },
   "items": [
@@ -774,6 +774,7 @@
    "https://www.threads.com/@zeke_6973/post/DfEObM2ID6l",
    "https://www.threads.com/@zeke_6973/post/DfEPZk4IGxq",
    "https://www.threads.com/@zeke_6973/post/DgH-zLCILLU",
+   "https://www.threads.com/@zeke_6973/post/DgNhqUHAbdi",
    "https://www.threads.com/@zeke_6973/post/DgNiFOGgWYM"
   ],
   "first_seen": "2026-09-18T13:31:39Z",
@@ -788,6 +789,7 @@
    "https://www.threads.com/@zeke_6973/post/DfEObM2ID6l",
    "https://www.threads.com/@zeke_6973/post/DfEPZk4IGxq",
    "https://www.threads.com/@zeke_6973/post/DgH-zLCILLU",
+   "https://www.threads.com/@zeke_6973/post/DgNhqUHAbdi",
    "https://www.threads.com/@zeke_6973/post/DgNiFOGgWYM"
   ],
   "community": {
@@ -886,9 +888,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "西米露",
-    "起司球",
     "芋泥球",
+    "起司球",
+    "西米露",
     "咖喱餅",
     "芋頭西米露",
     "芋泥杯杯"
@@ -981,8 +983,8 @@
    "negative": 0,
    "items": [
     "炸物",
-    "雞排",
-    "甜不辣"
+    "甜不辣",
+    "雞排"
    ]
   },
   "tier": "author_visited"
@@ -1255,8 +1257,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "鮮奶綠",
-    "茶"
+    "茶",
+    "鮮奶綠"
    ]
   },
   "tier": "author_visited"
@@ -1975,8 +1977,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "酸辣湯餃",
-    "水餃"
+    "水餃",
+    "酸辣湯餃"
    ]
   },
   "tier": "author_visited"
@@ -3040,6 +3042,91 @@
   "tier": "author_visited"
  },
  {
+  "id": "amap:B0FFI6LX7N",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0FFI6LX7N",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0FFI6LX7N&src=lala-food-feed",
+  "name": "焦记西安风味小吃(屿后南里店)",
+  "address": "福建省厦门市思明区屿后南里150号",
+  "city": "其他",
+  "lat": 24.494147,
+  "lng": 118.115465,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": true,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "西安风味小吃": 4,
+   "焦记": 1
+  },
+  "stance": {
+   "author:mention": 2,
+   "author:mixed": 1,
+   "other_user:question": 1,
+   "author:recommend": 1
+  },
+  "items": [
+   "炒面",
+   "孜然炒面"
+  ],
+  "quotes": [
+   {
+    "text": "西安风味小吃的炒面很好吃",
+    "stance": "mixed",
+    "url": "https://www.threads.com/@zeke_6973/post/DgMchz6oN5z",
+    "date": "2026-11-26"
+   },
+   {
+    "text": "先去吃西安风味小吃附近的",
+    "stance": "mention",
+    "url": "https://www.threads.com/@zeke_6973/post/DgMrer-IGpZ",
+    "date": "2026-11-26"
+   },
+   {
+    "text": "西安风味小吃\n孜然炒面不解释，好吃的不行",
+    "stance": "recommend",
+    "url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+    "date": "2026-11-27"
+   }
+  ],
+  "post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
+  ],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgMchz6oN5z",
+   "https://www.threads.com/@zeke_6973/post/DgMrer-IGpZ",
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+   "https://www.threads.com/@zeke_6973/post/DgOt4xSoLCx"
+  ],
+  "first_seen": "2026-11-26T06:19:29Z",
+  "last_seen": "2026-11-27T03:29:38Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgMchz6oN5z",
+   "https://www.threads.com/@zeke_6973/post/DgMrer-IGpZ",
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+   "https://www.threads.com/@zeke_6973/post/DgOt4xSoLCx"
+  ],
+  "community": {
+   "recommendations": 0,
+   "recommenders": 0,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "tier": "author_visited"
+ },
+ {
   "id": "118512523048692476",
   "cid": "118512523048692476",
   "place_id": "ChIJEcjJKXMBaDQR_KrABYMKpQE",
@@ -3480,6 +3567,89 @@
    "negative": 0,
    "items": [
     "鵝肉"
+   ]
+  },
+  "tier": "author_visited"
+ },
+ {
+  "id": "amap:B0M6GUOEN6",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0M6GUOEN6",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0M6GUOEN6&src=lala-food-feed",
+  "name": "鸡柳大人",
+  "address": "福建省厦门市湖里区安兜社36-101号(安兜地铁站1号口步行360米)",
+  "city": "其他",
+  "lat": 24.522953,
+  "lng": 118.131346,
+  "category": "台式小吃・飯",
+  "brand": null,
+  "author": {
+   "visited": true,
+   "recommends": true,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "鸡柳大人": 5
+  },
+  "stance": {
+   "author:recommend": 2,
+   "other_user:recommend": 2,
+   "other_user:question": 1
+  },
+  "items": [
+   "海苔粉",
+   "梅粉",
+   "鸡柳",
+   "年糕",
+   "甘梅粉",
+   "火鸡面"
+  ],
+  "quotes": [
+   {
+    "text": "鸡柳大人真的很好吃",
+    "stance": "recommend",
+    "url": "https://www.threads.com/@zeke_6973/post/DgO-ZlnINif",
+    "date": "2026-11-27"
+   },
+   {
+    "text": "台湾人去可以体验一下特色",
+    "stance": "recommend",
+    "url": "https://www.threads.com/@zeke_6973/post/DgO7xrSoEe9",
+    "date": "2026-11-27"
+   }
+  ],
+  "post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
+  ],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgO-ZlnINif",
+   "https://www.threads.com/@zeke_6973/post/DgO7xrSoEe9",
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
+  ],
+  "first_seen": "2026-11-27T03:18:00Z",
+  "last_seen": "2026-11-27T17:05:08Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgO-ZlnINif",
+   "https://www.threads.com/@zeke_6973/post/DgO7xrSoEe9",
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+   "https://www.threads.com/@zeke_6973/post/DgQLNj5E5Sy"
+  ],
+  "community": {
+   "recommendations": 2,
+   "recommenders": 2,
+   "author_reaction": "planned",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "海苔粉",
+    "梅粉"
    ]
   },
   "tier": "author_visited"
@@ -4775,8 +4945,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "炸雞",
-    "雞腿排"
+    "雞腿排",
+    "炸雞"
    ]
   },
   "tier": "author_visited"
@@ -4971,9 +5141,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "男子漢",
     "鐵板麵",
-    "漢堡"
+    "漢堡",
+    "男子漢"
    ]
   },
   "tier": "author_visited"
@@ -5541,9 +5711,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
+    "吃到飽",
     "自助吧",
-    "整顆芒果",
-    "吃到飽"
+    "整顆芒果"
    ]
   },
   "tier": "author_visited"
@@ -8877,9 +9047,9 @@
    "asked_by_author": true,
    "negative": 3,
    "items": [
+    "豬腳",
     "腿庫",
-    "帶骨豬腳",
-    "豬腳"
+    "帶骨豬腳"
    ]
   },
   "tier": "author_endorsed"
@@ -10007,6 +10177,66 @@
   "tier": "author_endorsed"
  },
  {
+  "id": "amap:B0L661MIXO",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0L661MIXO",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0L661MIXO&src=lala-food-feed",
+  "name": "众记市场烤肉铺(上渡店)",
+  "address": "福建省福州市仓山区上渡路149-9栋",
+  "city": "其他",
+  "lat": 26.041884,
+  "lng": 119.288898,
+  "category": "異國料理",
+  "brand": null,
+  "author": {
+   "visited": false,
+   "recommends": true,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "众记烤肉": 1
+  },
+  "stance": {
+   "author:recommend": 1
+  },
+  "items": [
+   "烤肉"
+  ],
+  "quotes": [
+   {
+    "text": "众记烤肉，你可以当作自助吃也不会很贵，肉很新鲜",
+    "stance": "recommend",
+    "url": "https://www.threads.com/@zeke_6973/post/DfGZCQ5AUGi",
+    "date": "2026-10-30"
+   }
+  ],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DfGZCQ5AUGi"
+  ],
+  "first_seen": "2026-10-30T01:22:07Z",
+  "last_seen": "2026-10-30T01:22:07Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DfGZCQ5AUGi"
+  ],
+  "community": {
+   "recommendations": 0,
+   "recommenders": 0,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "tier": "author_endorsed"
+ },
+ {
   "id": "5277991232162043293",
   "cid": "5277991232162043293",
   "place_id": "ChIJibQOA2VPXTQRnRWlyA8xP0k",
@@ -10475,9 +10705,9 @@
    "negative": 0,
    "items": [
     "滷肉飯",
+    "小菜",
     "煎餃",
-    "排骨",
-    "小菜"
+    "排骨"
    ]
   },
   "tier": "community_recommended"
@@ -10827,10 +11057,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "咖哩",
     "飯",
     "醬",
-    "炸物"
+    "炸物",
+    "咖哩"
    ]
   },
   "tier": "community_recommended"
@@ -10887,8 +11117,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "叉燒",
-    "龍蝦清湯拉麵"
+    "龍蝦清湯拉麵",
+    "叉燒"
    ]
   },
   "tier": "community_recommended"
@@ -12277,8 +12507,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "臭豆腐",
-    "麵線羹"
+    "麵線羹",
+    "臭豆腐"
    ]
   },
   "tier": "community_recommended"
@@ -12391,10 +12621,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "滷肉飯",
-    "蹄髈肉",
     "蝦仁羹",
-    "豬腳肉"
+    "豬腳肉",
+    "滷肉飯",
+    "蹄髈肉"
    ]
   },
   "tier": "community_recommended"
@@ -13078,8 +13308,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "洪家",
-    "炒飯"
+    "炒飯",
+    "洪家"
    ]
   },
   "tier": "community_recommended"
@@ -13427,9 +13657,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵"
+    "紅燒牛肉麵",
+    "牛肉麵"
    ]
   },
   "tier": "community_recommended"
@@ -13872,8 +14102,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "呱呱包",
-    "台式炸雞"
+    "台式炸雞",
+    "呱呱包"
    ]
   },
   "tier": "community_recommended"
@@ -18878,6 +19108,59 @@
    "asked_by_author": false,
    "negative": 0,
    "items": []
+  },
+  "tier": "community_recommended"
+ },
+ {
+  "id": "amap:B025003TAE",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B025003TAE",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B025003TAE&src=lala-food-feed",
+  "name": "小眼镜大排档(汇成总店)",
+  "address": "福建省厦门市思明区湖滨中路7-9号(文灶地铁站1号口步行120米)",
+  "city": "其他",
+  "lat": 24.470048,
+  "lng": 118.09849,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "小眼镜海鲜": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "items": [],
+  "quotes": [],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
+  ],
+  "first_seen": "2026-11-27T03:33:27Z",
+  "last_seen": "2026-11-27T03:33:27Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgOuUrFoK5E"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "海鲜"
+   ]
   },
   "tier": "community_recommended"
  },
@@ -23978,6 +24261,57 @@
   "tier": "community_recommended"
  },
  {
+  "id": "amap:B0FFKYLKWF",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0FFKYLKWF",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0FFKYLKWF&src=lala-food-feed",
+  "name": "粤陈记煲仔粥(番禺总店)",
+  "address": "广东省广州市番禺区金欧大道善学青创园20号",
+  "city": "其他",
+  "lat": 23.020173,
+  "lng": 113.366382,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "粤陈记": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "items": [],
+  "quotes": [],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
+  ],
+  "first_seen": "2026-11-27T16:59:09Z",
+  "last_seen": "2026-11-27T16:59:09Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgQKhx_k34m"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "not_yet",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "tier": "community_recommended"
+ },
+ {
   "id": "386905802994527983",
   "cid": "386905802994527983",
   "place_id": "ChIJEYi9aIJ2bjQR764GJceQXgU",
@@ -25043,6 +25377,59 @@
   "tier": "community_recommended"
  },
  {
+  "id": "amap:B0JUKH4CII",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0JUKH4CII",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0JUKH4CII&src=lala-food-feed",
+  "name": "茶满方庭(软三店)",
+  "address": "福建省厦门市集美区诚毅大街龙亭七里1-117",
+  "city": "其他",
+  "lat": 24.606742,
+  "lng": 118.049234,
+  "category": "其他美食",
+  "brand": null,
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "茶满芳庭": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "items": [],
+  "quotes": [],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8"
+  ],
+  "first_seen": "2026-11-27T04:03:32Z",
+  "last_seen": "2026-11-27T04:03:32Z",
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgOxw_hgfvm"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "珍珠"
+   ]
+  },
+  "tier": "community_recommended"
+ },
+ {
   "id": "2566779151423924507",
   "cid": "2566779151423924507",
   "place_id": "ChIJq83WFN-pQjQRG2mA8QkInyM",
@@ -25994,6 +26381,59 @@
    "asked_by_author": false,
    "negative": 0,
    "items": []
+  },
+  "tier": "community_recommended"
+ },
+ {
+  "id": "amap:B0L2V18QL0",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0L2V18QL0",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0L2V18QL0&src=lala-food-feed",
+  "name": "迷客夏Milksha(新天地东台里店)",
+  "address": "上海市上海市黄浦区吉安路111号新天地东台里D-LG252迷客夏(东台食集对面)",
+  "city": "其他",
+  "lat": 31.223227,
+  "lng": 121.475719,
+  "category": "甜點・冰品",
+  "brand": "迷客夏",
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "basis": [
+   "threads"
+  ],
+  "names_in_threads": {
+   "迷客夏": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "items": [],
+  "quotes": [],
+  "post_urls": [],
+  "related_post_urls": [
+   "https://www.threads.com/@zeke_6973/post/DfSIKJagVos"
+  ],
+  "first_seen": "2026-11-03T16:09:21Z",
+  "last_seen": "2026-11-03T16:09:21Z",
+  "sources": [
+   "https://www.threads.com/@pofatoezil/post/DfSRv_gkwX6"
+  ],
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "迷客夏"
+   ]
   },
   "tier": "community_recommended"
  },

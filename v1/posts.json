@@ -472,6 +472,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgOt4xSoLCx",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "哦对对对！但是去的晚了什么都卖光了",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "amap:B0FFI6LX7N"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "amap:B0FFI6LX7N",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
   "type": "post",
   "date": "2026-11-27",
@@ -479,12 +496,19 @@
   "thread_url": null,
   "venue_ids": [
    "10426034618926231150",
+   "amap:B025003TAE",
+   "amap:B0FFI6LX7N",
+   "amap:B0FFKYLKWF",
    "amap:B0JKG4WWAJ",
+   "amap:B0JUKH4CII",
    "amap:B0LK11EMB7",
+   "amap:B0M6GUOEN6",
    "amap:B0MDOCWAGG"
   ],
   "about_venue_ids": [
-   "amap:B0JKG4WWAJ"
+   "amap:B0FFI6LX7N",
+   "amap:B0JKG4WWAJ",
+   "amap:B0M6GUOEN6"
   ],
   "venues": [
    {
@@ -492,12 +516,32 @@
     "relation": "thread"
    },
    {
+    "id": "amap:B025003TAE",
+    "relation": "thread"
+   },
+   {
+    "id": "amap:B0FFI6LX7N",
+    "relation": "about"
+   },
+   {
+    "id": "amap:B0FFKYLKWF",
+    "relation": "thread"
+   },
+   {
     "id": "amap:B0JKG4WWAJ",
     "relation": "about"
    },
    {
+    "id": "amap:B0JUKH4CII",
+    "relation": "thread"
+   },
+   {
     "id": "amap:B0LK11EMB7",
     "relation": "thread"
+   },
+   {
+    "id": "amap:B0M6GUOEN6",
+    "relation": "about"
    },
    {
     "id": "amap:B0MDOCWAGG",
@@ -557,6 +601,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO7xrSoEe9",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "笑死，台湾人去可以体验一下特色",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "amap:B0M6GUOEN6"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "amap:B0M6GUOEN6",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgO5CeeIPP0",
   "type": "reply",
   "date": "2026-11-27",
@@ -586,6 +647,23 @@
   "venues": [
    {
     "id": "12673933957849692846",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgO-ZlnINif",
+  "type": "reply",
+  "date": "2026-11-27",
+  "text": "鸡柳大人真的很好吃，我觉得可以代表出战了",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+  "venue_ids": [
+   "amap:B0M6GUOEN6"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "amap:B0M6GUOEN6",
     "relation": "mention"
    }
   ]
@@ -688,6 +766,23 @@
   "venues": [
    {
     "id": "12971087597827476909",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgNhqUHAbdi",
+  "type": "reply",
+  "date": "2026-11-26",
+  "text": "中午一般都不怎么开门，可以晚上四五点慢悠悠走过来，中午来吃的话就吃十一香吧！",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgNg4jYAcaI",
+  "venue_ids": [
+   "16341536244857936202"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "16341536244857936202",
     "relation": "mention"
    }
   ]
@@ -1010,6 +1105,23 @@
   ]
  },
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgMrer-IGpZ",
+  "type": "reply",
+  "date": "2026-11-26",
+  "text": "先去吃西安风味小吃附近的",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgMWOoQoFmH",
+  "venue_ids": [
+   "amap:B0FFI6LX7N"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "amap:B0FFI6LX7N",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgMpOdooGLJ",
   "type": "reply",
   "date": "2026-11-26",
@@ -1039,6 +1151,23 @@
   "venues": [
    {
     "id": "853834195101557397",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgMchz6oN5z",
+  "type": "reply",
+  "date": "2026-11-26",
+  "text": "有一个叫西安风味小吃的炒面很好吃\n但是可能有点太咸\n可以提前和老板说少点盐",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgMWOoQoFmH",
+  "venue_ids": [
+   "amap:B0FFI6LX7N"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "amap:B0FFI6LX7N",
     "relation": "mention"
    }
   ]
@@ -5147,12 +5276,17 @@
   "text": "迷客夏到底往牛奶里加了什么…\n这个芋头鲜奶和仙草鲜奶都好喝到不行",
   "thread_url": null,
   "venue_ids": [
-   "5130961434231419233"
+   "5130961434231419233",
+   "amap:B0L2V18QL0"
   ],
   "about_venue_ids": [],
   "venues": [
    {
     "id": "5130961434231419233",
+    "relation": "thread"
+   },
+   {
+    "id": "amap:B0L2V18QL0",
     "relation": "thread"
    }
   ]
@@ -5566,6 +5700,23 @@
    {
     "id": "4194183315977915863",
     "relation": "thread"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DfGZCQ5AUGi",
+  "type": "reply",
+  "date": "2026-10-30",
+  "text": "众记烤肉，你可以当作自助吃也不会很贵，肉很新鲜",
+  "thread_url": null,
+  "venue_ids": [
+   "amap:B0L661MIXO"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "amap:B0L661MIXO",
+    "relation": "mention"
    }
   ]
  },

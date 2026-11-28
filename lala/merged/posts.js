@@ -214,6 +214,11 @@ window.LALA_POSTS = {
    "text": "不如我的爱店：竣师傅、十一香"
   },
   {
+   "url": "https://www.threads.com/@zeke_6973/post/DgNhqUHAbdi",
+   "date": "2026-11-26",
+   "text": "中午一般都不怎么开门，可以晚上四五点慢悠悠走过来，中午来吃的话就吃十一香吧！"
+  },
+  {
    "url": "https://www.threads.com/@zeke_6973/post/DgNiFOGgWYM",
    "date": "2026-11-26",
    "text": "这家真是好吃，白月光"

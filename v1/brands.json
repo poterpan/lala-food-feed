@@ -251,6 +251,42 @@
   ]
  },
  {
+  "brand": "八合里潮汕鲜牛肉火锅",
+  "names_in_threads": {
+   "八合里潮汕鲜牛肉火锅": 16
+  },
+  "stance": {
+   "other_user:mixed": 1,
+   "author:mention": 1,
+   "other_user:recommend": 7,
+   "author:recommend": 7
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "醬",
+   "炒牛河",
+   "调料碟"
+  ],
+  "comment": "非常之好吃啊",
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-15T07:42:53Z",
+  "last_seen": "2026-11-27T17:05:01Z",
+  "mentions": 16,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DfwRVHoIP3T",
+   "https://www.threads.com/@zeke_6973/post/DgO-qclIL07",
+   "https://www.threads.com/@zeke_6973/post/DgO-rZ2IJgr",
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+   "https://www.threads.com/@zeke_6973/post/DgOtLgAIFUu",
+   "https://www.threads.com/@zeke_6973/post/DgOtQDwoIue",
+   "https://www.threads.com/@zeke_6973/post/DgOtzCPoM82",
+   "https://www.threads.com/@zeke_6973/post/DgPFBcdoNGZ",
+   "https://www.threads.com/@zeke_6973/post/DgPeW99ICDZ",
+   "https://www.threads.com/@zeke_6973/post/DgQLMz9kw8O"
+  ]
+ },
+ {
   "brand": "迷客夏",
   "names_in_threads": {
    "迷客夏": 16
@@ -963,6 +999,37 @@
   ]
  },
  {
+  "brand": "汤龙腾炖罐",
+  "names_in_threads": {
+   "汤龙腾炖罐": 6
+  },
+  "stance": {
+   "author:recommend": 4,
+   "other_user:recommend": 1,
+   "author:question": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "炖罐",
+   "汤",
+   "主食",
+   "鸡蛋肉泥炖罐"
+  ],
+  "comment": "汤龙腾炖罐，这个可以消夜吃",
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-26T12:19:48Z",
+  "last_seen": "2026-11-27T15:00:03Z",
+  "mentions": 6,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgNFw5eIPyq",
+   "https://www.threads.com/@zeke_6973/post/DgNK5g_IFCJ",
+   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
+   "https://www.threads.com/@zeke_6973/post/DgOu7aKICf1",
+   "https://www.threads.com/@zeke_6973/post/DgP85fMIFvp"
+  ]
+ },
+ {
   "brand": "鲜芋仙",
   "names_in_threads": {
    "鲜芋仙": 4,
@@ -1070,35 +1137,6 @@
    "https://www.threads.com/@zeke_6973/post/DdoNHkDIBuC",
    "https://www.threads.com/@zeke_6973/post/De94q4wgVYv",
    "https://www.threads.com/@zeke_6973/post/DeCXOUKAdFW"
-  ]
- },
- {
-  "brand": "汤龙腾炖罐",
-  "names_in_threads": {
-   "汤龙腾炖罐": 5
-  },
-  "stance": {
-   "author:recommend": 4,
-   "other_user:recommend": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "炖罐",
-   "汤",
-   "主食",
-   "鸡蛋肉泥炖罐"
-  ],
-  "comment": "汤龙腾炖罐，这个可以消夜吃",
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-26T12:19:48Z",
-  "last_seen": "2026-11-27T03:38:44Z",
-  "mentions": 5,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgNFw5eIPyq",
-   "https://www.threads.com/@zeke_6973/post/DgNK5g_IFCJ",
-   "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
-   "https://www.threads.com/@zeke_6973/post/DgOu7aKICf1"
   ]
  },
  {
@@ -1642,6 +1680,32 @@
   ]
  },
  {
+  "brand": "一點點",
+  "names_in_threads": {
+   "一點點": 2,
+   "一点点": 1
+  },
+  "stance": {
+   "author:recommend": 2,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "奶茶"
+  ],
+  "comment": "喝一杯一点点平替一下",
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-11T18:21:41Z",
+  "last_seen": "2026-11-27T14:16:05Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DeXSnHJgdlJ",
+   "https://www.threads.com/@zeke_6973/post/DgKrVJAoNtN",
+   "https://www.threads.com/@zeke_6973/post/DgP33dHIGgl"
+  ]
+ },
+ {
   "brand": "繼光香香雞",
   "names_in_threads": {
    "继光香香鸡": 2,
@@ -1805,30 +1869,6 @@
   "mentions": 2,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DgKzbBMINr9"
-  ]
- },
- {
-  "brand": "一點點",
-  "names_in_threads": {
-   "一點點": 2
-  },
-  "stance": {
-   "author:recommend": 1,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "奶茶"
-  ],
-  "comment": "喝一杯一点点平替一下",
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-25T13:50:20Z",
-  "last_seen": "2026-11-27T14:16:05Z",
-  "mentions": 2,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgKrVJAoNtN",
-   "https://www.threads.com/@zeke_6973/post/DgP33dHIGgl"
   ]
  },
  {
@@ -3120,25 +3160,6 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DfwWSm7oMzM"
-  ]
- },
- {
-  "brand": "八合里潮汕鮮牛肉火鍋",
-  "names_in_threads": {
-   "八合里潮汕鮮牛肉火鍋": 1
-  },
-  "stance": {
-   "other_user:recommend": 1
-  },
-  "experience": "unknown",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-15T07:42:53Z",
-  "last_seen": "2026-11-15T07:42:53Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DfwRVHoIP3T"
   ]
  },
  {
@@ -4527,6 +4548,25 @@
   "mentions": 1,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DgQSDAtE1by"
+  ]
+ },
+ {
+  "brand": "潮发",
+  "names_in_threads": {
+   "潮发": 1
+  },
+  "stance": {
+   "other_user:recommend": 1
+  },
+  "experience": "unknown",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-27T16:59:09Z",
+  "last_seen": "2026-11-27T16:59:09Z",
+  "mentions": 1,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgQKhx_k34m"
   ]
  },
  {

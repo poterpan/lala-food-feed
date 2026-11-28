@@ -109,9 +109,9 @@
    "negative": 0,
    "items": [
     "滷肉飯",
+    "小菜",
     "煎餃",
-    "排骨",
-    "小菜"
+    "排骨"
    ]
   },
   "author": {
@@ -156,10 +156,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "咖哩",
     "飯",
     "醬",
-    "炸物"
+    "炸物",
+    "咖哩"
    ]
   },
   "author": {
@@ -278,8 +278,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "臭豆腐",
-    "麵線羹"
+    "麵線羹",
+    "臭豆腐"
    ]
   },
   "author": {
@@ -469,8 +469,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "呱呱包",
-    "台式炸雞"
+    "台式炸雞",
+    "呱呱包"
    ]
   },
   "author": {
@@ -697,10 +697,10 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "滷肉飯",
-    "蹄髈肉",
     "蝦仁羹",
-    "豬腳肉"
+    "豬腳肉",
+    "滷肉飯",
+    "蹄髈肉"
    ]
   },
   "author": {
@@ -736,8 +736,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "叉燒",
-    "龍蝦清湯拉麵"
+    "龍蝦清湯拉麵",
+    "叉燒"
    ]
   },
   "author": {
@@ -988,8 +988,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "洪家",
-    "炒飯"
+    "炒飯",
+    "洪家"
    ]
   },
   "author": {
@@ -1224,9 +1224,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵"
+    "紅燒牛肉麵",
+    "牛肉麵"
    ]
   },
   "author": {
@@ -3931,6 +3931,39 @@
   },
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DgPyh3AIOaE"
+  ]
+ },
+ {
+  "id": "amap:B0FFKYLKWF",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0FFKYLKWF",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0FFKYLKWF&src=lala-food-feed",
+  "name": "粤陈记煲仔粥(番禺总店)",
+  "address": "广东省广州市番禺区金欧大道善学青创园20号",
+  "city": "其他",
+  "lat": 23.020173,
+  "lng": 113.366382,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "not_yet",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgQKhx_k34m"
   ]
  },
  {
@@ -6699,6 +6732,41 @@
   },
   "sources": [
    "https://www.threads.com/@rainfox2k3/post/De9O7Irk6eM"
+  ]
+ },
+ {
+  "id": "amap:B025003TAE",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B025003TAE",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B025003TAE&src=lala-food-feed",
+  "name": "小眼镜大排档(汇成总店)",
+  "address": "福建省厦门市思明区湖滨中路7-9号(文灶地铁站1号口步行120米)",
+  "city": "其他",
+  "lat": 24.470048,
+  "lng": 118.09849,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "海鲜"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgOuUrFoK5E"
   ]
  },
  {
@@ -9964,6 +10032,41 @@
   ]
  },
  {
+  "id": "amap:B0JUKH4CII",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0JUKH4CII",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0JUKH4CII&src=lala-food-feed",
+  "name": "茶满方庭(软三店)",
+  "address": "福建省厦门市集美区诚毅大街龙亭七里1-117",
+  "city": "其他",
+  "lat": 24.606742,
+  "lng": 118.049234,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "珍珠"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgOxw_hgfvm"
+  ]
+ },
+ {
   "id": "2566779151423924507",
   "cid": "2566779151423924507",
   "place_id": "ChIJq83WFN-pQjQRG2mA8QkInyM",
@@ -10410,6 +10513,41 @@
   },
   "sources": [
    "https://www.threads.com/@missyehmising/post/DfWcNNRkyoo"
+  ]
+ },
+ {
+  "id": "amap:B0L2V18QL0",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0L2V18QL0",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0L2V18QL0&src=lala-food-feed",
+  "name": "迷客夏Milksha(新天地东台里店)",
+  "address": "上海市上海市黄浦区吉安路111号新天地东台里D-LG252迷客夏(东台食集对面)",
+  "city": "其他",
+  "lat": 31.223227,
+  "lng": 121.475719,
+  "category": "甜點・冰品",
+  "brand": "迷客夏",
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "迷客夏"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@pofatoezil/post/DfSRv_gkwX6"
   ]
  },
  {
