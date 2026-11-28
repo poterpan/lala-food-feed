@@ -1,5 +1,141 @@
 [
  {
+  "url": "https://www.threads.com/@zeke_6973/post/DgSVNr5k68d",
+  "type": "reply",
+  "date": "2026-11-28",
+  "text": "乌弄、迷客夏、得正",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgSKcE5Ex3w",
+  "venue_ids": [
+   "12923090827669382434",
+   "1478576240692833592"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "12923090827669382434",
+    "relation": "mention"
+   },
+   {
+    "id": "1478576240692833592",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgSMIlhk6Ka",
+  "type": "reply",
+  "date": "2026-11-28",
+  "text": "笑死，乌弄比较小众吧！",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgSKcE5Ex3w",
+  "venue_ids": [
+   "12923090827669382434"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "12923090827669382434",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgSMAmSE6xS",
+  "type": "reply",
+  "date": "2026-11-28",
+  "text": "我也觉得",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgSKcE5Ex3w",
+  "venue_ids": [
+   "9012471043113799965"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "9012471043113799965",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgSKcE5Ex3w",
+  "type": "post",
+  "date": "2026-11-28",
+  "text": "猜猜我在哪\n提示一条街上有3家很爱的手摇饮店",
+  "thread_url": null,
+  "venue_ids": [
+   "12923090827669382434",
+   "9012471043113799965"
+  ],
+  "about_venue_ids": [
+   "9012471043113799965"
+  ],
+  "venues": [
+   {
+    "id": "12923090827669382434",
+    "relation": "thread"
+   },
+   {
+    "id": "9012471043113799965",
+    "relation": "about"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgRvuqPkxX8",
+  "type": "reply",
+  "date": "2026-11-28",
+  "text": "富霸王很好吃",
+  "thread_url": null,
+  "venue_ids": [
+   "13443172875240523976"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "13443172875240523976",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgRuNzjEwuC",
+  "type": "reply",
+  "date": "2026-11-28",
+  "text": "https://www.threads.com/share/BBlCqMJ2nG\n这家是我最喜欢的~\nCurry Lab. Tokyo 大安店\n可以试看看，老板兄妹人很好）",
+  "thread_url": null,
+  "venue_ids": [
+   "4167633776798905020"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "4167633776798905020",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
+  "url": "https://www.threads.com/@zeke_6973/post/DgRSHN1kwyW",
+  "type": "reply",
+  "date": "2026-11-28",
+  "text": "这句话成功让我笔记了",
+  "thread_url": "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
+  "venue_ids": [
+   "8025056705665759940",
+   "998658774710774058"
+  ],
+  "about_venue_ids": [],
+  "venues": [
+   {
+    "id": "8025056705665759940",
+    "relation": "mention"
+   },
+   {
+    "id": "998658774710774058",
+    "relation": "mention"
+   }
+  ]
+ },
+ {
   "url": "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
   "type": "reply",
   "date": "2026-11-27",
@@ -180,23 +316,6 @@
   ]
  },
  {
-  "url": "https://www.threads.com/@zeke_6973/post/DgPyh3AIOaE",
-  "type": "reply",
-  "date": "2026-11-27",
-  "text": "还没有，久仰大名",
-  "thread_url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
-  "venue_ids": [
-   "10143414860899880"
-  ],
-  "about_venue_ids": [],
-  "venues": [
-   {
-    "id": "10143414860899880",
-    "relation": "mention"
-   }
-  ]
- },
- {
   "url": "https://www.threads.com/@zeke_6973/post/DgPwo1CoPuH",
   "type": "reply",
   "date": "2026-11-27",
@@ -240,6 +359,7 @@
    "11516884837505255052",
    "17784600101090889227",
    "4245079151914509831",
+   "9042420724587109494",
    "9974245764724312370"
   ],
   "about_venue_ids": [
@@ -256,6 +376,10 @@
    },
    {
     "id": "4245079151914509831",
+    "relation": "thread"
+   },
+   {
+    "id": "9042420724587109494",
     "relation": "thread"
    },
    {
@@ -499,6 +623,7 @@
    "amap:B025003TAE",
    "amap:B0FFI6LX7N",
    "amap:B0FFKYLKWF",
+   "amap:B0FFLI74VT",
    "amap:B0JKG4WWAJ",
    "amap:B0JUKH4CII",
    "amap:B0LK11EMB7",
@@ -525,6 +650,10 @@
    },
    {
     "id": "amap:B0FFKYLKWF",
+    "relation": "thread"
+   },
+   {
+    "id": "amap:B0FFLI74VT",
     "relation": "thread"
    },
    {

@@ -108,10 +108,10 @@
    "asked_by_author": true,
    "negative": 0,
    "items": [
-    "煎餃",
-    "排骨",
     "滷肉飯",
-    "小菜"
+    "小菜",
+    "煎餃",
+    "排骨"
    ]
   },
   "author": {
@@ -278,8 +278,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "麵線羹",
-    "臭豆腐"
+    "臭豆腐",
+    "麵線羹"
    ]
   },
   "author": {
@@ -1181,8 +1181,8 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
-    "炒飯",
-    "牛肉捲餅"
+    "牛肉捲餅",
+    "炒飯"
    ]
   },
   "author": {
@@ -1224,9 +1224,9 @@
    "asked_by_author": false,
    "negative": 0,
    "items": [
+    "牛肉麵",
     "滷味",
-    "紅燒牛肉麵",
-    "牛肉麵"
+    "紅燒牛肉麵"
    ]
   },
   "author": {
@@ -3355,6 +3355,41 @@
   ]
  },
  {
+  "id": "8025056705665759940",
+  "cid": "8025056705665759940",
+  "place_id": "ChIJg3eBU7g9aTQRxPqSI466Xm8",
+  "amap_id": null,
+  "maps_url": "https://maps.google.com/?cid=8025056705665759940",
+  "name": "蔗一攤大里成功店",
+  "address": "臺中市大里區瑞城里成功路467號",
+  "city": "台中市",
+  "lat": 24.089525,
+  "lng": 120.702802,
+  "category": "飲料・咖啡・酒",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "planned",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": [
+    "甘蔗牛奶"
+   ]
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgRSHN1kwyW"
+  ]
+ },
+ {
   "id": "14374355239781227522",
   "cid": "14374355239781227522",
   "place_id": "ChIJcYqkacurQjQRAlxvlu73e8c",
@@ -3896,41 +3931,6 @@
   },
   "sources": [
    "https://www.threads.com/@zeke_6973/post/Dfui7jDmjJ1"
-  ]
- },
- {
-  "id": "10143414860899880",
-  "cid": "10143414860899880",
-  "place_id": "ChIJA5BhuwSoQjQRKOaXz2EJJAA",
-  "amap_id": null,
-  "maps_url": "https://maps.google.com/?cid=10143414860899880",
-  "name": "小潘蛋糕坊 板橋中正店",
-  "address": "新北市板橋區社後里中正路135巷11-1號",
-  "city": "新北市",
-  "lat": 25.015482,
-  "lng": 121.45594,
-  "category": "早午餐・漢堡・麵包",
-  "brand": null,
-  "community": {
-   "recommendations": 1,
-   "recommenders": 1,
-   "author_reaction": "not_yet",
-   "asked_by_author": false,
-   "negative": 0,
-   "items": [
-    "裸裝的鳳梨酥"
-   ]
-  },
-  "author": {
-   "visited": false,
-   "recommends": null,
-   "saved": false,
-   "saved_at": null,
-   "saved_note": null,
-   "lists": []
-  },
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgPyh3AIOaE"
   ]
  },
  {
@@ -8503,6 +8503,39 @@
   },
   "sources": [
    "https://www.threads.com/@chengcheng0909/post/Df2JexHIIUl"
+  ]
+ },
+ {
+  "id": "amap:B0FFLI74VT",
+  "cid": null,
+  "place_id": null,
+  "amap_id": "B0FFLI74VT",
+  "maps_url": "https://uri.amap.com/poidetail?poiid=B0FFLI74VT&src=lala-food-feed",
+  "name": "水頭牛肉店(金榜店)",
+  "address": "福建省厦门市思明区厦禾路875-7号",
+  "city": "其他",
+  "lat": 24.470956,
+  "lng": 118.103434,
+  "category": "其他美食",
+  "brand": null,
+  "community": {
+   "recommendations": 1,
+   "recommenders": 1,
+   "author_reaction": "unknown",
+   "asked_by_author": false,
+   "negative": 0,
+   "items": []
+  },
+  "author": {
+   "visited": false,
+   "recommends": null,
+   "saved": false,
+   "saved_at": null,
+   "saved_note": null,
+   "lists": []
+  },
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgRVzEVE3lm"
   ]
  },
  {

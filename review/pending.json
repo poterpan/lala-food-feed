@@ -1,1 +1,147 @@
-[]
+[
+ {
+  "key": "taiwan|小潘鳳梨酥||新店",
+  "query": "小潘鳳梨酥 新店 景美",
+  "reasons": [
+   "decision_target_changed"
+  ],
+  "mentions": 2,
+  "by_author": true,
+  "candidate": {
+   "name": null,
+   "address": null,
+   "cid": null,
+   "place_id": null,
+   "maps": null
+  }
+ },
+ {
+  "key": "overseas|口力口湯咖喱||廈門",
+  "query": "口力口汤咖喱 厦门火车站",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 2,
+  "by_author": true,
+  "candidate": {
+   "name": "口力口汤咖喱",
+   "address": "福建省厦门市思明区洪莲路21-119号",
+   "cid": null,
+   "place_id": "amap:B0KULRFOE8",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0KULRFOE8&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "taiwan|特好喝||",
+  "query": "特好喝",
+  "reasons": [
+   "medium_score",
+   "not_food_type"
+  ],
+  "mentions": 2,
+  "by_author": true,
+  "candidate": {
+   "name": "特 ‧ 好喝 toptiertea 特好喝 三重台北橋店",
+   "address": "24142新北市三重區永興里重新路一段96號",
+   "cid": "15343153049001671197",
+   "place_id": "ChIJMSELpY6pQjQRHToyFGjU7dQ",
+   "maps": "https://maps.google.com/?cid=15343153049001671197"
+  }
+ },
+ {
+  "key": "taiwan|派克雞排|宿舍旁邊|遼寧街",
+  "query": "派克雞排 宿舍旁边 遼寧街 遼寧夜市",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": true,
+  "candidate": {
+   "name": "派克脆皮雞排 遼寧店",
+   "address": "104臺北市中山區力行里遼寧街37號",
+   "cid": "5862727755358270341",
+   "place_id": "ChIJb8oI8NqrQjQRhfPz2NSXXFE",
+   "maps": "https://maps.google.com/?cid=5862727755358270341"
+  }
+ },
+ {
+  "key": "taiwan|派克雞排|遼寧街這邊|遼寧街",
+  "query": "派克雞排 遼寧街這邊 遼寧街",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "派克脆皮雞排 遼寧店",
+   "address": "104臺北市中山區力行里遼寧街37號",
+   "cid": "5862727755358270341",
+   "place_id": "ChIJb8oI8NqrQjQRhfPz2NSXXFE",
+   "maps": "https://maps.google.com/?cid=5862727755358270341"
+  }
+ },
+ {
+  "key": "taiwan|甘蔗媽媽||遼寧街",
+  "query": "甘蔗媽媽 遼寧街 遼寧夜市",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "甘蔗媽媽台北遼寧店",
+   "address": "104臺北市中山區朱崙里遼寧街2號",
+   "cid": "3409433525580887277",
+   "place_id": "ChIJk882wemrQjQR7XSOQbq9UC8",
+   "maps": "https://maps.google.com/?cid=3409433525580887277"
+  }
+ },
+ {
+  "key": "overseas|夢林夕大排檔||廈門",
+  "query": "梦林夕大排档 厦门火车站",
+  "reasons": [
+   "medium_score"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "林夕烧酒档(没有分店)",
+   "address": "福建省厦门市思明区后埭溪路105-101号(文灶地铁站2号口步行370米)",
+   "cid": null,
+   "place_id": "amap:B0FFHS2P8O",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFHS2P8O&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "overseas|川伯四果湯||廈門",
+  "query": "川伯四果汤 厦门火车站",
+  "reasons": [
+   "area_mismatch"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "黑市街川伯四果汤",
+   "address": "福建省厦门市思明区筼筜街道屿后北里375号之二",
+   "cid": null,
+   "place_id": "amap:B0FFHRSDFN",
+   "maps": "https://uri.amap.com/poidetail?poiid=B0FFHRSDFN&src=lala-food-feed"
+  }
+ },
+ {
+  "key": "taiwan|來日方茶||遼寧街",
+  "query": "來日方茶 遼寧街",
+  "reasons": [
+   "not_food_type"
+  ],
+  "mentions": 1,
+  "by_author": false,
+  "candidate": {
+   "name": "來日方茶 - 台北遼寧店",
+   "address": "104臺北市中山區力行里遼寧街46號",
+   "cid": "12390707923382580698",
+   "place_id": "ChIJa3JtJTOrQjQR2jXWIDWj9Ks",
+   "maps": "https://maps.google.com/?cid=12390707923382580698"
+  }
+ }
+]

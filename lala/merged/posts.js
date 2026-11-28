@@ -524,6 +524,11 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgNOdDcILOn",
    "date": "2026-11-26",
    "text": "很多啊，我现在最想吃富霸王猪脚\n（刚刚不小心点进您主页了，我家猫也会开抽屉啊笑死！）"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgRvuqPkxX8",
+   "date": "2026-11-28",
+   "text": "富霸王很好吃"
   }
  ],
  "10316514710429371839": [
@@ -747,6 +752,11 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgQOFCMk5oE",
    "date": "2026-11-27",
    "text": "这家是真好吃"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgRuNzjEwuC",
+   "date": "2026-11-28",
+   "text": "https://www.threads.com/share/BBlCqMJ2nG\n这家是我最喜欢的~\nCurry Lab. Tokyo 大安店\n可以试看看，老板兄妹人很好）"
   }
  ],
  "694526374424343264": [
@@ -861,6 +871,23 @@ window.LALA_POSTS = {
    "text": "金孫韓廚 義大利麵 (中山店)\n这个还可以，但是cp值不高，漂亮饭\n晴天去很漂亮，拍拍照"
   }
  ],
+ "9042420724587109494": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgPtwC2IJ3x",
+   "date": "2026-11-27",
+   "text": "谁推荐的60+tea\n好好喝啊，超级香…\n我真心感觉台湾饮控人很爽\n随随便便都可以买到各种\n无糖也很好喝的茶饮"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgPwo1CoPuH",
+   "date": "2026-11-27",
+   "text": "好喝的，这个纯茶真不错"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
+   "date": "2026-11-27",
+   "text": "1️⃣迷客夏 鲜奶系列\n芋头鲜奶/嫩仙草冻鲜奶都不错\n（冰的更好喝）\n\n2️⃣乌弄（可无糖，饮控）\n菊花茶（不过是季节产品，快下架了…）\n其他的也很好喝，推荐冬片仔\n\n3️⃣60+tea （可无糖，饮控）\n火乌龙+茶丸\n刚发现的，非常好喝的纯茶！\n唯一一家只喝过一次就推荐的\n\n4️⃣50岚\n推荐四季奶青、八冰绿、柠檬绿\n虽然但是，这个太大众了！\n\n5️⃣得正\n柠檬春乌龙/甘蔗春乌龙\n\n6️⃣甘蔗妈妈\n甘蔗鲜奶，这种搭配第一次见到啊！\n特别惊艳好喝，就是略甜"
+  }
+ ],
  "4233438229455444151": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/De_niX-oNXg",
@@ -967,23 +994,6 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DgPqPv1oP2k",
    "date": "2026-11-27",
    "text": "今天下课来新店简单吃点"
-  }
- ],
- "9042420724587109494": [
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgPtwC2IJ3x",
-   "date": "2026-11-27",
-   "text": "谁推荐的60+tea\n好好喝啊，超级香…\n我真心感觉台湾饮控人很爽\n随随便便都可以买到各种\n无糖也很好喝的茶饮"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgPwo1CoPuH",
-   "date": "2026-11-27",
-   "text": "好喝的，这个纯茶真不错"
-  },
-  {
-   "url": "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
-   "date": "2026-11-27",
-   "text": "1️⃣迷客夏 鲜奶系列\n芋头鲜奶/嫩仙草冻鲜奶都不错\n（冰的更好喝）\n\n2️⃣乌弄（可无糖，饮控）\n菊花茶（不过是季节产品，快下架了…）\n其他的也很好喝，推荐冬片仔\n\n3️⃣60+tea （可无糖，饮控）\n火乌龙+茶丸\n刚发现的，非常好喝的纯茶！\n唯一一家只喝过一次就推荐的\n\n4️⃣50岚\n推荐四季奶青、八冰绿、柠檬绿\n虽然但是，这个太大众了！\n\n5️⃣得正\n柠檬春乌龙/甘蔗春乌龙\n\n6️⃣甘蔗妈妈\n甘蔗鲜奶，这种搭配第一次见到啊！\n特别惊艳好喝，就是略甜"
   }
  ],
  "1048405376045569528": [
@@ -1197,6 +1207,18 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/DeJly9rgeER",
    "date": "2026-10-06",
    "text": "太及时了，我刚刚到"
+  }
+ ],
+ "9012471043113799965": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgSKcE5Ex3w",
+   "date": "2026-11-28",
+   "text": "猜猜我在哪\n提示一条街上有3家很爱的手摇饮店"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgSMAmSE6xS",
+   "date": "2026-11-28",
+   "text": "我也觉得"
   }
  ],
  "15326876942461443714": [
@@ -1534,6 +1556,18 @@ window.LALA_POSTS = {
    "text": "笑死，马上去吃了"
   }
  ],
+ "12923090827669382434": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgSMIlhk6Ka",
+   "date": "2026-11-28",
+   "text": "笑死，乌弄比较小众吧！"
+  },
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgSVNr5k68d",
+   "date": "2026-11-28",
+   "text": "乌弄、迷客夏、得正"
+  }
+ ],
  "11331086576664940148": [
   {
    "url": "https://www.threads.com/@zeke_6973/post/DgITbFeAdi2",
@@ -1546,6 +1580,13 @@ window.LALA_POSTS = {
    "url": "https://www.threads.com/@zeke_6973/post/Dfw7JCkIH2I",
    "date": "2026-11-15",
    "text": "wow，好～～"
+  }
+ ],
+ "1478576240692833592": [
+  {
+   "url": "https://www.threads.com/@zeke_6973/post/DgSVNr5k68d",
+   "date": "2026-11-28",
+   "text": "乌弄、迷客夏、得正"
   }
  ],
  "11762039475601713902": [

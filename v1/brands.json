@@ -206,6 +206,103 @@
   ]
  },
  {
+  "brand": "甘蔗媽媽",
+  "names_in_threads": {
+   "甘蔗媽媽": 11,
+   "甘蔗妈妈": 8
+  },
+  "stance": {
+   "author:recommend": 10,
+   "other_user:question": 1,
+   "other_user:recommend": 6,
+   "other_user:mention": 1,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "甘蔗系列",
+   "甘蔗鲜奶",
+   "甘蔗春茶",
+   "甘蔗",
+   "鮮奶"
+  ],
+  "comment": "甘蔗妈妈甘蔗系列",
+  "saved_branch_cids": [],
+  "first_seen": "2026-10-06T12:27:30Z",
+  "last_seen": "2026-11-28T03:25:34Z",
+  "mentions": 19,
+  "sources": [
+   "https://www.threads.com/@11lazyjustice11/post/DfO_XQMEaZf",
+   "https://www.threads.com/@jane65432000/post/DfTezJOElzx",
+   "https://www.threads.com/@zeke_6973/post/DeJyGojgWCl",
+   "https://www.threads.com/@zeke_6973/post/De_vhjiAVUA",
+   "https://www.threads.com/@zeke_6973/post/DfO8-62oPg2",
+   "https://www.threads.com/@zeke_6973/post/DfRsqSTAQm9",
+   "https://www.threads.com/@zeke_6973/post/DgFfrKhIN4l",
+   "https://www.threads.com/@zeke_6973/post/DgFqeUBIKXV",
+   "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
+   "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i",
+   "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
+   "https://www.threads.com/@zeke_6973/post/DgQSVdCE58l",
+   "https://www.threads.com/@zeke_6973/post/DgQS_RTEy0A",
+   "https://www.threads.com/@zeke_6973/post/DgRRk1sk6Qp",
+   "https://www.threads.com/@zeke_6973/post/DgRRl8kEy5C",
+   "https://www.threads.com/@zeke_6973/post/DgRSN2nk0H-"
+  ]
+ },
+ {
+  "brand": "迷客夏",
+  "names_in_threads": {
+   "迷客夏": 18
+  },
+  "stance": {
+   "author:recommend": 9,
+   "other_user:mixed": 1,
+   "other_user:question": 1,
+   "other_user:recommend": 5,
+   "other_user:mention": 1,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "鲜奶系列",
+   "嫩仙草冻奶",
+   "芋头",
+   "仙草鲜奶",
+   "芋头鲜奶",
+   "嫩仙草冻鲜奶"
+  ],
+  "comment": "迷客夏鲜奶系列",
+  "saved_branch_cids": [
+   "10125488561352514194",
+   "1478576240692833592"
+  ],
+  "first_seen": "2026-10-22T10:31:32Z",
+  "last_seen": "2026-11-28T04:43:46Z",
+  "mentions": 18,
+  "sources": [
+   "https://www.threads.com/@ch9r1i6/post/DgKHeqwEyyt",
+   "https://www.threads.com/@minato.520_/post/DfO-AEcGY2d",
+   "https://www.threads.com/@sx.res/post/DfUXqMdGZxn",
+   "https://www.threads.com/@wwynhennn/post/DgLRXUQEwIj",
+   "https://www.threads.com/@zeke_6973/post/DeyxjSZgeo2",
+   "https://www.threads.com/@zeke_6973/post/DfCFVMloJyS",
+   "https://www.threads.com/@zeke_6973/post/DfSIKJagVos",
+   "https://www.threads.com/@zeke_6973/post/DfU18SiAV4b",
+   "https://www.threads.com/@zeke_6973/post/DgFfrKhIN4l",
+   "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
+   "https://www.threads.com/@zeke_6973/post/DgH3ExRIP-3",
+   "https://www.threads.com/@zeke_6973/post/DgHyS_poBzs",
+   "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i",
+   "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
+   "https://www.threads.com/@zeke_6973/post/DgQSEZok2ES",
+   "https://www.threads.com/@zeke_6973/post/DgQSXGXE5zG",
+   "https://www.threads.com/@zeke_6973/post/DgRbKhJkzQR"
+  ]
+ },
+ {
   "brand": "丹丹",
   "names_in_threads": {
    "丹丹": 8,
@@ -287,97 +384,6 @@
   ]
  },
  {
-  "brand": "迷客夏",
-  "names_in_threads": {
-   "迷客夏": 16
-  },
-  "stance": {
-   "author:recommend": 9,
-   "other_user:mixed": 1,
-   "other_user:question": 1,
-   "other_user:recommend": 4,
-   "other_user:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "鲜奶系列",
-   "嫩仙草冻奶",
-   "芋头",
-   "仙草鲜奶",
-   "芋头鲜奶",
-   "嫩仙草冻鲜奶"
-  ],
-  "comment": "迷客夏鲜奶系列",
-  "saved_branch_cids": [
-   "10125488561352514194",
-   "1478576240692833592"
-  ],
-  "first_seen": "2026-10-22T10:31:32Z",
-  "last_seen": "2026-11-27T18:07:36Z",
-  "mentions": 16,
-  "sources": [
-   "https://www.threads.com/@ch9r1i6/post/DgKHeqwEyyt",
-   "https://www.threads.com/@minato.520_/post/DfO-AEcGY2d",
-   "https://www.threads.com/@sx.res/post/DfUXqMdGZxn",
-   "https://www.threads.com/@wwynhennn/post/DgLRXUQEwIj",
-   "https://www.threads.com/@zeke_6973/post/DeyxjSZgeo2",
-   "https://www.threads.com/@zeke_6973/post/DfCFVMloJyS",
-   "https://www.threads.com/@zeke_6973/post/DfSIKJagVos",
-   "https://www.threads.com/@zeke_6973/post/DfU18SiAV4b",
-   "https://www.threads.com/@zeke_6973/post/DgFfrKhIN4l",
-   "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
-   "https://www.threads.com/@zeke_6973/post/DgH3ExRIP-3",
-   "https://www.threads.com/@zeke_6973/post/DgHyS_poBzs",
-   "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i",
-   "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
-   "https://www.threads.com/@zeke_6973/post/DgQSEZok2ES",
-   "https://www.threads.com/@zeke_6973/post/DgQSXGXE5zG"
-  ]
- },
- {
-  "brand": "甘蔗妈妈",
-  "names_in_threads": {
-   "甘蔗妈妈": 8,
-   "甘蔗媽媽": 7
-  },
-  "stance": {
-   "author:recommend": 9,
-   "other_user:question": 1,
-   "other_user:recommend": 3,
-   "other_user:mention": 1,
-   "author:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "甘蔗系列",
-   "甘蔗鲜奶",
-   "甘蔗春茶",
-   "甘蔗"
-  ],
-  "comment": "甘蔗妈妈甘蔗系列",
-  "saved_branch_cids": [],
-  "first_seen": "2026-10-06T12:27:30Z",
-  "last_seen": "2026-11-27T18:13:05Z",
-  "mentions": 15,
-  "sources": [
-   "https://www.threads.com/@11lazyjustice11/post/DfO_XQMEaZf",
-   "https://www.threads.com/@jane65432000/post/DfTezJOElzx",
-   "https://www.threads.com/@zeke_6973/post/DeJyGojgWCl",
-   "https://www.threads.com/@zeke_6973/post/De_vhjiAVUA",
-   "https://www.threads.com/@zeke_6973/post/DfO8-62oPg2",
-   "https://www.threads.com/@zeke_6973/post/DfRsqSTAQm9",
-   "https://www.threads.com/@zeke_6973/post/DgFfrKhIN4l",
-   "https://www.threads.com/@zeke_6973/post/DgFqeUBIKXV",
-   "https://www.threads.com/@zeke_6973/post/DgFqo0RoO4-",
-   "https://www.threads.com/@zeke_6973/post/DgMHZqpIP-i",
-   "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
-   "https://www.threads.com/@zeke_6973/post/DgQSVdCE58l",
-   "https://www.threads.com/@zeke_6973/post/DgQS_RTEy0A"
-  ]
- },
- {
   "brand": "摩斯",
   "names_in_threads": {
    "摩斯漢堡": 8,
@@ -453,6 +459,48 @@
    "https://www.threads.com/@zeke_6973/post/DgFbRBXIOti",
    "https://www.threads.com/@zeke_6973/post/DgFbi6loA2x",
    "https://www.threads.com/@zeke_6973/post/DgFcA5ToJjU"
+  ]
+ },
+ {
+  "brand": "50嵐",
+  "names_in_threads": {
+   "50岚": 7,
+   "50嵐": 6
+  },
+  "stance": {
+   "other_user:mention": 2,
+   "other_user:recommend": 2,
+   "author:recommend": 3,
+   "author:mention": 5,
+   "other_user:question": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "四季奶青",
+   "八冰绿",
+   "柠檬绿",
+   "手摇饮",
+   "拿铁",
+   "拿铁类"
+  ],
+  "comment": "我最爱50岚。",
+  "saved_branch_cids": [],
+  "first_seen": "2026-09-28T15:44:58Z",
+  "last_seen": "2026-11-28T03:22:21Z",
+  "mentions": 13,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/Dd1iV8SgWf1",
+   "https://www.threads.com/@zeke_6973/post/DeB8UOoAQpi",
+   "https://www.threads.com/@zeke_6973/post/De_oNkSASkD",
+   "https://www.threads.com/@zeke_6973/post/DfAazqmgZqz",
+   "https://www.threads.com/@zeke_6973/post/DfQznchAUy6",
+   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_",
+   "https://www.threads.com/@zeke_6973/post/DgP33dHIGgl",
+   "https://www.threads.com/@zeke_6973/post/DgP5gROoMRx",
+   "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
+   "https://www.threads.com/@zeke_6973/post/DgQTuDfk5de",
+   "https://www.threads.com/@zeke_6973/post/DgRR2Sek-xM"
   ]
  },
  {
@@ -536,46 +584,6 @@
    "https://www.threads.com/@zeke_6973/post/DfW_u23ATb1",
    "https://www.threads.com/@zeke_6973/post/DfXDBr1gVCv",
    "https://www.threads.com/@zeke_6973/post/DfuXcbBoK9r"
-  ]
- },
- {
-  "brand": "50嵐",
-  "names_in_threads": {
-   "50嵐": 6,
-   "50岚": 6
-  },
-  "stance": {
-   "other_user:mention": 2,
-   "other_user:recommend": 2,
-   "author:recommend": 3,
-   "author:mention": 4,
-   "other_user:question": 1
-  },
-  "experience": "visited",
-  "author_recommends": true,
-  "items": [
-   "四季奶青",
-   "八冰绿",
-   "柠檬绿",
-   "手摇饮",
-   "拿铁类"
-  ],
-  "comment": "我最爱50岚。",
-  "saved_branch_cids": [],
-  "first_seen": "2026-09-28T15:44:58Z",
-  "last_seen": "2026-11-27T18:19:28Z",
-  "mentions": 12,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dd1iV8SgWf1",
-   "https://www.threads.com/@zeke_6973/post/DeB8UOoAQpi",
-   "https://www.threads.com/@zeke_6973/post/De_oNkSASkD",
-   "https://www.threads.com/@zeke_6973/post/DfAazqmgZqz",
-   "https://www.threads.com/@zeke_6973/post/DfQznchAUy6",
-   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_",
-   "https://www.threads.com/@zeke_6973/post/DgP33dHIGgl",
-   "https://www.threads.com/@zeke_6973/post/DgP5gROoMRx",
-   "https://www.threads.com/@zeke_6973/post/DgQQ5b1k5vE",
-   "https://www.threads.com/@zeke_6973/post/DgQTuDfk5de"
   ]
  },
  {
@@ -1058,6 +1066,33 @@
    "https://www.threads.com/@zeke_6973/post/DfXgLKpk-Q5",
    "https://www.threads.com/@zeke_6973/post/DgOsjfpIEd8",
    "https://www.threads.com/@zeke_6973/post/DgOyoNvgc5z"
+  ]
+ },
+ {
+  "brand": "五桐號",
+  "names_in_threads": {
+   "五桐號": 5
+  },
+  "stance": {
+   "other_user:mention": 1,
+   "other_user:recommend": 2,
+   "author:mention": 1,
+   "author:recommend": 1
+  },
+  "experience": "visited",
+  "author_recommends": true,
+  "items": [
+   "杏仁凍五桐茶"
+  ],
+  "comment": "哈哈哈哈我也喜欢那个",
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-12T02:26:31Z",
+  "last_seen": "2026-11-28T03:20:07Z",
+  "mentions": 5,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_",
+   "https://www.threads.com/@zeke_6973/post/DgRRk1sk6Qp",
+   "https://www.threads.com/@zeke_6973/post/DgRRl8kEy5C"
   ]
  },
  {
@@ -1631,6 +1666,27 @@
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DdYnWPzoJP2",
    "https://www.threads.com/@zeke_6973/post/DdYonlYoIbV"
+  ]
+ },
+ {
+  "brand": "一手私藏",
+  "names_in_threads": {
+   "一手私藏": 3
+  },
+  "stance": {
+   "other_user:recommend": 2,
+   "author:mention": 1
+  },
+  "experience": "visited",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-27T18:04:51Z",
+  "last_seen": "2026-11-28T09:49:15Z",
+  "mentions": 3,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgQSDAtE1by",
+   "https://www.threads.com/@zeke_6973/post/DgR-H9kEyvV"
   ]
  },
  {
@@ -2278,6 +2334,30 @@
   "mentions": 2,
   "sources": [
    "https://www.threads.com/@zeke_6973/post/DgQKf3ok_Pf"
+  ]
+ },
+ {
+  "brand": "古茂宜",
+  "names_in_threads": {
+   "古茂宜": 2
+  },
+  "stance": {
+   "other_user:mention": 1,
+   "other_user:recommend": 1
+  },
+  "experience": "planned",
+  "author_recommends": false,
+  "items": [],
+  "saved_branch_cids": [
+   "14294375594988980892",
+   "588812754207182502"
+  ],
+  "first_seen": "2026-11-27T14:59:18Z",
+  "last_seen": "2026-11-28T12:08:59Z",
+  "mentions": 2,
+  "sources": [
+   "https://www.threads.com/@zeke_6973/post/DgP80CuoKLa",
+   "https://www.threads.com/@zeke_6973/post/DgSOHdnk69K"
   ]
  },
  {
@@ -3429,25 +3509,6 @@
   ]
  },
  {
-  "brand": "五桐號",
-  "names_in_threads": {
-   "五桐號": 1
-  },
-  "stance": {
-   "other_user:mention": 1
-  },
-  "experience": "visited",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-12T02:26:31Z",
-  "last_seen": "2026-11-12T02:26:31Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/Dfn-vRSgUG_"
-  ]
- },
- {
   "brand": "曼谷小舖",
   "names_in_threads": {
    "曼谷小舖": 1
@@ -4532,25 +4593,6 @@
   ]
  },
  {
-  "brand": "一手私藏",
-  "names_in_threads": {
-   "一手私藏": 1
-  },
-  "stance": {
-   "other_user:recommend": 1
-  },
-  "experience": "not_yet",
-  "author_recommends": false,
-  "items": [],
-  "saved_branch_cids": [],
-  "first_seen": "2026-11-27T18:04:51Z",
-  "last_seen": "2026-11-27T18:04:51Z",
-  "mentions": 1,
-  "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgQSDAtE1by"
-  ]
- },
- {
   "brand": "潮发",
   "names_in_threads": {
    "潮发": 1
@@ -4589,9 +4631,9 @@
   ]
  },
  {
-  "brand": "古茂宜",
+  "brand": "旭集",
   "names_in_threads": {
-   "古茂宜": 1
+   "旭集": 1
   },
   "stance": {
    "other_user:mention": 1
@@ -4599,15 +4641,12 @@
   "experience": "unknown",
   "author_recommends": false,
   "items": [],
-  "saved_branch_cids": [
-   "14294375594988980892",
-   "588812754207182502"
-  ],
-  "first_seen": "2026-11-27T14:59:18Z",
-  "last_seen": "2026-11-27T14:59:18Z",
+  "saved_branch_cids": [],
+  "first_seen": "2026-11-28T06:57:26Z",
+  "last_seen": "2026-11-28T06:57:26Z",
   "mentions": 1,
   "sources": [
-   "https://www.threads.com/@zeke_6973/post/DgP80CuoKLa"
+   "https://www.threads.com/@zeke_6973/post/DgRqdnOE3dE"
   ]
  },
  {
